@@ -1,0 +1,7642 @@
+{
+  "source_file": "C:/Users/Asus/Desktop/IELTS/input/interview.mp3",
+  "language": "en",
+  "duration_seconds": 858.6,
+  "alignment_completed": true,
+  "segments": [
+    {
+      "start": 9.869,
+      "end": 12.631,
+      "text": " Good morning, welcome to IBM IELTS Academy.",
+      "words": [
+        {
+          "word": "Good",
+          "start": 9.869,
+          "end": 9.989,
+          "score": 0.366
+        },
+        {
+          "word": "morning,",
+          "start": 10.029,
+          "end": 10.549,
+          "score": 0.582
+        },
+        {
+          "word": "welcome",
+          "start": 10.569,
+          "end": 10.95,
+          "score": 0.764
+        },
+        {
+          "word": "to",
+          "start": 10.97,
+          "end": 11.05,
+          "score": 0.652
+        },
+        {
+          "word": "IBM",
+          "start": 11.25,
+          "end": 11.61,
+          "score": 0.78
+        },
+        {
+          "word": "IELTS",
+          "start": 11.77,
+          "end": 12.05,
+          "score": 0.564
+        },
+        {
+          "word": "Academy.",
+          "start": 12.15,
+          "end": 12.631,
+          "score": 0.979
+        }
+      ],
+      "avg_logprob": -0.11056276449223154
+    },
+    {
+      "start": 13.111,
+      "end": 15.873,
+      "text": "This is the speaking section of the IELTS exam.",
+      "words": [
+        {
+          "word": "This",
+          "start": 13.111,
+          "end": 13.271,
+          "score": 0.997
+        },
+        {
+          "word": "is",
+          "start": 13.351,
+          "end": 13.431,
+          "score": 0.784
+        },
+        {
+          "word": "the",
+          "start": 13.471,
+          "end": 13.591,
+          "score": 0.976
+        },
+        {
+          "word": "speaking",
+          "start": 13.651,
+          "end": 14.072,
+          "score": 0.93
+        },
+        {
+          "word": "section",
+          "start": 14.132,
+          "end": 14.532,
+          "score": 0.882
+        },
+        {
+          "word": "of",
+          "start": 14.712,
+          "end": 14.792,
+          "score": 0.835
+        },
+        {
+          "word": "the",
+          "start": 14.832,
+          "end": 14.912,
+          "score": 0.806
+        },
+        {
+          "word": "IELTS",
+          "start": 15.072,
+          "end": 15.392,
+          "score": 0.62
+        },
+        {
+          "word": "exam.",
+          "start": 15.452,
+          "end": 15.873,
+          "score": 0.75
+        }
+      ],
+      "avg_logprob": -0.11056276449223154
+    },
+    {
+      "start": 16.053,
+      "end": 18.935,
+      "text": "The interview will take around 15 minutes.",
+      "words": [
+        {
+          "word": "The",
+          "start": 16.053,
+          "end": 16.133,
+          "score": 0.819
+        },
+        {
+          "word": "interview",
+          "start": 16.153,
+          "end": 16.693,
+          "score": 0.92
+        },
+        {
+          "word": "will",
+          "start": 16.733,
+          "end": 16.953,
+          "score": 0.768
+        },
+        {
+          "word": "take",
+          "start": 16.993,
+          "end": 17.414,
+          "score": 0.829
+        },
+        {
+          "word": "around",
+          "start": 17.434,
+          "end": 18.034,
+          "score": 0.865
+        },
+        {
+          "word": "15",
+          "start": 18.054,
+          "end": 18.554,
+          "score": 0.649
+        },
+        {
+          "word": "minutes.",
+          "start": 18.614,
+          "end": 18.935,
+          "score": 0.855
+        }
+      ],
+      "avg_logprob": -0.11056276449223154
+    },
+    {
+      "start": 19.135,
+      "end": 22.317,
+      "text": "I will ask you some questions in three parts, okay?",
+      "words": [
+        {
+          "word": "I",
+          "start": 19.135,
+          "end": 19.175,
+          "score": 0.977
+        },
+        {
+          "word": "will",
+          "start": 19.195,
+          "end": 19.375,
+          "score": 0.784
+        },
+        {
+          "word": "ask",
+          "start": 19.475,
+          "end": 19.675,
+          "score": 0.956
+        },
+        {
+          "word": "you",
+          "start": 19.715,
+          "end": 19.835,
+          "score": 0.899
+        },
+        {
+          "word": "some",
+          "start": 19.875,
+          "end": 20.015,
+          "score": 0.809
+        },
+        {
+          "word": "questions",
+          "start": 20.075,
+          "end": 20.556,
+          "score": 0.896
+        },
+        {
+          "word": "in",
+          "start": 20.616,
+          "end": 20.716,
+          "score": 0.751
+        },
+        {
+          "word": "three",
+          "start": 20.996,
+          "end": 21.216,
+          "score": 0.818
+        },
+        {
+          "word": "parts,",
+          "start": 21.276,
+          "end": 21.616,
+          "score": 0.836
+        },
+        {
+          "word": "okay?",
+          "start": 21.977,
+          "end": 22.317,
+          "score": 0.805
+        }
+      ],
+      "avg_logprob": -0.11056276449223154
+    },
+    {
+      "start": 23.237,
+      "end": 26.619,
+      "text": "Examiner is Sarah Parker and examiner number is 7-9-2-0-2-1.",
+      "words": [
+        {
+          "word": "Examiner",
+          "start": 23.237,
+          "end": 23.778,
+          "score": 0.869
+        },
+        {
+          "word": "is",
+          "start": 23.878,
+          "end": 23.958,
+          "score": 0.918
+        },
+        {
+          "word": "Sarah",
+          "start": 24.018,
+          "end": 24.318,
+          "score": 0.644
+        },
+        {
+          "word": "Parker",
+          "start": 24.338,
+          "end": 24.818,
+          "score": 0.875
+        },
+        {
+          "word": "and",
+          "start": 25.038,
+          "end": 25.179,
+          "score": 0.424
+        },
+        {
+          "word": "examiner",
+          "start": 25.239,
+          "end": 25.719,
+          "score": 0.769
+        },
+        {
+          "word": "number",
+          "start": 25.759,
+          "end": 26.039,
+          "score": 0.885
+        },
+        {
+          "word": "is",
+          "start": 26.179,
+          "end": 26.279,
+          "score": 0.782
+        },
+        {
+          "word": "7-9-2-0-2-1.",
+          "start": 26.299,
+          "end": 26.619,
+          "score": 0.895
+        }
+      ],
+      "avg_logprob": -0.11056276449223154
+    },
+    {
+      "start": 26.639,
+      "end": 30.002,
+      "text": "Candidate is David Smith and candidate number is 2-3-5-8-9.",
+      "words": [
+        {
+          "word": "Candidate",
+          "start": 26.639,
+          "end": 27.2,
+          "score": 0.543
+        },
+        {
+          "word": "is",
+          "start": 27.22,
+          "end": 27.26,
+          "score": 0.0
+        },
+        {
+          "word": "David",
+          "start": 27.7,
+          "end": 28.04,
+          "score": 0.542
+        },
+        {
+          "word": "Smith",
+          "start": 28.12,
+          "end": 28.32,
+          "score": 0.258
+        },
+        {
+          "word": "and",
+          "start": 28.541,
+          "end": 28.701,
+          "score": 0.284
+        },
+        {
+          "word": "candidate",
+          "start": 28.841,
+          "end": 29.381,
+          "score": 0.935
+        },
+        {
+          "word": "number",
+          "start": 29.401,
+          "end": 29.541,
+          "score": 0.082
+        },
+        {
+          "word": "is",
+          "start": 29.561,
+          "end": 29.681,
+          "score": 0.864
+        },
+        {
+          "word": "2-3-5-8-9.",
+          "start": 29.721,
+          "end": 30.002,
+          "score": 0.694
+        }
+      ],
+      "avg_logprob": -0.11056276449223154
+    },
+    {
+      "start": 30.022,
+      "end": 31.062,
+      "text": "May I see your ID card?",
+      "words": [
+        {
+          "word": "May",
+          "start": 30.022,
+          "end": 30.082,
+          "score": 0.002
+        },
+        {
+          "word": "I",
+          "start": 30.102,
+          "end": 30.122,
+          "score": 0.0
+        },
+        {
+          "word": "see",
+          "start": 30.162,
+          "end": 30.382,
+          "score": 0.786
+        },
+        {
+          "word": "your",
+          "start": 30.402,
+          "end": 30.742,
+          "score": 0.379
+        },
+        {
+          "word": "ID",
+          "start": 30.762,
+          "end": 30.802,
+          "score": 0.0
+        },
+        {
+          "word": "card?",
+          "start": 30.842,
+          "end": 31.062,
+          "score": 0.908
+        }
+      ],
+      "avg_logprob": -0.11056276449223154
+    },
+    {
+      "start": 31.082,
+      "end": 31.623,
+      "text": "Here you are.",
+      "words": [
+        {
+          "word": "Here",
+          "start": 31.082,
+          "end": 31.262,
+          "score": 0.396
+        },
+        {
+          "word": "you",
+          "start": 31.322,
+          "end": 31.462,
+          "score": 0.45
+        },
+        {
+          "word": "are.",
+          "start": 31.522,
+          "end": 31.623,
+          "score": 0.588
+        }
+      ],
+      "avg_logprob": -0.11056276449223154
+    },
+    {
+      "start": 40.217,
+      "end": 40.477,
+      "text": " Okay?",
+      "words": [
+        {
+          "word": "Okay?",
+          "start": 40.217,
+          "end": 40.477,
+          "score": 0.7
+        }
+      ],
+      "avg_logprob": -0.1311419975872223
+    },
+    {
+      "start": 41.518,
+      "end": 42.018,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 41.518,
+          "end": 41.718,
+          "score": 0.248
+        },
+        {
+          "word": "you.",
+          "start": 41.738,
+          "end": 42.018,
+          "score": 0.774
+        }
+      ],
+      "avg_logprob": -0.1311419975872223
+    },
+    {
+      "start": 44.1,
+      "end": 45.201,
+      "text": "What's your full name?",
+      "words": [
+        {
+          "word": "What's",
+          "start": 44.1,
+          "end": 44.36,
+          "score": 0.82
+        },
+        {
+          "word": "your",
+          "start": 44.38,
+          "end": 44.58,
+          "score": 0.854
+        },
+        {
+          "word": "full",
+          "start": 44.66,
+          "end": 44.9,
+          "score": 0.73
+        },
+        {
+          "word": "name?",
+          "start": 44.94,
+          "end": 45.201,
+          "score": 0.659
+        }
+      ],
+      "avg_logprob": -0.1311419975872223
+    },
+    {
+      "start": 47.102,
+      "end": 52.246,
+      "text": "My name is David and my last name is Smith.",
+      "words": [
+        {
+          "word": "My",
+          "start": 47.102,
+          "end": 47.242,
+          "score": 0.998
+        },
+        {
+          "word": "name",
+          "start": 47.302,
+          "end": 47.482,
+          "score": 0.934
+        },
+        {
+          "word": "is",
+          "start": 47.562,
+          "end": 49.123,
+          "score": 0.658
+        },
+        {
+          "word": "David",
+          "start": 49.244,
+          "end": 49.724,
+          "score": 0.839
+        },
+        {
+          "word": "and",
+          "start": 49.944,
+          "end": 50.044,
+          "score": 0.926
+        },
+        {
+          "word": "my",
+          "start": 50.204,
+          "end": 50.344,
+          "score": 0.836
+        },
+        {
+          "word": "last",
+          "start": 50.424,
+          "end": 50.685,
+          "score": 0.898
+        },
+        {
+          "word": "name",
+          "start": 50.705,
+          "end": 50.905,
+          "score": 0.825
+        },
+        {
+          "word": "is",
+          "start": 50.985,
+          "end": 51.285,
+          "score": 0.588
+        },
+        {
+          "word": "Smith.",
+          "start": 51.845,
+          "end": 52.246,
+          "score": 0.842
+        }
+      ],
+      "avg_logprob": -0.1311419975872223
+    },
+    {
+      "start": 53.086,
+      "end": 60.532,
+      "text": "I'm from Sweden and I'm 27 years old.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 53.086,
+          "end": 53.206,
+          "score": 0.412
+        },
+        {
+          "word": "from",
+          "start": 53.286,
+          "end": 53.607,
+          "score": 0.896
+        },
+        {
+          "word": "Sweden",
+          "start": 53.987,
+          "end": 55.068,
+          "score": 0.739
+        },
+        {
+          "word": "and",
+          "start": 55.088,
+          "end": 57.61,
+          "score": 0.581
+        },
+        {
+          "word": "I'm",
+          "start": 58.49,
+          "end": 58.67,
+          "score": 0.809
+        },
+        {
+          "word": "27",
+          "start": 58.79,
+          "end": 59.031,
+          "score": 0.718
+        },
+        {
+          "word": "years",
+          "start": 59.131,
+          "end": 60.332,
+          "score": 0.748
+        },
+        {
+          "word": "old.",
+          "start": 60.412,
+          "end": 60.532,
+          "score": 0.342
+        }
+      ],
+      "avg_logprob": -0.1311419975872223
+    },
+    {
+      "start": 60.912,
+      "end": 61.412,
+      "text": "Okay.",
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 60.912,
+          "end": 61.412,
+          "score": 0.779
+        }
+      ],
+      "avg_logprob": -0.1311419975872223
+    },
+    {
+      "start": 62.333,
+      "end": 63.354,
+      "text": "Where are you from?",
+      "words": [
+        {
+          "word": "Where",
+          "start": 62.333,
+          "end": 62.533,
+          "score": 0.886
+        },
+        {
+          "word": "are",
+          "start": 62.593,
+          "end": 62.693,
+          "score": 0.734
+        },
+        {
+          "word": "you",
+          "start": 62.733,
+          "end": 62.833,
+          "score": 0.991
+        },
+        {
+          "word": "from?",
+          "start": 62.953,
+          "end": 63.354,
+          "score": 0.917
+        }
+      ],
+      "avg_logprob": -0.1311419975872223
+    },
+    {
+      "start": 64.354,
+      "end": 65.916,
+      "text": "I'm from Sweden.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 64.354,
+          "end": 64.475,
+          "score": 0.233
+        },
+        {
+          "word": "from",
+          "start": 64.515,
+          "end": 65.175,
+          "score": 0.828
+        },
+        {
+          "word": "Sweden.",
+          "start": 65.535,
+          "end": 65.916,
+          "score": 0.645
+        }
+      ],
+      "avg_logprob": -0.1311419975872223
+    },
+    {
+      "start": 67.457,
+      "end": 68.998,
+      "text": "Do you work or study?",
+      "words": [
+        {
+          "word": "Do",
+          "start": 67.457,
+          "end": 67.517,
+          "score": 0.76
+        },
+        {
+          "word": "you",
+          "start": 67.557,
+          "end": 67.717,
+          "score": 0.658
+        },
+        {
+          "word": "work",
+          "start": 67.777,
+          "end": 68.117,
+          "score": 0.934
+        },
+        {
+          "word": "or",
+          "start": 68.337,
+          "end": 68.457,
+          "score": 0.74
+        },
+        {
+          "word": "study?",
+          "start": 68.618,
+          "end": 68.998,
+          "score": 0.925
+        }
+      ],
+      "avg_logprob": -0.1311419975872223
+    },
+    {
+      "start": 70.598,
+      "end": 87.29,
+      "text": " I study for English language for IS exam and I like to immigrate to another country.",
+      "words": [
+        {
+          "word": "I",
+          "start": 70.598,
+          "end": 70.698,
+          "score": 0.796
+        },
+        {
+          "word": "study",
+          "start": 70.778,
+          "end": 71.318,
+          "score": 0.908
+        },
+        {
+          "word": "for",
+          "start": 71.819,
+          "end": 75.501,
+          "score": 0.934
+        },
+        {
+          "word": "English",
+          "start": 75.661,
+          "end": 76.002,
+          "score": 0.625
+        },
+        {
+          "word": "language",
+          "start": 76.042,
+          "end": 76.502,
+          "score": 0.869
+        },
+        {
+          "word": "for",
+          "start": 76.862,
+          "end": 77.102,
+          "score": 0.701
+        },
+        {
+          "word": "IS",
+          "start": 77.122,
+          "end": 77.162,
+          "score": 0.0
+        },
+        {
+          "word": "exam",
+          "start": 77.783,
+          "end": 78.243,
+          "score": 0.768
+        },
+        {
+          "word": "and",
+          "start": 78.924,
+          "end": 79.444,
+          "score": 0.781
+        },
+        {
+          "word": "I",
+          "start": 79.684,
+          "end": 79.784,
+          "score": 0.799
+        },
+        {
+          "word": "like",
+          "start": 79.804,
+          "end": 80.065,
+          "score": 0.916
+        },
+        {
+          "word": "to",
+          "start": 80.105,
+          "end": 80.365,
+          "score": 0.99
+        },
+        {
+          "word": "immigrate",
+          "start": 81.005,
+          "end": 82.626,
+          "score": 0.86
+        },
+        {
+          "word": "to",
+          "start": 82.927,
+          "end": 83.207,
+          "score": 0.877
+        },
+        {
+          "word": "another",
+          "start": 83.287,
+          "end": 83.667,
+          "score": 0.866
+        },
+        {
+          "word": "country.",
+          "start": 83.747,
+          "end": 87.29,
+          "score": 0.956
+        }
+      ],
+      "avg_logprob": -0.1850998247111285
+    },
+    {
+      "start": 88.431,
+      "end": 89.031,
+      "text": "Okay.",
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 88.431,
+          "end": 89.031,
+          "score": 0.833
+        }
+      ],
+      "avg_logprob": -0.1850998247111285
+    },
+    {
+      "start": 90.432,
+      "end": 91.633,
+      "text": "Do you have any job?",
+      "words": [
+        {
+          "word": "Do",
+          "start": 90.432,
+          "end": 90.532,
+          "score": 0.965
+        },
+        {
+          "word": "you",
+          "start": 90.552,
+          "end": 90.672,
+          "score": 0.828
+        },
+        {
+          "word": "have",
+          "start": 90.732,
+          "end": 90.932,
+          "score": 0.889
+        },
+        {
+          "word": "any",
+          "start": 91.053,
+          "end": 91.233,
+          "score": 0.792
+        },
+        {
+          "word": "job?",
+          "start": 91.293,
+          "end": 91.633,
+          "score": 0.953
+        }
+      ],
+      "avg_logprob": -0.1850998247111285
+    },
+    {
+      "start": 93.258,
+      "end": 104.243,
+      "text": " I used to work in a factory that is homemade furniture, but now I'm used to study foreign language.",
+      "words": [
+        {
+          "word": "I",
+          "start": 93.258,
+          "end": 93.338,
+          "score": 0.74
+        },
+        {
+          "word": "used",
+          "start": 93.398,
+          "end": 93.558,
+          "score": 0.72
+        },
+        {
+          "word": "to",
+          "start": 93.578,
+          "end": 93.718,
+          "score": 0.737
+        },
+        {
+          "word": "work",
+          "start": 93.858,
+          "end": 94.259,
+          "score": 0.978
+        },
+        {
+          "word": "in",
+          "start": 94.939,
+          "end": 95.039,
+          "score": 0.752
+        },
+        {
+          "word": "a",
+          "start": 95.219,
+          "end": 95.339,
+          "score": 0.707
+        },
+        {
+          "word": "factory",
+          "start": 95.459,
+          "end": 96.059,
+          "score": 0.911
+        },
+        {
+          "word": "that",
+          "start": 97.12,
+          "end": 97.34,
+          "score": 0.917
+        },
+        {
+          "word": "is",
+          "start": 97.44,
+          "end": 97.56,
+          "score": 0.975
+        },
+        {
+          "word": "homemade",
+          "start": 97.58,
+          "end": 99.161,
+          "score": 0.542
+        },
+        {
+          "word": "furniture,",
+          "start": 99.181,
+          "end": 100.101,
+          "score": 0.583
+        },
+        {
+          "word": "but",
+          "start": 100.121,
+          "end": 100.241,
+          "score": 0.248
+        },
+        {
+          "word": "now",
+          "start": 100.621,
+          "end": 100.921,
+          "score": 0.771
+        },
+        {
+          "word": "I'm",
+          "start": 101.061,
+          "end": 101.221,
+          "score": 0.606
+        },
+        {
+          "word": "used",
+          "start": 101.341,
+          "end": 101.521,
+          "score": 0.418
+        },
+        {
+          "word": "to",
+          "start": 101.562,
+          "end": 101.762,
+          "score": 0.71
+        },
+        {
+          "word": "study",
+          "start": 101.782,
+          "end": 103.242,
+          "score": 0.473
+        },
+        {
+          "word": "foreign",
+          "start": 103.522,
+          "end": 103.722,
+          "score": 0.222
+        },
+        {
+          "word": "language.",
+          "start": 103.742,
+          "end": 104.243,
+          "score": 0.578
+        }
+      ],
+      "avg_logprob": -0.24680642718854157
+    },
+    {
+      "start": 120.245,
+      "end": 123.393,
+      "text": " Did you treat your co-worker as well?",
+      "words": [
+        {
+          "word": "Did",
+          "start": 120.245,
+          "end": 120.505,
+          "score": 0.844
+        },
+        {
+          "word": "you",
+          "start": 120.546,
+          "end": 120.686,
+          "score": 0.826
+        },
+        {
+          "word": "treat",
+          "start": 120.786,
+          "end": 121.127,
+          "score": 0.657
+        },
+        {
+          "word": "your",
+          "start": 121.227,
+          "end": 121.648,
+          "score": 0.769
+        },
+        {
+          "word": "co-worker",
+          "start": 122.049,
+          "end": 122.911,
+          "score": 0.707
+        },
+        {
+          "word": "as",
+          "start": 122.931,
+          "end": 122.972,
+          "score": 0.004
+        },
+        {
+          "word": "well?",
+          "start": 123.072,
+          "end": 123.393,
+          "score": 0.923
+        }
+      ],
+      "avg_logprob": -0.2155586535280401
+    },
+    {
+      "start": 125.397,
+      "end": 148.166,
+      "text": " Yes, in the quarter, where I used to work in that place, the quarter is good and behave very well.",
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 125.397,
+          "end": 125.697,
+          "score": 0.93
+        },
+        {
+          "word": "in",
+          "start": 127.478,
+          "end": 127.618,
+          "score": 0.69
+        },
+        {
+          "word": "the",
+          "start": 128.559,
+          "end": 128.679,
+          "score": 0.87
+        },
+        {
+          "word": "quarter,",
+          "start": 128.779,
+          "end": 129.499,
+          "score": 0.849
+        },
+        {
+          "word": "where",
+          "start": 130.699,
+          "end": 131.6,
+          "score": 0.765
+        },
+        {
+          "word": "I",
+          "start": 131.62,
+          "end": 131.64,
+          "score": 0.001
+        },
+        {
+          "word": "used",
+          "start": 131.66,
+          "end": 133.32,
+          "score": 0.766
+        },
+        {
+          "word": "to",
+          "start": 134.241,
+          "end": 134.561,
+          "score": 0.367
+        },
+        {
+          "word": "work",
+          "start": 135.401,
+          "end": 136.802,
+          "score": 0.865
+        },
+        {
+          "word": "in",
+          "start": 137.002,
+          "end": 137.082,
+          "score": 0.934
+        },
+        {
+          "word": "that",
+          "start": 137.122,
+          "end": 137.362,
+          "score": 0.881
+        },
+        {
+          "word": "place,",
+          "start": 137.482,
+          "end": 138.642,
+          "score": 0.918
+        },
+        {
+          "word": "the",
+          "start": 138.722,
+          "end": 139.062,
+          "score": 0.853
+        },
+        {
+          "word": "quarter",
+          "start": 139.383,
+          "end": 141.863,
+          "score": 0.814
+        },
+        {
+          "word": "is",
+          "start": 142.184,
+          "end": 142.284,
+          "score": 0.789
+        },
+        {
+          "word": "good",
+          "start": 142.364,
+          "end": 142.664,
+          "score": 0.855
+        },
+        {
+          "word": "and",
+          "start": 143.144,
+          "end": 143.764,
+          "score": 0.793
+        },
+        {
+          "word": "behave",
+          "start": 146.465,
+          "end": 147.366,
+          "score": 0.944
+        },
+        {
+          "word": "very",
+          "start": 147.606,
+          "end": 147.806,
+          "score": 0.564
+        },
+        {
+          "word": "well.",
+          "start": 147.846,
+          "end": 148.166,
+          "score": 0.773
+        }
+      ],
+      "avg_logprob": -0.2812165924997041
+    },
+    {
+      "start": 150.207,
+      "end": 153.748,
+      "text": "What responsibilities did you have at work?",
+      "words": [
+        {
+          "word": "What",
+          "start": 150.207,
+          "end": 150.447,
+          "score": 0.773
+        },
+        {
+          "word": "responsibilities",
+          "start": 150.567,
+          "end": 151.967,
+          "score": 0.889
+        },
+        {
+          "word": "did",
+          "start": 152.027,
+          "end": 152.207,
+          "score": 0.888
+        },
+        {
+          "word": "you",
+          "start": 152.227,
+          "end": 152.367,
+          "score": 0.738
+        },
+        {
+          "word": "have",
+          "start": 152.487,
+          "end": 152.828,
+          "score": 0.986
+        },
+        {
+          "word": "at",
+          "start": 153.068,
+          "end": 153.208,
+          "score": 0.684
+        },
+        {
+          "word": "work?",
+          "start": 153.348,
+          "end": 153.748,
+          "score": 0.87
+        }
+      ],
+      "avg_logprob": -0.2812165924997041
+    },
+    {
+      "start": 158.598,
+      "end": 179.843,
+      "text": " I have many responsibilities at work and you can do everything very well and you can't break anything or like this, just like this.",
+      "words": [
+        {
+          "word": "I",
+          "start": 158.598,
+          "end": 158.718,
+          "score": 0.897
+        },
+        {
+          "word": "have",
+          "start": 158.818,
+          "end": 159.238,
+          "score": 0.939
+        },
+        {
+          "word": "many",
+          "start": 159.298,
+          "end": 159.638,
+          "score": 0.873
+        },
+        {
+          "word": "responsibilities",
+          "start": 159.878,
+          "end": 161.018,
+          "score": 0.788
+        },
+        {
+          "word": "at",
+          "start": 161.159,
+          "end": 161.259,
+          "score": 0.99
+        },
+        {
+          "word": "work",
+          "start": 161.339,
+          "end": 161.919,
+          "score": 0.647
+        },
+        {
+          "word": "and",
+          "start": 162.519,
+          "end": 162.919,
+          "score": 0.879
+        },
+        {
+          "word": "you",
+          "start": 163.879,
+          "end": 164.019,
+          "score": 0.63
+        },
+        {
+          "word": "can",
+          "start": 164.039,
+          "end": 164.559,
+          "score": 0.853
+        },
+        {
+          "word": "do",
+          "start": 164.739,
+          "end": 165.86,
+          "score": 0.882
+        },
+        {
+          "word": "everything",
+          "start": 166.68,
+          "end": 167.3,
+          "score": 0.882
+        },
+        {
+          "word": "very",
+          "start": 167.88,
+          "end": 168.12,
+          "score": 0.894
+        },
+        {
+          "word": "well",
+          "start": 168.16,
+          "end": 168.48,
+          "score": 0.912
+        },
+        {
+          "word": "and",
+          "start": 168.94,
+          "end": 169.3,
+          "score": 0.876
+        },
+        {
+          "word": "you",
+          "start": 171.441,
+          "end": 171.741,
+          "score": 0.809
+        },
+        {
+          "word": "can't",
+          "start": 171.821,
+          "end": 172.521,
+          "score": 0.869
+        },
+        {
+          "word": "break",
+          "start": 173.962,
+          "end": 174.342,
+          "score": 0.801
+        },
+        {
+          "word": "anything",
+          "start": 174.482,
+          "end": 175.222,
+          "score": 0.905
+        },
+        {
+          "word": "or",
+          "start": 175.802,
+          "end": 176.382,
+          "score": 0.922
+        },
+        {
+          "word": "like",
+          "start": 177.582,
+          "end": 177.822,
+          "score": 0.574
+        },
+        {
+          "word": "this,",
+          "start": 177.842,
+          "end": 178.083,
+          "score": 0.658
+        },
+        {
+          "word": "just",
+          "start": 178.303,
+          "end": 178.523,
+          "score": 0.925
+        },
+        {
+          "word": "like",
+          "start": 178.563,
+          "end": 178.643,
+          "score": 0.019
+        },
+        {
+          "word": "this.",
+          "start": 178.763,
+          "end": 179.843,
+          "score": 0.608
+        }
+      ],
+      "avg_logprob": -0.14982736916155429
+    },
+    {
+      "start": 180.463,
+      "end": 184.224,
+      "text": "Are there good job opportunities in your country?",
+      "words": [
+        {
+          "word": "Are",
+          "start": 180.463,
+          "end": 180.563,
+          "score": 0.423
+        },
+        {
+          "word": "there",
+          "start": 180.583,
+          "end": 180.823,
+          "score": 0.541
+        },
+        {
+          "word": "good",
+          "start": 180.963,
+          "end": 181.263,
+          "score": 0.618
+        },
+        {
+          "word": "job",
+          "start": 181.403,
+          "end": 181.743,
+          "score": 0.922
+        },
+        {
+          "word": "opportunities",
+          "start": 181.923,
+          "end": 183.104,
+          "score": 0.86
+        },
+        {
+          "word": "in",
+          "start": 183.264,
+          "end": 183.344,
+          "score": 0.944
+        },
+        {
+          "word": "your",
+          "start": 183.404,
+          "end": 183.624,
+          "score": 0.822
+        },
+        {
+          "word": "country?",
+          "start": 183.704,
+          "end": 184.224,
+          "score": 0.948
+        }
+      ],
+      "avg_logprob": -0.14982736916155429
+    },
+    {
+      "start": 186.232,
+      "end": 201.182,
+      "text": " Yes, for all men it's clear and although the good job have a good salary and income for co-worker and for doing very well for co-worker and the league.",
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 186.232,
+          "end": 186.552,
+          "score": 0.914
+        },
+        {
+          "word": "for",
+          "start": 187.093,
+          "end": 187.273,
+          "score": 0.752
+        },
+        {
+          "word": "all",
+          "start": 187.433,
+          "end": 187.593,
+          "score": 0.883
+        },
+        {
+          "word": "men",
+          "start": 187.653,
+          "end": 187.933,
+          "score": 0.868
+        },
+        {
+          "word": "it's",
+          "start": 187.953,
+          "end": 188.974,
+          "score": 0.552
+        },
+        {
+          "word": "clear",
+          "start": 189.134,
+          "end": 189.595,
+          "score": 0.855
+        },
+        {
+          "word": "and",
+          "start": 190.095,
+          "end": 190.195,
+          "score": 0.983
+        },
+        {
+          "word": "although",
+          "start": 191.616,
+          "end": 191.996,
+          "score": 0.677
+        },
+        {
+          "word": "the",
+          "start": 193.717,
+          "end": 194.338,
+          "score": 0.818
+        },
+        {
+          "word": "good",
+          "start": 194.618,
+          "end": 194.818,
+          "score": 0.917
+        },
+        {
+          "word": "job",
+          "start": 194.858,
+          "end": 195.138,
+          "score": 0.858
+        },
+        {
+          "word": "have",
+          "start": 195.178,
+          "end": 195.559,
+          "score": 0.818
+        },
+        {
+          "word": "a",
+          "start": 196.339,
+          "end": 196.459,
+          "score": 0.864
+        },
+        {
+          "word": "good",
+          "start": 196.739,
+          "end": 196.92,
+          "score": 0.966
+        },
+        {
+          "word": "salary",
+          "start": 196.98,
+          "end": 197.44,
+          "score": 0.926
+        },
+        {
+          "word": "and",
+          "start": 197.54,
+          "end": 197.64,
+          "score": 0.751
+        },
+        {
+          "word": "income",
+          "start": 197.66,
+          "end": 197.84,
+          "score": 0.194
+        },
+        {
+          "word": "for",
+          "start": 197.86,
+          "end": 197.92,
+          "score": 0.0
+        },
+        {
+          "word": "co-worker",
+          "start": 197.94,
+          "end": 198.22,
+          "score": 0.414
+        },
+        {
+          "word": "and",
+          "start": 198.26,
+          "end": 198.361,
+          "score": 0.235
+        },
+        {
+          "word": "for",
+          "start": 198.441,
+          "end": 198.681,
+          "score": 0.778
+        },
+        {
+          "word": "doing",
+          "start": 198.701,
+          "end": 199.421,
+          "score": 0.391
+        },
+        {
+          "word": "very",
+          "start": 199.661,
+          "end": 199.801,
+          "score": 0.184
+        },
+        {
+          "word": "well",
+          "start": 199.902,
+          "end": 200.002,
+          "score": 0.123
+        },
+        {
+          "word": "for",
+          "start": 200.022,
+          "end": 200.082,
+          "score": 0.0
+        },
+        {
+          "word": "co-worker",
+          "start": 200.102,
+          "end": 200.562,
+          "score": 0.588
+        },
+        {
+          "word": "and",
+          "start": 200.722,
+          "end": 200.842,
+          "score": 0.885
+        },
+        {
+          "word": "the",
+          "start": 200.902,
+          "end": 201.002,
+          "score": 0.592
+        },
+        {
+          "word": "league.",
+          "start": 201.022,
+          "end": 201.182,
+          "score": 0.283
+        }
+      ],
+      "avg_logprob": -0.20063441025244222
+    },
+    {
+      "start": 210.768,
+      "end": 211.809,
+      "text": " Okay, very good.",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 210.768,
+          "end": 211.248,
+          "score": 0.829
+        },
+        {
+          "word": "very",
+          "start": 211.308,
+          "end": 211.529,
+          "score": 0.873
+        },
+        {
+          "word": "good.",
+          "start": 211.569,
+          "end": 211.809,
+          "score": 0.91
+        }
+      ],
+      "avg_logprob": -0.1726304513330643
+    },
+    {
+      "start": 212.249,
+      "end": 222.896,
+      "text": "So, I'll give you a cue card and you have one minute to take a note and think about it, then you should talk around two minutes, okay?",
+      "words": [
+        {
+          "word": "So,",
+          "start": 212.249,
+          "end": 212.449,
+          "score": 0.994
+        },
+        {
+          "word": "I'll",
+          "start": 213.39,
+          "end": 213.61,
+          "score": 0.844
+        },
+        {
+          "word": "give",
+          "start": 213.67,
+          "end": 213.91,
+          "score": 0.818
+        },
+        {
+          "word": "you",
+          "start": 213.95,
+          "end": 214.09,
+          "score": 0.779
+        },
+        {
+          "word": "a",
+          "start": 214.15,
+          "end": 214.17,
+          "score": 0.997
+        },
+        {
+          "word": "cue",
+          "start": 214.27,
+          "end": 214.49,
+          "score": 0.893
+        },
+        {
+          "word": "card",
+          "start": 214.531,
+          "end": 214.871,
+          "score": 0.765
+        },
+        {
+          "word": "and",
+          "start": 215.111,
+          "end": 215.211,
+          "score": 0.813
+        },
+        {
+          "word": "you",
+          "start": 215.271,
+          "end": 215.431,
+          "score": 0.821
+        },
+        {
+          "word": "have",
+          "start": 215.471,
+          "end": 215.651,
+          "score": 0.805
+        },
+        {
+          "word": "one",
+          "start": 215.851,
+          "end": 215.971,
+          "score": 0.613
+        },
+        {
+          "word": "minute",
+          "start": 216.031,
+          "end": 216.372,
+          "score": 0.774
+        },
+        {
+          "word": "to",
+          "start": 216.792,
+          "end": 217.032,
+          "score": 0.854
+        },
+        {
+          "word": "take",
+          "start": 217.412,
+          "end": 217.633,
+          "score": 0.749
+        },
+        {
+          "word": "a",
+          "start": 217.653,
+          "end": 217.673,
+          "score": 0.005
+        },
+        {
+          "word": "note",
+          "start": 217.773,
+          "end": 218.093,
+          "score": 0.82
+        },
+        {
+          "word": "and",
+          "start": 218.253,
+          "end": 218.373,
+          "score": 0.843
+        },
+        {
+          "word": "think",
+          "start": 218.673,
+          "end": 218.873,
+          "score": 0.866
+        },
+        {
+          "word": "about",
+          "start": 218.933,
+          "end": 219.254,
+          "score": 0.781
+        },
+        {
+          "word": "it,",
+          "start": 219.374,
+          "end": 219.494,
+          "score": 0.951
+        },
+        {
+          "word": "then",
+          "start": 219.554,
+          "end": 219.794,
+          "score": 0.898
+        },
+        {
+          "word": "you",
+          "start": 219.894,
+          "end": 220.034,
+          "score": 0.971
+        },
+        {
+          "word": "should",
+          "start": 220.094,
+          "end": 220.334,
+          "score": 0.844
+        },
+        {
+          "word": "talk",
+          "start": 220.935,
+          "end": 221.295,
+          "score": 0.674
+        },
+        {
+          "word": "around",
+          "start": 221.315,
+          "end": 221.635,
+          "score": 0.656
+        },
+        {
+          "word": "two",
+          "start": 221.735,
+          "end": 221.915,
+          "score": 0.919
+        },
+        {
+          "word": "minutes,",
+          "start": 221.955,
+          "end": 222.296,
+          "score": 0.778
+        },
+        {
+          "word": "okay?",
+          "start": 222.556,
+          "end": 222.896,
+          "score": 0.784
+        }
+      ],
+      "avg_logprob": -0.1726304513330643
+    },
+    {
+      "start": 224.197,
+      "end": 229.02,
+      "text": "It's your cue card and you can take a note here.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 224.197,
+          "end": 224.417,
+          "score": 0.712
+        },
+        {
+          "word": "your",
+          "start": 224.517,
+          "end": 224.737,
+          "score": 0.854
+        },
+        {
+          "word": "cue",
+          "start": 224.897,
+          "end": 225.137,
+          "score": 0.794
+        },
+        {
+          "word": "card",
+          "start": 225.177,
+          "end": 225.518,
+          "score": 0.76
+        },
+        {
+          "word": "and",
+          "start": 227.619,
+          "end": 227.739,
+          "score": 0.722
+        },
+        {
+          "word": "you",
+          "start": 227.759,
+          "end": 227.859,
+          "score": 0.992
+        },
+        {
+          "word": "can",
+          "start": 227.899,
+          "end": 228.079,
+          "score": 0.886
+        },
+        {
+          "word": "take",
+          "start": 228.119,
+          "end": 228.339,
+          "score": 0.8
+        },
+        {
+          "word": "a",
+          "start": 228.359,
+          "end": 228.379,
+          "score": 0.005
+        },
+        {
+          "word": "note",
+          "start": 228.46,
+          "end": 228.72,
+          "score": 0.949
+        },
+        {
+          "word": "here.",
+          "start": 228.74,
+          "end": 229.02,
+          "score": 0.354
+        }
+      ],
+      "avg_logprob": -0.1726304513330643
+    },
+    {
+      "start": 298.32,
+      "end": 299.402,
+      "text": " Okay, time's up.",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 298.32,
+          "end": 298.721,
+          "score": 0.81
+        },
+        {
+          "word": "time's",
+          "start": 298.921,
+          "end": 299.202,
+          "score": 0.798
+        },
+        {
+          "word": "up.",
+          "start": 299.282,
+          "end": 299.402,
+          "score": 0.939
+        }
+      ],
+      "avg_logprob": -0.16519060039094516
+    },
+    {
+      "start": 300.163,
+      "end": 301.085,
+      "text": "Would you please give it?",
+      "words": [
+        {
+          "word": "Would",
+          "start": 300.163,
+          "end": 300.283,
+          "score": 0.897
+        },
+        {
+          "word": "you",
+          "start": 300.304,
+          "end": 300.404,
+          "score": 0.793
+        },
+        {
+          "word": "please",
+          "start": 300.424,
+          "end": 300.684,
+          "score": 0.816
+        },
+        {
+          "word": "give",
+          "start": 300.744,
+          "end": 300.965,
+          "score": 0.386
+        },
+        {
+          "word": "it?",
+          "start": 300.985,
+          "end": 301.085,
+          "score": 0.442
+        }
+      ],
+      "avg_logprob": -0.16519060039094516
+    },
+    {
+      "start": 301.105,
+      "end": 301.866,
+      "text": "Okay, you can have it.",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 301.105,
+          "end": 301.265,
+          "score": 0.357
+        },
+        {
+          "word": "you",
+          "start": 301.285,
+          "end": 301.365,
+          "score": 0.161
+        },
+        {
+          "word": "can",
+          "start": 301.385,
+          "end": 301.506,
+          "score": 0.688
+        },
+        {
+          "word": "have",
+          "start": 301.546,
+          "end": 301.706,
+          "score": 0.985
+        },
+        {
+          "word": "it.",
+          "start": 301.766,
+          "end": 301.866,
+          "score": 0.944
+        }
+      ],
+      "avg_logprob": -0.16519060039094516
+    },
+    {
+      "start": 303.008,
+      "end": 304.29,
+      "text": "All right, now you may talk.",
+      "words": [
+        {
+          "word": "All",
+          "start": 303.008,
+          "end": 303.128,
+          "score": 0.408
+        },
+        {
+          "word": "right,",
+          "start": 303.148,
+          "end": 303.389,
+          "score": 0.866
+        },
+        {
+          "word": "now",
+          "start": 303.569,
+          "end": 303.689,
+          "score": 0.833
+        },
+        {
+          "word": "you",
+          "start": 303.729,
+          "end": 303.85,
+          "score": 0.832
+        },
+        {
+          "word": "may",
+          "start": 303.87,
+          "end": 303.99,
+          "score": 0.753
+        },
+        {
+          "word": "talk.",
+          "start": 304.03,
+          "end": 304.29,
+          "score": 0.6
+        }
+      ],
+      "avg_logprob": -0.16519060039094516
+    },
+    {
+      "start": 306.408,
+      "end": 330.71,
+      "text": " My best friend in my life is my neighbor and I have known with him at university and I feel better with him because when I'm depressed or angry I go out with him",
+      "words": [
+        {
+          "word": "My",
+          "start": 306.408,
+          "end": 306.568,
+          "score": 0.874
+        },
+        {
+          "word": "best",
+          "start": 306.628,
+          "end": 306.889,
+          "score": 0.961
+        },
+        {
+          "word": "friend",
+          "start": 306.989,
+          "end": 307.349,
+          "score": 0.853
+        },
+        {
+          "word": "in",
+          "start": 308.05,
+          "end": 308.13,
+          "score": 0.824
+        },
+        {
+          "word": "my",
+          "start": 308.19,
+          "end": 308.35,
+          "score": 0.798
+        },
+        {
+          "word": "life",
+          "start": 308.41,
+          "end": 308.71,
+          "score": 0.897
+        },
+        {
+          "word": "is",
+          "start": 309.511,
+          "end": 309.631,
+          "score": 0.952
+        },
+        {
+          "word": "my",
+          "start": 309.911,
+          "end": 310.071,
+          "score": 0.924
+        },
+        {
+          "word": "neighbor",
+          "start": 310.152,
+          "end": 310.672,
+          "score": 0.848
+        },
+        {
+          "word": "and",
+          "start": 311.172,
+          "end": 313.495,
+          "score": 0.833
+        },
+        {
+          "word": "I",
+          "start": 313.955,
+          "end": 314.035,
+          "score": 0.962
+        },
+        {
+          "word": "have",
+          "start": 314.095,
+          "end": 314.375,
+          "score": 0.789
+        },
+        {
+          "word": "known",
+          "start": 315.216,
+          "end": 315.636,
+          "score": 0.783
+        },
+        {
+          "word": "with",
+          "start": 315.977,
+          "end": 316.557,
+          "score": 0.764
+        },
+        {
+          "word": "him",
+          "start": 316.657,
+          "end": 316.878,
+          "score": 0.742
+        },
+        {
+          "word": "at",
+          "start": 317.578,
+          "end": 317.958,
+          "score": 0.782
+        },
+        {
+          "word": "university",
+          "start": 318.099,
+          "end": 318.899,
+          "score": 0.797
+        },
+        {
+          "word": "and",
+          "start": 319.38,
+          "end": 321.281,
+          "score": 0.779
+        },
+        {
+          "word": "I",
+          "start": 321.301,
+          "end": 321.321,
+          "score": 0.001
+        },
+        {
+          "word": "feel",
+          "start": 322.022,
+          "end": 322.242,
+          "score": 0.932
+        },
+        {
+          "word": "better",
+          "start": 322.302,
+          "end": 322.643,
+          "score": 0.904
+        },
+        {
+          "word": "with",
+          "start": 323.463,
+          "end": 323.684,
+          "score": 0.825
+        },
+        {
+          "word": "him",
+          "start": 323.724,
+          "end": 323.944,
+          "score": 0.89
+        },
+        {
+          "word": "because",
+          "start": 324.384,
+          "end": 324.785,
+          "score": 0.93
+        },
+        {
+          "word": "when",
+          "start": 325.725,
+          "end": 325.906,
+          "score": 0.729
+        },
+        {
+          "word": "I'm",
+          "start": 326.026,
+          "end": 326.186,
+          "score": 0.819
+        },
+        {
+          "word": "depressed",
+          "start": 326.366,
+          "end": 326.886,
+          "score": 0.988
+        },
+        {
+          "word": "or",
+          "start": 327.027,
+          "end": 327.187,
+          "score": 0.768
+        },
+        {
+          "word": "angry",
+          "start": 327.207,
+          "end": 327.907,
+          "score": 0.816
+        },
+        {
+          "word": "I",
+          "start": 328.348,
+          "end": 328.508,
+          "score": 0.641
+        },
+        {
+          "word": "go",
+          "start": 329.509,
+          "end": 329.689,
+          "score": 0.899
+        },
+        {
+          "word": "out",
+          "start": 329.869,
+          "end": 330.209,
+          "score": 0.832
+        },
+        {
+          "word": "with",
+          "start": 330.329,
+          "end": 330.53,
+          "score": 0.918
+        },
+        {
+          "word": "him",
+          "start": 330.57,
+          "end": 330.71,
+          "score": 0.995
+        }
+      ],
+      "avg_logprob": -0.174814961436722
+    },
+    {
+      "start": 331.17,
+      "end": 347.299,
+      "text": " and I prefer to have a good time with him because he feel he feel me better and helped me to have a good time and helped me in some situation and condition and",
+      "words": [
+        {
+          "word": "and",
+          "start": 331.17,
+          "end": 331.69,
+          "score": 0.737
+        },
+        {
+          "word": "I",
+          "start": 332.071,
+          "end": 332.551,
+          "score": 0.831
+        },
+        {
+          "word": "prefer",
+          "start": 332.871,
+          "end": 333.351,
+          "score": 0.938
+        },
+        {
+          "word": "to",
+          "start": 333.411,
+          "end": 333.712,
+          "score": 0.932
+        },
+        {
+          "word": "have",
+          "start": 333.972,
+          "end": 334.272,
+          "score": 0.802
+        },
+        {
+          "word": "a",
+          "start": 334.892,
+          "end": 334.972,
+          "score": 0.712
+        },
+        {
+          "word": "good",
+          "start": 335.152,
+          "end": 335.332,
+          "score": 0.96
+        },
+        {
+          "word": "time",
+          "start": 335.372,
+          "end": 335.613,
+          "score": 0.755
+        },
+        {
+          "word": "with",
+          "start": 335.673,
+          "end": 335.853,
+          "score": 0.97
+        },
+        {
+          "word": "him",
+          "start": 335.913,
+          "end": 336.093,
+          "score": 0.864
+        },
+        {
+          "word": "because",
+          "start": 336.813,
+          "end": 337.293,
+          "score": 0.916
+        },
+        {
+          "word": "he",
+          "start": 337.333,
+          "end": 337.414,
+          "score": 0.106
+        },
+        {
+          "word": "feel",
+          "start": 339.014,
+          "end": 339.355,
+          "score": 0.827
+        },
+        {
+          "word": "he",
+          "start": 339.995,
+          "end": 340.135,
+          "score": 0.99
+        },
+        {
+          "word": "feel",
+          "start": 340.175,
+          "end": 340.395,
+          "score": 0.84
+        },
+        {
+          "word": "me",
+          "start": 340.415,
+          "end": 340.515,
+          "score": 0.97
+        },
+        {
+          "word": "better",
+          "start": 340.555,
+          "end": 340.875,
+          "score": 0.88
+        },
+        {
+          "word": "and",
+          "start": 340.995,
+          "end": 341.096,
+          "score": 0.877
+        },
+        {
+          "word": "helped",
+          "start": 341.596,
+          "end": 341.816,
+          "score": 0.904
+        },
+        {
+          "word": "me",
+          "start": 341.836,
+          "end": 341.956,
+          "score": 0.976
+        },
+        {
+          "word": "to",
+          "start": 341.996,
+          "end": 342.276,
+          "score": 0.85
+        },
+        {
+          "word": "have",
+          "start": 342.396,
+          "end": 342.836,
+          "score": 0.82
+        },
+        {
+          "word": "a",
+          "start": 342.856,
+          "end": 342.876,
+          "score": 0.015
+        },
+        {
+          "word": "good",
+          "start": 342.957,
+          "end": 343.137,
+          "score": 0.853
+        },
+        {
+          "word": "time",
+          "start": 343.157,
+          "end": 343.357,
+          "score": 0.864
+        },
+        {
+          "word": "and",
+          "start": 343.497,
+          "end": 343.597,
+          "score": 0.968
+        },
+        {
+          "word": "helped",
+          "start": 343.857,
+          "end": 344.097,
+          "score": 0.928
+        },
+        {
+          "word": "me",
+          "start": 344.117,
+          "end": 344.237,
+          "score": 0.932
+        },
+        {
+          "word": "in",
+          "start": 344.537,
+          "end": 344.617,
+          "score": 0.991
+        },
+        {
+          "word": "some",
+          "start": 344.677,
+          "end": 344.878,
+          "score": 0.982
+        },
+        {
+          "word": "situation",
+          "start": 344.958,
+          "end": 345.658,
+          "score": 0.872
+        },
+        {
+          "word": "and",
+          "start": 345.758,
+          "end": 345.838,
+          "score": 0.508
+        },
+        {
+          "word": "condition",
+          "start": 345.918,
+          "end": 346.538,
+          "score": 0.901
+        },
+        {
+          "word": "and",
+          "start": 347.199,
+          "end": 347.299,
+          "score": 0.907
+        }
+      ],
+      "avg_logprob": -0.19159784998212542
+    },
+    {
+      "start": 351.641,
+      "end": 365.464,
+      "text": " I can go out with him and doing everything in their home, in his home, and go out to park or go shopping with him.",
+      "words": [
+        {
+          "word": "I",
+          "start": 351.641,
+          "end": 351.721,
+          "score": 0.758
+        },
+        {
+          "word": "can",
+          "start": 351.741,
+          "end": 352.001,
+          "score": 0.83
+        },
+        {
+          "word": "go",
+          "start": 352.101,
+          "end": 352.261,
+          "score": 1.0
+        },
+        {
+          "word": "out",
+          "start": 352.441,
+          "end": 352.621,
+          "score": 0.831
+        },
+        {
+          "word": "with",
+          "start": 352.721,
+          "end": 352.921,
+          "score": 0.94
+        },
+        {
+          "word": "him",
+          "start": 352.981,
+          "end": 353.201,
+          "score": 0.786
+        },
+        {
+          "word": "and",
+          "start": 353.621,
+          "end": 354.361,
+          "score": 0.891
+        },
+        {
+          "word": "doing",
+          "start": 355.442,
+          "end": 355.742,
+          "score": 0.885
+        },
+        {
+          "word": "everything",
+          "start": 355.902,
+          "end": 356.542,
+          "score": 0.868
+        },
+        {
+          "word": "in",
+          "start": 357.102,
+          "end": 357.282,
+          "score": 0.915
+        },
+        {
+          "word": "their",
+          "start": 357.302,
+          "end": 357.702,
+          "score": 0.625
+        },
+        {
+          "word": "home,",
+          "start": 357.762,
+          "end": 358.683,
+          "score": 0.67
+        },
+        {
+          "word": "in",
+          "start": 358.883,
+          "end": 359.023,
+          "score": 0.83
+        },
+        {
+          "word": "his",
+          "start": 359.443,
+          "end": 359.643,
+          "score": 0.925
+        },
+        {
+          "word": "home,",
+          "start": 359.723,
+          "end": 359.943,
+          "score": 0.829
+        },
+        {
+          "word": "and",
+          "start": 360.463,
+          "end": 361.103,
+          "score": 0.873
+        },
+        {
+          "word": "go",
+          "start": 362.904,
+          "end": 363.104,
+          "score": 0.995
+        },
+        {
+          "word": "out",
+          "start": 363.284,
+          "end": 363.444,
+          "score": 0.945
+        },
+        {
+          "word": "to",
+          "start": 363.464,
+          "end": 363.504,
+          "score": 0.0
+        },
+        {
+          "word": "park",
+          "start": 363.564,
+          "end": 363.864,
+          "score": 0.426
+        },
+        {
+          "word": "or",
+          "start": 363.884,
+          "end": 363.924,
+          "score": 0.0
+        },
+        {
+          "word": "go",
+          "start": 364.164,
+          "end": 364.204,
+          "score": 0.002
+        },
+        {
+          "word": "shopping",
+          "start": 364.224,
+          "end": 364.424,
+          "score": 0.084
+        },
+        {
+          "word": "with",
+          "start": 364.444,
+          "end": 365.264,
+          "score": 0.462
+        },
+        {
+          "word": "him.",
+          "start": 365.284,
+          "end": 365.464,
+          "score": 0.57
+        }
+      ],
+      "avg_logprob": -0.21648657116396675
+    },
+    {
+      "start": 380.137,
+      "end": 396.521,
+      "text": " I can buy anything with him and do some hobbies like play computer games or play some hobbies like soccer and other things.",
+      "words": [
+        {
+          "word": "I",
+          "start": 380.137,
+          "end": 380.217,
+          "score": 0.797
+        },
+        {
+          "word": "can",
+          "start": 380.257,
+          "end": 380.717,
+          "score": 0.792
+        },
+        {
+          "word": "buy",
+          "start": 381.678,
+          "end": 381.898,
+          "score": 0.776
+        },
+        {
+          "word": "anything",
+          "start": 382.018,
+          "end": 382.878,
+          "score": 0.914
+        },
+        {
+          "word": "with",
+          "start": 383.258,
+          "end": 383.518,
+          "score": 0.867
+        },
+        {
+          "word": "him",
+          "start": 383.558,
+          "end": 383.818,
+          "score": 0.882
+        },
+        {
+          "word": "and",
+          "start": 384.118,
+          "end": 386.079,
+          "score": 0.941
+        },
+        {
+          "word": "do",
+          "start": 386.379,
+          "end": 386.639,
+          "score": 0.934
+        },
+        {
+          "word": "some",
+          "start": 386.739,
+          "end": 386.939,
+          "score": 0.986
+        },
+        {
+          "word": "hobbies",
+          "start": 386.999,
+          "end": 388.379,
+          "score": 0.914
+        },
+        {
+          "word": "like",
+          "start": 388.459,
+          "end": 388.999,
+          "score": 0.852
+        },
+        {
+          "word": "play",
+          "start": 389.119,
+          "end": 389.519,
+          "score": 0.897
+        },
+        {
+          "word": "computer",
+          "start": 389.899,
+          "end": 390.42,
+          "score": 0.922
+        },
+        {
+          "word": "games",
+          "start": 390.46,
+          "end": 390.78,
+          "score": 0.863
+        },
+        {
+          "word": "or",
+          "start": 390.94,
+          "end": 391.08,
+          "score": 0.79
+        },
+        {
+          "word": "play",
+          "start": 391.24,
+          "end": 392.54,
+          "score": 0.853
+        },
+        {
+          "word": "some",
+          "start": 393.16,
+          "end": 393.38,
+          "score": 0.951
+        },
+        {
+          "word": "hobbies",
+          "start": 393.42,
+          "end": 393.78,
+          "score": 0.869
+        },
+        {
+          "word": "like",
+          "start": 393.86,
+          "end": 394.12,
+          "score": 0.936
+        },
+        {
+          "word": "soccer",
+          "start": 394.16,
+          "end": 394.38,
+          "score": 0.286
+        },
+        {
+          "word": "and",
+          "start": 395.461,
+          "end": 395.561,
+          "score": 0.414
+        },
+        {
+          "word": "other",
+          "start": 395.761,
+          "end": 396.121,
+          "score": 0.716
+        },
+        {
+          "word": "things.",
+          "start": 396.281,
+          "end": 396.521,
+          "score": 0.247
+        }
+      ],
+      "avg_logprob": -0.11392143487930298
+    },
+    {
+      "start": 401.662,
+      "end": 402.103,
+      "text": " Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 401.662,
+          "end": 401.883,
+          "score": 0.876
+        },
+        {
+          "word": "you.",
+          "start": 401.903,
+          "end": 402.103,
+          "score": 0.989
+        }
+      ],
+      "avg_logprob": -0.04672582447528839
+    },
+    {
+      "start": 402.123,
+      "end": 408.603,
+      "text": "Do you want to have a few best friends or a lot of friends?",
+      "words": [
+        {
+          "word": "Do",
+          "start": 402.123,
+          "end": 402.164,
+          "score": 0.0
+        },
+        {
+          "word": "you",
+          "start": 403.106,
+          "end": 403.247,
+          "score": 0.64
+        },
+        {
+          "word": "want",
+          "start": 403.367,
+          "end": 403.748,
+          "score": 0.794
+        },
+        {
+          "word": "to",
+          "start": 404.149,
+          "end": 404.33,
+          "score": 0.769
+        },
+        {
+          "word": "have",
+          "start": 404.43,
+          "end": 404.711,
+          "score": 0.886
+        },
+        {
+          "word": "a",
+          "start": 404.731,
+          "end": 404.751,
+          "score": 0.0
+        },
+        {
+          "word": "few",
+          "start": 405.313,
+          "end": 405.634,
+          "score": 0.842
+        },
+        {
+          "word": "best",
+          "start": 405.814,
+          "end": 406.175,
+          "score": 0.937
+        },
+        {
+          "word": "friends",
+          "start": 406.316,
+          "end": 406.717,
+          "score": 0.729
+        },
+        {
+          "word": "or",
+          "start": 406.978,
+          "end": 407.078,
+          "score": 0.641
+        },
+        {
+          "word": "a",
+          "start": 407.259,
+          "end": 407.299,
+          "score": 0.505
+        },
+        {
+          "word": "lot",
+          "start": 407.419,
+          "end": 407.68,
+          "score": 0.991
+        },
+        {
+          "word": "of",
+          "start": 407.74,
+          "end": 407.82,
+          "score": 0.668
+        },
+        {
+          "word": "friends?",
+          "start": 408.181,
+          "end": 408.603,
+          "score": 0.872
+        }
+      ],
+      "avg_logprob": -0.04672582447528839
+    },
+    {
+      "start": 410.804,
+      "end": 434.223,
+      "text": " In my opinion, I have a few friends who are loyal and help you in some situation or doing everything that you like is much better than you had a lot of friends or people.",
+      "words": [
+        {
+          "word": "In",
+          "start": 410.804,
+          "end": 410.864,
+          "score": 0.968
+        },
+        {
+          "word": "my",
+          "start": 410.924,
+          "end": 411.084,
+          "score": 0.751
+        },
+        {
+          "word": "opinion,",
+          "start": 411.144,
+          "end": 411.584,
+          "score": 0.808
+        },
+        {
+          "word": "I",
+          "start": 412.865,
+          "end": 412.965,
+          "score": 0.935
+        },
+        {
+          "word": "have",
+          "start": 413.046,
+          "end": 413.266,
+          "score": 0.974
+        },
+        {
+          "word": "a",
+          "start": 413.326,
+          "end": 413.426,
+          "score": 0.661
+        },
+        {
+          "word": "few",
+          "start": 414.887,
+          "end": 415.127,
+          "score": 0.981
+        },
+        {
+          "word": "friends",
+          "start": 415.307,
+          "end": 415.688,
+          "score": 0.737
+        },
+        {
+          "word": "who",
+          "start": 415.828,
+          "end": 416.108,
+          "score": 0.967
+        },
+        {
+          "word": "are",
+          "start": 416.669,
+          "end": 417.89,
+          "score": 0.715
+        },
+        {
+          "word": "loyal",
+          "start": 418.05,
+          "end": 418.55,
+          "score": 0.949
+        },
+        {
+          "word": "and",
+          "start": 418.991,
+          "end": 419.771,
+          "score": 0.749
+        },
+        {
+          "word": "help",
+          "start": 420.051,
+          "end": 420.332,
+          "score": 0.892
+        },
+        {
+          "word": "you",
+          "start": 420.472,
+          "end": 420.772,
+          "score": 0.946
+        },
+        {
+          "word": "in",
+          "start": 421.493,
+          "end": 421.573,
+          "score": 0.87
+        },
+        {
+          "word": "some",
+          "start": 421.633,
+          "end": 421.833,
+          "score": 0.787
+        },
+        {
+          "word": "situation",
+          "start": 422.093,
+          "end": 422.674,
+          "score": 0.836
+        },
+        {
+          "word": "or",
+          "start": 422.794,
+          "end": 422.874,
+          "score": 0.992
+        },
+        {
+          "word": "doing",
+          "start": 424.956,
+          "end": 425.756,
+          "score": 0.554
+        },
+        {
+          "word": "everything",
+          "start": 425.896,
+          "end": 426.757,
+          "score": 0.845
+        },
+        {
+          "word": "that",
+          "start": 427.458,
+          "end": 427.638,
+          "score": 0.892
+        },
+        {
+          "word": "you",
+          "start": 427.678,
+          "end": 427.898,
+          "score": 0.853
+        },
+        {
+          "word": "like",
+          "start": 427.938,
+          "end": 428.338,
+          "score": 0.736
+        },
+        {
+          "word": "is",
+          "start": 429.359,
+          "end": 429.499,
+          "score": 0.752
+        },
+        {
+          "word": "much",
+          "start": 430.06,
+          "end": 430.28,
+          "score": 0.767
+        },
+        {
+          "word": "better",
+          "start": 430.36,
+          "end": 430.68,
+          "score": 0.756
+        },
+        {
+          "word": "than",
+          "start": 430.741,
+          "end": 430.961,
+          "score": 0.942
+        },
+        {
+          "word": "you",
+          "start": 431.821,
+          "end": 432.262,
+          "score": 0.861
+        },
+        {
+          "word": "had",
+          "start": 432.422,
+          "end": 432.602,
+          "score": 0.919
+        },
+        {
+          "word": "a",
+          "start": 432.702,
+          "end": 432.782,
+          "score": 0.409
+        },
+        {
+          "word": "lot",
+          "start": 432.842,
+          "end": 433.042,
+          "score": 0.546
+        },
+        {
+          "word": "of",
+          "start": 433.183,
+          "end": 433.223,
+          "score": 0.0
+        },
+        {
+          "word": "friends",
+          "start": 433.243,
+          "end": 433.523,
+          "score": 0.276
+        },
+        {
+          "word": "or",
+          "start": 433.623,
+          "end": 433.763,
+          "score": 0.802
+        },
+        {
+          "word": "people.",
+          "start": 434.043,
+          "end": 434.223,
+          "score": 0.423
+        }
+      ],
+      "avg_logprob": -0.13294460349961332
+    },
+    {
+      "start": 440.773,
+      "end": 447.329,
+      "text": " If you had a problem, would you go to your friends or family and why?",
+      "words": [
+        {
+          "word": "If",
+          "start": 440.773,
+          "end": 440.873,
+          "score": 0.967
+        },
+        {
+          "word": "you",
+          "start": 440.933,
+          "end": 441.114,
+          "score": 0.861
+        },
+        {
+          "word": "had",
+          "start": 441.154,
+          "end": 441.395,
+          "score": 0.823
+        },
+        {
+          "word": "a",
+          "start": 441.455,
+          "end": 441.475,
+          "score": 0.998
+        },
+        {
+          "word": "problem,",
+          "start": 441.615,
+          "end": 442.257,
+          "score": 0.885
+        },
+        {
+          "word": "would",
+          "start": 443.079,
+          "end": 443.279,
+          "score": 0.98
+        },
+        {
+          "word": "you",
+          "start": 443.319,
+          "end": 443.46,
+          "score": 0.891
+        },
+        {
+          "word": "go",
+          "start": 443.52,
+          "end": 443.7,
+          "score": 0.907
+        },
+        {
+          "word": "to",
+          "start": 443.801,
+          "end": 443.881,
+          "score": 0.998
+        },
+        {
+          "word": "your",
+          "start": 443.941,
+          "end": 444.101,
+          "score": 0.713
+        },
+        {
+          "word": "friends",
+          "start": 444.302,
+          "end": 444.803,
+          "score": 0.798
+        },
+        {
+          "word": "or",
+          "start": 445.304,
+          "end": 445.425,
+          "score": 0.645
+        },
+        {
+          "word": "family",
+          "start": 445.645,
+          "end": 446.227,
+          "score": 0.848
+        },
+        {
+          "word": "and",
+          "start": 446.748,
+          "end": 446.888,
+          "score": 0.784
+        },
+        {
+          "word": "why?",
+          "start": 447.009,
+          "end": 447.329,
+          "score": 0.891
+        }
+      ],
+      "avg_logprob": -0.09261126236783133
+    },
+    {
+      "start": 449.046,
+      "end": 471.72,
+      "text": " If I have a problem, I prefer or I'd like to go, I'd like to stay with my families and have some solution for solving these problems and some change for",
+      "words": [
+        {
+          "word": "If",
+          "start": 449.046,
+          "end": 449.126,
+          "score": 0.918
+        },
+        {
+          "word": "I",
+          "start": 449.206,
+          "end": 449.286,
+          "score": 0.825
+        },
+        {
+          "word": "have",
+          "start": 449.326,
+          "end": 449.506,
+          "score": 0.764
+        },
+        {
+          "word": "a",
+          "start": 449.546,
+          "end": 449.586,
+          "score": 0.413
+        },
+        {
+          "word": "problem,",
+          "start": 450.047,
+          "end": 451.027,
+          "score": 0.837
+        },
+        {
+          "word": "I",
+          "start": 451.307,
+          "end": 451.408,
+          "score": 0.796
+        },
+        {
+          "word": "prefer",
+          "start": 451.448,
+          "end": 451.988,
+          "score": 0.892
+        },
+        {
+          "word": "or",
+          "start": 452.168,
+          "end": 455.69,
+          "score": 0.806
+        },
+        {
+          "word": "I'd",
+          "start": 456.05,
+          "end": 456.511,
+          "score": 0.755
+        },
+        {
+          "word": "like",
+          "start": 456.571,
+          "end": 456.811,
+          "score": 0.898
+        },
+        {
+          "word": "to",
+          "start": 456.851,
+          "end": 457.131,
+          "score": 0.976
+        },
+        {
+          "word": "go,",
+          "start": 457.511,
+          "end": 457.811,
+          "score": 0.949
+        },
+        {
+          "word": "I'd",
+          "start": 458.292,
+          "end": 458.412,
+          "score": 0.68
+        },
+        {
+          "word": "like",
+          "start": 458.472,
+          "end": 458.672,
+          "score": 0.864
+        },
+        {
+          "word": "to",
+          "start": 458.712,
+          "end": 459.052,
+          "score": 0.912
+        },
+        {
+          "word": "stay",
+          "start": 459.592,
+          "end": 459.853,
+          "score": 0.832
+        },
+        {
+          "word": "with",
+          "start": 459.893,
+          "end": 460.033,
+          "score": 0.981
+        },
+        {
+          "word": "my",
+          "start": 460.113,
+          "end": 460.273,
+          "score": 0.892
+        },
+        {
+          "word": "families",
+          "start": 460.393,
+          "end": 460.993,
+          "score": 0.888
+        },
+        {
+          "word": "and",
+          "start": 461.474,
+          "end": 462.234,
+          "score": 0.863
+        },
+        {
+          "word": "have",
+          "start": 465.356,
+          "end": 465.716,
+          "score": 0.755
+        },
+        {
+          "word": "some",
+          "start": 465.796,
+          "end": 466.016,
+          "score": 0.939
+        },
+        {
+          "word": "solution",
+          "start": 466.357,
+          "end": 466.937,
+          "score": 0.923
+        },
+        {
+          "word": "for",
+          "start": 467.577,
+          "end": 467.837,
+          "score": 0.729
+        },
+        {
+          "word": "solving",
+          "start": 467.958,
+          "end": 469.058,
+          "score": 0.725
+        },
+        {
+          "word": "these",
+          "start": 469.118,
+          "end": 469.338,
+          "score": 0.873
+        },
+        {
+          "word": "problems",
+          "start": 469.418,
+          "end": 470.059,
+          "score": 0.857
+        },
+        {
+          "word": "and",
+          "start": 470.259,
+          "end": 470.379,
+          "score": 0.899
+        },
+        {
+          "word": "some",
+          "start": 470.439,
+          "end": 471.24,
+          "score": 0.77
+        },
+        {
+          "word": "change",
+          "start": 471.26,
+          "end": 471.54,
+          "score": 0.52
+        },
+        {
+          "word": "for",
+          "start": 471.56,
+          "end": 471.72,
+          "score": 0.295
+        }
+      ],
+      "avg_logprob": -0.22573969637354216
+    },
+    {
+      "start": 477.083,
+      "end": 485.068,
+      "text": " helping me in some difficulties and sometimes friends can help you in some situation but not really that.",
+      "words": [
+        {
+          "word": "helping",
+          "start": 477.083,
+          "end": 477.624,
+          "score": 0.851
+        },
+        {
+          "word": "me",
+          "start": 477.704,
+          "end": 477.924,
+          "score": 0.814
+        },
+        {
+          "word": "in",
+          "start": 478.124,
+          "end": 478.224,
+          "score": 0.913
+        },
+        {
+          "word": "some",
+          "start": 478.964,
+          "end": 479.185,
+          "score": 0.702
+        },
+        {
+          "word": "difficulties",
+          "start": 479.225,
+          "end": 480.085,
+          "score": 0.838
+        },
+        {
+          "word": "and",
+          "start": 480.986,
+          "end": 481.166,
+          "score": 0.887
+        },
+        {
+          "word": "sometimes",
+          "start": 481.186,
+          "end": 482.707,
+          "score": 0.581
+        },
+        {
+          "word": "friends",
+          "start": 482.727,
+          "end": 483.107,
+          "score": 0.427
+        },
+        {
+          "word": "can",
+          "start": 483.127,
+          "end": 483.347,
+          "score": 0.307
+        },
+        {
+          "word": "help",
+          "start": 483.367,
+          "end": 483.487,
+          "score": 0.314
+        },
+        {
+          "word": "you",
+          "start": 483.607,
+          "end": 483.848,
+          "score": 0.293
+        },
+        {
+          "word": "in",
+          "start": 483.868,
+          "end": 483.908,
+          "score": 0.17
+        },
+        {
+          "word": "some",
+          "start": 483.948,
+          "end": 484.128,
+          "score": 0.318
+        },
+        {
+          "word": "situation",
+          "start": 484.148,
+          "end": 484.328,
+          "score": 0.012
+        },
+        {
+          "word": "but",
+          "start": 484.348,
+          "end": 484.408,
+          "score": 0.0
+        },
+        {
+          "word": "not",
+          "start": 484.428,
+          "end": 484.488,
+          "score": 0.01
+        },
+        {
+          "word": "really",
+          "start": 484.508,
+          "end": 484.628,
+          "score": 0.004
+        },
+        {
+          "word": "that.",
+          "start": 484.908,
+          "end": 485.068,
+          "score": 0.336
+        }
+      ],
+      "avg_logprob": -0.3442190110683441
+    },
+    {
+      "start": 500.921,
+      "end": 506.565,
+      "text": " Do you think it's always better to talk to your friends about your problems?",
+      "words": [
+        {
+          "word": "Do",
+          "start": 500.921,
+          "end": 500.961,
+          "score": 0.015
+        },
+        {
+          "word": "you",
+          "start": 500.981,
+          "end": 501.121,
+          "score": 0.569
+        },
+        {
+          "word": "think",
+          "start": 501.201,
+          "end": 501.521,
+          "score": 0.904
+        },
+        {
+          "word": "it's",
+          "start": 501.702,
+          "end": 501.822,
+          "score": 0.934
+        },
+        {
+          "word": "always",
+          "start": 502.082,
+          "end": 502.522,
+          "score": 0.839
+        },
+        {
+          "word": "better",
+          "start": 502.682,
+          "end": 503.063,
+          "score": 0.836
+        },
+        {
+          "word": "to",
+          "start": 503.143,
+          "end": 503.243,
+          "score": 0.916
+        },
+        {
+          "word": "talk",
+          "start": 503.323,
+          "end": 503.643,
+          "score": 0.942
+        },
+        {
+          "word": "to",
+          "start": 503.703,
+          "end": 503.763,
+          "score": 0.924
+        },
+        {
+          "word": "your",
+          "start": 503.803,
+          "end": 503.943,
+          "score": 0.818
+        },
+        {
+          "word": "friends",
+          "start": 504.123,
+          "end": 504.524,
+          "score": 0.788
+        },
+        {
+          "word": "about",
+          "start": 504.744,
+          "end": 505.224,
+          "score": 0.881
+        },
+        {
+          "word": "your",
+          "start": 505.625,
+          "end": 505.825,
+          "score": 0.888
+        },
+        {
+          "word": "problems?",
+          "start": 505.905,
+          "end": 506.565,
+          "score": 0.845
+        }
+      ],
+      "avg_logprob": -0.043622374255210164
+    },
+    {
+      "start": 509.447,
+      "end": 511.089,
+      "text": "Can you repeat again?",
+      "words": [
+        {
+          "word": "Can",
+          "start": 509.447,
+          "end": 509.828,
+          "score": 0.638
+        },
+        {
+          "word": "you",
+          "start": 510.068,
+          "end": 510.508,
+          "score": 0.721
+        },
+        {
+          "word": "repeat",
+          "start": 510.588,
+          "end": 510.868,
+          "score": 0.834
+        },
+        {
+          "word": "again?",
+          "start": 510.888,
+          "end": 511.089,
+          "score": 0.351
+        }
+      ],
+      "avg_logprob": -0.043622374255210164
+    },
+    {
+      "start": 511.329,
+      "end": 511.669,
+      "text": "Yes.",
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 511.329,
+          "end": 511.669,
+          "score": 0.9
+        }
+      ],
+      "avg_logprob": -0.043622374255210164
+    },
+    {
+      "start": 512.29,
+      "end": 519.375,
+      "text": "Do you think it's always better to talk to your friends about your problems?",
+      "words": [
+        {
+          "word": "Do",
+          "start": 512.29,
+          "end": 512.37,
+          "score": 0.825
+        },
+        {
+          "word": "you",
+          "start": 512.39,
+          "end": 512.53,
+          "score": 0.874
+        },
+        {
+          "word": "think",
+          "start": 512.59,
+          "end": 512.95,
+          "score": 0.878
+        },
+        {
+          "word": "it's",
+          "start": 513.15,
+          "end": 513.31,
+          "score": 0.904
+        },
+        {
+          "word": "always",
+          "start": 513.711,
+          "end": 514.331,
+          "score": 0.691
+        },
+        {
+          "word": "better",
+          "start": 514.551,
+          "end": 514.952,
+          "score": 0.785
+        },
+        {
+          "word": "to",
+          "start": 514.972,
+          "end": 515.012,
+          "score": 0.0
+        },
+        {
+          "word": "talk",
+          "start": 516.172,
+          "end": 516.493,
+          "score": 0.921
+        },
+        {
+          "word": "to",
+          "start": 516.513,
+          "end": 516.553,
+          "score": 0.006
+        },
+        {
+          "word": "your",
+          "start": 516.773,
+          "end": 516.973,
+          "score": 0.875
+        },
+        {
+          "word": "friends",
+          "start": 517.173,
+          "end": 517.694,
+          "score": 0.805
+        },
+        {
+          "word": "about",
+          "start": 518.014,
+          "end": 518.474,
+          "score": 0.914
+        },
+        {
+          "word": "your",
+          "start": 518.554,
+          "end": 518.734,
+          "score": 0.852
+        },
+        {
+          "word": "problems?",
+          "start": 518.814,
+          "end": 519.375,
+          "score": 0.879
+        }
+      ],
+      "avg_logprob": -0.043622374255210164
+    },
+    {
+      "start": 520.828,
+      "end": 541.644,
+      "text": " I told you in some situation, yes, but for always it's not good because it's better to say for some people who have experience in that situation and you can",
+      "words": [
+        {
+          "word": "I",
+          "start": 520.828,
+          "end": 520.868,
+          "score": 0.999
+        },
+        {
+          "word": "told",
+          "start": 520.928,
+          "end": 521.149,
+          "score": 0.905
+        },
+        {
+          "word": "you",
+          "start": 521.189,
+          "end": 521.409,
+          "score": 0.979
+        },
+        {
+          "word": "in",
+          "start": 522.83,
+          "end": 522.93,
+          "score": 0.982
+        },
+        {
+          "word": "some",
+          "start": 522.99,
+          "end": 523.23,
+          "score": 0.988
+        },
+        {
+          "word": "situation,",
+          "start": 523.65,
+          "end": 524.411,
+          "score": 0.905
+        },
+        {
+          "word": "yes,",
+          "start": 525.492,
+          "end": 525.732,
+          "score": 0.952
+        },
+        {
+          "word": "but",
+          "start": 526.252,
+          "end": 526.733,
+          "score": 0.858
+        },
+        {
+          "word": "for",
+          "start": 526.833,
+          "end": 526.973,
+          "score": 0.992
+        },
+        {
+          "word": "always",
+          "start": 527.053,
+          "end": 527.453,
+          "score": 0.852
+        },
+        {
+          "word": "it's",
+          "start": 528.054,
+          "end": 528.174,
+          "score": 0.412
+        },
+        {
+          "word": "not",
+          "start": 528.334,
+          "end": 528.594,
+          "score": 0.891
+        },
+        {
+          "word": "good",
+          "start": 528.674,
+          "end": 528.934,
+          "score": 0.671
+        },
+        {
+          "word": "because",
+          "start": 529.355,
+          "end": 530.215,
+          "score": 0.91
+        },
+        {
+          "word": "it's",
+          "start": 531.516,
+          "end": 532.037,
+          "score": 0.761
+        },
+        {
+          "word": "better",
+          "start": 533.257,
+          "end": 533.638,
+          "score": 0.93
+        },
+        {
+          "word": "to",
+          "start": 533.658,
+          "end": 534.498,
+          "score": 0.906
+        },
+        {
+          "word": "say",
+          "start": 535.499,
+          "end": 536.38,
+          "score": 0.825
+        },
+        {
+          "word": "for",
+          "start": 536.92,
+          "end": 537.28,
+          "score": 0.812
+        },
+        {
+          "word": "some",
+          "start": 537.481,
+          "end": 538.541,
+          "score": 0.901
+        },
+        {
+          "word": "people",
+          "start": 538.581,
+          "end": 538.922,
+          "score": 0.936
+        },
+        {
+          "word": "who",
+          "start": 538.942,
+          "end": 539.002,
+          "score": 0.0
+        },
+        {
+          "word": "have",
+          "start": 539.402,
+          "end": 539.742,
+          "score": 0.608
+        },
+        {
+          "word": "experience",
+          "start": 539.762,
+          "end": 540.323,
+          "score": 0.42
+        },
+        {
+          "word": "in",
+          "start": 540.403,
+          "end": 540.483,
+          "score": 0.488
+        },
+        {
+          "word": "that",
+          "start": 540.503,
+          "end": 540.723,
+          "score": 0.609
+        },
+        {
+          "word": "situation",
+          "start": 540.743,
+          "end": 541.023,
+          "score": 0.202
+        },
+        {
+          "word": "and",
+          "start": 541.063,
+          "end": 541.203,
+          "score": 0.578
+        },
+        {
+          "word": "you",
+          "start": 541.283,
+          "end": 541.483,
+          "score": 0.72
+        },
+        {
+          "word": "can",
+          "start": 541.524,
+          "end": 541.644,
+          "score": 0.554
+        }
+      ],
+      "avg_logprob": -0.2217604432787214
+    },
+    {
+      "start": 548.088,
+      "end": 569.056,
+      "text": " and you can have some good results in this situation and so it helps you to have good results or benefits.",
+      "words": [
+        {
+          "word": "and",
+          "start": 548.088,
+          "end": 548.228,
+          "score": 0.784
+        },
+        {
+          "word": "you",
+          "start": 548.768,
+          "end": 550.789,
+          "score": 0.871
+        },
+        {
+          "word": "can",
+          "start": 551.009,
+          "end": 551.309,
+          "score": 0.712
+        },
+        {
+          "word": "have",
+          "start": 551.369,
+          "end": 552.01,
+          "score": 0.912
+        },
+        {
+          "word": "some",
+          "start": 552.33,
+          "end": 553.57,
+          "score": 0.895
+        },
+        {
+          "word": "good",
+          "start": 554.05,
+          "end": 554.27,
+          "score": 0.894
+        },
+        {
+          "word": "results",
+          "start": 554.33,
+          "end": 554.951,
+          "score": 0.734
+        },
+        {
+          "word": "in",
+          "start": 555.291,
+          "end": 555.371,
+          "score": 0.996
+        },
+        {
+          "word": "this",
+          "start": 555.411,
+          "end": 555.691,
+          "score": 0.859
+        },
+        {
+          "word": "situation",
+          "start": 555.891,
+          "end": 556.671,
+          "score": 0.844
+        },
+        {
+          "word": "and",
+          "start": 557.431,
+          "end": 559.932,
+          "score": 0.871
+        },
+        {
+          "word": "so",
+          "start": 560.172,
+          "end": 560.493,
+          "score": 0.972
+        },
+        {
+          "word": "it",
+          "start": 560.733,
+          "end": 563.294,
+          "score": 0.79
+        },
+        {
+          "word": "helps",
+          "start": 563.734,
+          "end": 564.014,
+          "score": 0.724
+        },
+        {
+          "word": "you",
+          "start": 564.054,
+          "end": 564.214,
+          "score": 0.997
+        },
+        {
+          "word": "to",
+          "start": 564.274,
+          "end": 564.514,
+          "score": 0.836
+        },
+        {
+          "word": "have",
+          "start": 564.654,
+          "end": 565.014,
+          "score": 0.83
+        },
+        {
+          "word": "good",
+          "start": 565.154,
+          "end": 565.594,
+          "score": 0.909
+        },
+        {
+          "word": "results",
+          "start": 565.714,
+          "end": 566.535,
+          "score": 0.788
+        },
+        {
+          "word": "or",
+          "start": 566.555,
+          "end": 566.615,
+          "score": 0.001
+        },
+        {
+          "word": "benefits.",
+          "start": 568.475,
+          "end": 569.056,
+          "score": 0.877
+        }
+      ],
+      "avg_logprob": -0.1890941788442433
+    },
+    {
+      "start": 571.376,
+      "end": 575.778,
+      "text": "Is it necessary to have friends from other countries",
+      "words": [
+        {
+          "word": "Is",
+          "start": 571.376,
+          "end": 571.456,
+          "score": 0.857
+        },
+        {
+          "word": "it",
+          "start": 571.516,
+          "end": 571.616,
+          "score": 0.784
+        },
+        {
+          "word": "necessary",
+          "start": 571.757,
+          "end": 572.597,
+          "score": 0.891
+        },
+        {
+          "word": "to",
+          "start": 573.017,
+          "end": 573.157,
+          "score": 0.852
+        },
+        {
+          "word": "have",
+          "start": 573.237,
+          "end": 573.477,
+          "score": 0.872
+        },
+        {
+          "word": "friends",
+          "start": 573.697,
+          "end": 574.157,
+          "score": 0.85
+        },
+        {
+          "word": "from",
+          "start": 574.397,
+          "end": 574.618,
+          "score": 0.618
+        },
+        {
+          "word": "other",
+          "start": 574.838,
+          "end": 575.058,
+          "score": 0.895
+        },
+        {
+          "word": "countries",
+          "start": 575.178,
+          "end": 575.778,
+          "score": 0.891
+        }
+      ],
+      "avg_logprob": -0.1890941788442433
+    },
+    {
+      "start": 577.3,
+      "end": 606.34,
+      "text": " Yes, it's necessary because when you can have some goals or aims in foreign country, he or she or there can help you in some situation and you can some speaking or talking about your problems with him",
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 577.3,
+          "end": 577.6,
+          "score": 0.915
+        },
+        {
+          "word": "it's",
+          "start": 577.82,
+          "end": 578.361,
+          "score": 0.498
+        },
+        {
+          "word": "necessary",
+          "start": 578.461,
+          "end": 579.101,
+          "score": 0.887
+        },
+        {
+          "word": "because",
+          "start": 579.482,
+          "end": 579.882,
+          "score": 0.895
+        },
+        {
+          "word": "when",
+          "start": 579.902,
+          "end": 581.783,
+          "score": 0.679
+        },
+        {
+          "word": "you",
+          "start": 583.644,
+          "end": 584.665,
+          "score": 0.739
+        },
+        {
+          "word": "can",
+          "start": 584.685,
+          "end": 584.885,
+          "score": 0.837
+        },
+        {
+          "word": "have",
+          "start": 585.225,
+          "end": 585.706,
+          "score": 0.858
+        },
+        {
+          "word": "some",
+          "start": 586.386,
+          "end": 586.646,
+          "score": 0.977
+        },
+        {
+          "word": "goals",
+          "start": 586.967,
+          "end": 587.267,
+          "score": 0.69
+        },
+        {
+          "word": "or",
+          "start": 587.367,
+          "end": 587.487,
+          "score": 0.756
+        },
+        {
+          "word": "aims",
+          "start": 587.647,
+          "end": 587.867,
+          "score": 0.912
+        },
+        {
+          "word": "in",
+          "start": 589.228,
+          "end": 589.388,
+          "score": 0.982
+        },
+        {
+          "word": "foreign",
+          "start": 589.909,
+          "end": 590.229,
+          "score": 0.771
+        },
+        {
+          "word": "country,",
+          "start": 590.289,
+          "end": 590.769,
+          "score": 0.946
+        },
+        {
+          "word": "he",
+          "start": 591.95,
+          "end": 592.15,
+          "score": 0.919
+        },
+        {
+          "word": "or",
+          "start": 592.25,
+          "end": 592.37,
+          "score": 0.867
+        },
+        {
+          "word": "she",
+          "start": 592.53,
+          "end": 592.891,
+          "score": 0.74
+        },
+        {
+          "word": "or",
+          "start": 593.131,
+          "end": 593.251,
+          "score": 0.811
+        },
+        {
+          "word": "there",
+          "start": 593.311,
+          "end": 593.591,
+          "score": 0.45
+        },
+        {
+          "word": "can",
+          "start": 594.472,
+          "end": 594.952,
+          "score": 0.823
+        },
+        {
+          "word": "help",
+          "start": 595.052,
+          "end": 595.352,
+          "score": 0.856
+        },
+        {
+          "word": "you",
+          "start": 595.412,
+          "end": 595.653,
+          "score": 0.952
+        },
+        {
+          "word": "in",
+          "start": 596.113,
+          "end": 596.193,
+          "score": 0.894
+        },
+        {
+          "word": "some",
+          "start": 596.253,
+          "end": 596.453,
+          "score": 0.915
+        },
+        {
+          "word": "situation",
+          "start": 596.533,
+          "end": 597.074,
+          "score": 0.958
+        },
+        {
+          "word": "and",
+          "start": 597.154,
+          "end": 597.594,
+          "score": 0.716
+        },
+        {
+          "word": "you",
+          "start": 597.714,
+          "end": 598.094,
+          "score": 0.913
+        },
+        {
+          "word": "can",
+          "start": 598.214,
+          "end": 598.835,
+          "score": 0.485
+        },
+        {
+          "word": "some",
+          "start": 599.915,
+          "end": 600.196,
+          "score": 0.891
+        },
+        {
+          "word": "speaking",
+          "start": 602.958,
+          "end": 603.358,
+          "score": 0.884
+        },
+        {
+          "word": "or",
+          "start": 603.478,
+          "end": 603.598,
+          "score": 0.802
+        },
+        {
+          "word": "talking",
+          "start": 603.658,
+          "end": 604.018,
+          "score": 0.833
+        },
+        {
+          "word": "about",
+          "start": 604.118,
+          "end": 604.378,
+          "score": 0.795
+        },
+        {
+          "word": "your",
+          "start": 604.859,
+          "end": 605.099,
+          "score": 0.876
+        },
+        {
+          "word": "problems",
+          "start": 605.179,
+          "end": 605.799,
+          "score": 0.868
+        },
+        {
+          "word": "with",
+          "start": 605.879,
+          "end": 606.1,
+          "score": 0.876
+        },
+        {
+          "word": "him",
+          "start": 606.16,
+          "end": 606.34,
+          "score": 0.971
+        }
+      ],
+      "avg_logprob": -0.16692778964837393
+    },
+    {
+      "start": 609.198,
+      "end": 609.599,
+      "text": " Okay.",
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 609.198,
+          "end": 609.599,
+          "score": 0.681
+        }
+      ],
+      "avg_logprob": -0.14056406997972065
+    },
+    {
+      "start": 610.32,
+      "end": 610.861,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 610.32,
+          "end": 610.581,
+          "score": 0.899
+        },
+        {
+          "word": "you.",
+          "start": 610.601,
+          "end": 610.861,
+          "score": 0.655
+        }
+      ],
+      "avg_logprob": -0.14056406997972065
+    },
+    {
+      "start": 611.102,
+      "end": 612.985,
+      "text": "That is the end of your speaking test.",
+      "words": [
+        {
+          "word": "That",
+          "start": 611.102,
+          "end": 611.302,
+          "score": 0.948
+        },
+        {
+          "word": "is",
+          "start": 611.362,
+          "end": 611.463,
+          "score": 0.639
+        },
+        {
+          "word": "the",
+          "start": 611.483,
+          "end": 611.563,
+          "score": 0.878
+        },
+        {
+          "word": "end",
+          "start": 611.603,
+          "end": 611.743,
+          "score": 0.903
+        },
+        {
+          "word": "of",
+          "start": 611.783,
+          "end": 611.843,
+          "score": 0.749
+        },
+        {
+          "word": "your",
+          "start": 611.883,
+          "end": 612.124,
+          "score": 0.899
+        },
+        {
+          "word": "speaking",
+          "start": 612.204,
+          "end": 612.605,
+          "score": 0.989
+        },
+        {
+          "word": "test.",
+          "start": 612.685,
+          "end": 612.985,
+          "score": 0.729
+        }
+      ],
+      "avg_logprob": -0.14056406997972065
+    },
+    {
+      "start": 613.446,
+      "end": 613.807,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 613.446,
+          "end": 613.667,
+          "score": 0.429
+        },
+        {
+          "word": "you.",
+          "start": 613.707,
+          "end": 613.807,
+          "score": 0.38
+        }
+      ],
+      "avg_logprob": -0.14056406997972065
+    },
+    {
+      "start": 623.768,
+      "end": 626.73,
+      "text": " Alright, so I have some tips for you.",
+      "words": [
+        {
+          "word": "Alright,",
+          "start": 623.768,
+          "end": 624.148,
+          "score": 0.731
+        },
+        {
+          "word": "so",
+          "start": 624.789,
+          "end": 624.989,
+          "score": 0.92
+        },
+        {
+          "word": "I",
+          "start": 625.429,
+          "end": 625.489,
+          "score": 0.996
+        },
+        {
+          "word": "have",
+          "start": 625.529,
+          "end": 625.649,
+          "score": 0.956
+        },
+        {
+          "word": "some",
+          "start": 625.689,
+          "end": 625.849,
+          "score": 0.745
+        },
+        {
+          "word": "tips",
+          "start": 625.929,
+          "end": 626.21,
+          "score": 0.905
+        },
+        {
+          "word": "for",
+          "start": 626.31,
+          "end": 626.49,
+          "score": 0.83
+        },
+        {
+          "word": "you.",
+          "start": 626.53,
+          "end": 626.73,
+          "score": 0.859
+        }
+      ],
+      "avg_logprob": -0.11169364443723706
+    },
+    {
+      "start": 627.15,
+      "end": 634.575,
+      "text": "First of all, IELTS exam is a test for assessing your general knowledge.",
+      "words": [
+        {
+          "word": "First",
+          "start": 627.15,
+          "end": 627.45,
+          "score": 0.867
+        },
+        {
+          "word": "of",
+          "start": 627.53,
+          "end": 627.611,
+          "score": 0.832
+        },
+        {
+          "word": "all,",
+          "start": 627.711,
+          "end": 627.871,
+          "score": 0.839
+        },
+        {
+          "word": "IELTS",
+          "start": 628.411,
+          "end": 628.851,
+          "score": 0.664
+        },
+        {
+          "word": "exam",
+          "start": 628.891,
+          "end": 629.352,
+          "score": 0.939
+        },
+        {
+          "word": "is",
+          "start": 629.772,
+          "end": 629.932,
+          "score": 0.737
+        },
+        {
+          "word": "a",
+          "start": 630.412,
+          "end": 630.492,
+          "score": 0.971
+        },
+        {
+          "word": "test",
+          "start": 630.833,
+          "end": 631.193,
+          "score": 0.978
+        },
+        {
+          "word": "for",
+          "start": 631.313,
+          "end": 631.653,
+          "score": 0.639
+        },
+        {
+          "word": "assessing",
+          "start": 632.294,
+          "end": 632.894,
+          "score": 0.844
+        },
+        {
+          "word": "your",
+          "start": 633.014,
+          "end": 633.334,
+          "score": 0.793
+        },
+        {
+          "word": "general",
+          "start": 633.514,
+          "end": 634.095,
+          "score": 0.845
+        },
+        {
+          "word": "knowledge.",
+          "start": 634.155,
+          "end": 634.575,
+          "score": 0.909
+        }
+      ],
+      "avg_logprob": -0.11169364443723706
+    },
+    {
+      "start": 634.735,
+      "end": 641.74,
+      "text": "For example, you should know a lot of topic-related vocabularies or good range of grammar, okay?",
+      "words": [
+        {
+          "word": "For",
+          "start": 634.735,
+          "end": 634.835,
+          "score": 0.955
+        },
+        {
+          "word": "example,",
+          "start": 634.875,
+          "end": 635.516,
+          "score": 0.831
+        },
+        {
+          "word": "you",
+          "start": 635.576,
+          "end": 635.776,
+          "score": 0.995
+        },
+        {
+          "word": "should",
+          "start": 635.856,
+          "end": 636.176,
+          "score": 0.777
+        },
+        {
+          "word": "know",
+          "start": 636.356,
+          "end": 636.596,
+          "score": 0.646
+        },
+        {
+          "word": "a",
+          "start": 636.616,
+          "end": 636.636,
+          "score": 0.0
+        },
+        {
+          "word": "lot",
+          "start": 636.917,
+          "end": 637.137,
+          "score": 0.88
+        },
+        {
+          "word": "of",
+          "start": 637.197,
+          "end": 637.257,
+          "score": 0.768
+        },
+        {
+          "word": "topic-related",
+          "start": 637.517,
+          "end": 638.278,
+          "score": 0.918
+        },
+        {
+          "word": "vocabularies",
+          "start": 638.358,
+          "end": 639.378,
+          "score": 0.881
+        },
+        {
+          "word": "or",
+          "start": 639.638,
+          "end": 639.738,
+          "score": 0.562
+        },
+        {
+          "word": "good",
+          "start": 639.859,
+          "end": 640.059,
+          "score": 0.918
+        },
+        {
+          "word": "range",
+          "start": 640.099,
+          "end": 640.339,
+          "score": 0.712
+        },
+        {
+          "word": "of",
+          "start": 640.379,
+          "end": 640.459,
+          "score": 0.836
+        },
+        {
+          "word": "grammar,",
+          "start": 640.559,
+          "end": 641.159,
+          "score": 0.915
+        },
+        {
+          "word": "okay?",
+          "start": 641.36,
+          "end": 641.74,
+          "score": 0.75
+        }
+      ],
+      "avg_logprob": -0.11169364443723706
+    },
+    {
+      "start": 642.821,
+      "end": 649.405,
+      "text": "Although actually you didn't have so many, you know, grammatical points.",
+      "words": [
+        {
+          "word": "Although",
+          "start": 642.821,
+          "end": 644.622,
+          "score": 0.759
+        },
+        {
+          "word": "actually",
+          "start": 644.742,
+          "end": 645.102,
+          "score": 0.868
+        },
+        {
+          "word": "you",
+          "start": 645.142,
+          "end": 645.222,
+          "score": 0.962
+        },
+        {
+          "word": "didn't",
+          "start": 645.262,
+          "end": 645.522,
+          "score": 0.844
+        },
+        {
+          "word": "have",
+          "start": 645.662,
+          "end": 645.943,
+          "score": 0.885
+        },
+        {
+          "word": "so",
+          "start": 646.143,
+          "end": 646.403,
+          "score": 0.956
+        },
+        {
+          "word": "many,",
+          "start": 646.523,
+          "end": 646.963,
+          "score": 0.909
+        },
+        {
+          "word": "you",
+          "start": 647.584,
+          "end": 647.664,
+          "score": 0.552
+        },
+        {
+          "word": "know,",
+          "start": 647.704,
+          "end": 647.924,
+          "score": 0.899
+        },
+        {
+          "word": "grammatical",
+          "start": 648.044,
+          "end": 648.904,
+          "score": 0.894
+        },
+        {
+          "word": "points.",
+          "start": 648.985,
+          "end": 649.405,
+          "score": 0.889
+        }
+      ],
+      "avg_logprob": -0.11169364443723706
+    },
+    {
+      "start": 649.865,
+      "end": 650.926,
+      "text": " while you were speaking.",
+      "words": [
+        {
+          "word": "while",
+          "start": 649.865,
+          "end": 650.045,
+          "score": 0.857
+        },
+        {
+          "word": "you",
+          "start": 650.085,
+          "end": 650.186,
+          "score": 0.784
+        },
+        {
+          "word": "were",
+          "start": 650.206,
+          "end": 650.366,
+          "score": 0.737
+        },
+        {
+          "word": "speaking.",
+          "start": 650.466,
+          "end": 650.926,
+          "score": 0.936
+        }
+      ],
+      "avg_logprob": -0.0665118525571683
+    },
+    {
+      "start": 651.207,
+      "end": 653.89,
+      "text": "Pay attention to even basic grammars.",
+      "words": [
+        {
+          "word": "Pay",
+          "start": 651.207,
+          "end": 651.307,
+          "score": 0.796
+        },
+        {
+          "word": "attention",
+          "start": 651.347,
+          "end": 651.888,
+          "score": 0.893
+        },
+        {
+          "word": "to",
+          "start": 652.208,
+          "end": 652.428,
+          "score": 0.76
+        },
+        {
+          "word": "even",
+          "start": 652.568,
+          "end": 652.769,
+          "score": 0.771
+        },
+        {
+          "word": "basic",
+          "start": 652.869,
+          "end": 653.329,
+          "score": 0.844
+        },
+        {
+          "word": "grammars.",
+          "start": 653.45,
+          "end": 653.89,
+          "score": 0.927
+        }
+      ],
+      "avg_logprob": -0.0665118525571683
+    },
+    {
+      "start": 653.93,
+      "end": 660.378,
+      "text": "For example, when you are talking about a past tense, you should use verbs in past tense.",
+      "words": [
+        {
+          "word": "For",
+          "start": 653.93,
+          "end": 654.03,
+          "score": 0.701
+        },
+        {
+          "word": "example,",
+          "start": 654.07,
+          "end": 654.471,
+          "score": 0.899
+        },
+        {
+          "word": "when",
+          "start": 654.511,
+          "end": 654.651,
+          "score": 0.708
+        },
+        {
+          "word": "you",
+          "start": 654.671,
+          "end": 654.771,
+          "score": 0.844
+        },
+        {
+          "word": "are",
+          "start": 654.811,
+          "end": 654.911,
+          "score": 0.724
+        },
+        {
+          "word": "talking",
+          "start": 654.971,
+          "end": 655.312,
+          "score": 0.879
+        },
+        {
+          "word": "about",
+          "start": 655.412,
+          "end": 655.792,
+          "score": 0.913
+        },
+        {
+          "word": "a",
+          "start": 655.812,
+          "end": 655.832,
+          "score": 0.0
+        },
+        {
+          "word": "past",
+          "start": 656.193,
+          "end": 656.733,
+          "score": 0.936
+        },
+        {
+          "word": "tense,",
+          "start": 656.874,
+          "end": 657.294,
+          "score": 0.841
+        },
+        {
+          "word": "you",
+          "start": 657.795,
+          "end": 657.935,
+          "score": 0.917
+        },
+        {
+          "word": "should",
+          "start": 657.975,
+          "end": 658.235,
+          "score": 0.84
+        },
+        {
+          "word": "use",
+          "start": 658.476,
+          "end": 658.676,
+          "score": 0.697
+        },
+        {
+          "word": "verbs",
+          "start": 658.936,
+          "end": 659.297,
+          "score": 0.836
+        },
+        {
+          "word": "in",
+          "start": 659.437,
+          "end": 659.537,
+          "score": 0.874
+        },
+        {
+          "word": "past",
+          "start": 659.637,
+          "end": 659.997,
+          "score": 0.813
+        },
+        {
+          "word": "tense.",
+          "start": 660.057,
+          "end": 660.378,
+          "score": 0.909
+        }
+      ],
+      "avg_logprob": -0.0665118525571683
+    },
+    {
+      "start": 660.818,
+      "end": 661.158,
+      "text": " OK?",
+      "words": [
+        {
+          "word": "OK?",
+          "start": 660.818,
+          "end": 661.158,
+          "score": 0.883
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 661.599,
+      "end": 667.862,
+      "text": "Or when you are speaking in present tense, you should choose present verbs.",
+      "words": [
+        {
+          "word": "Or",
+          "start": 661.599,
+          "end": 661.699,
+          "score": 0.777
+        },
+        {
+          "word": "when",
+          "start": 661.719,
+          "end": 662.279,
+          "score": 0.579
+        },
+        {
+          "word": "you",
+          "start": 662.299,
+          "end": 662.659,
+          "score": 0.857
+        },
+        {
+          "word": "are",
+          "start": 662.679,
+          "end": 662.739,
+          "score": 0.0
+        },
+        {
+          "word": "speaking",
+          "start": 662.839,
+          "end": 663.159,
+          "score": 0.937
+        },
+        {
+          "word": "in",
+          "start": 663.199,
+          "end": 663.26,
+          "score": 0.69
+        },
+        {
+          "word": "present",
+          "start": 663.34,
+          "end": 663.76,
+          "score": 0.882
+        },
+        {
+          "word": "tense,",
+          "start": 663.8,
+          "end": 664.12,
+          "score": 0.907
+        },
+        {
+          "word": "you",
+          "start": 664.42,
+          "end": 664.5,
+          "score": 0.993
+        },
+        {
+          "word": "should",
+          "start": 664.52,
+          "end": 664.72,
+          "score": 0.745
+        },
+        {
+          "word": "choose",
+          "start": 665.701,
+          "end": 666.041,
+          "score": 0.802
+        },
+        {
+          "word": "present",
+          "start": 666.281,
+          "end": 666.842,
+          "score": 0.841
+        },
+        {
+          "word": "verbs.",
+          "start": 667.522,
+          "end": 667.862,
+          "score": 0.91
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 668.203,
+      "end": 668.563,
+      "text": "OK?",
+      "words": [
+        {
+          "word": "OK?",
+          "start": 668.203,
+          "end": 668.563,
+          "score": 0.863
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 668.803,
+      "end": 669.703,
+      "text": "It's very important.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 668.803,
+          "end": 668.923,
+          "score": 0.862
+        },
+        {
+          "word": "very",
+          "start": 668.963,
+          "end": 669.143,
+          "score": 0.95
+        },
+        {
+          "word": "important.",
+          "start": 669.183,
+          "end": 669.703,
+          "score": 0.98
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 670.784,
+      "end": 674.266,
+      "text": "Moreover, pay attention to some grammatical points.",
+      "words": [
+        {
+          "word": "Moreover,",
+          "start": 670.784,
+          "end": 671.324,
+          "score": 0.92
+        },
+        {
+          "word": "pay",
+          "start": 671.344,
+          "end": 671.404,
+          "score": 0.0
+        },
+        {
+          "word": "attention",
+          "start": 671.665,
+          "end": 672.125,
+          "score": 0.89
+        },
+        {
+          "word": "to",
+          "start": 672.165,
+          "end": 672.265,
+          "score": 0.966
+        },
+        {
+          "word": "some",
+          "start": 672.365,
+          "end": 672.665,
+          "score": 0.99
+        },
+        {
+          "word": "grammatical",
+          "start": 673.226,
+          "end": 673.846,
+          "score": 0.749
+        },
+        {
+          "word": "points.",
+          "start": 673.926,
+          "end": 674.266,
+          "score": 0.835
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 674.286,
+      "end": 679.249,
+      "text": "For example, after modal verbs like can, you should use base form.",
+      "words": [
+        {
+          "word": "For",
+          "start": 674.286,
+          "end": 674.386,
+          "score": 0.916
+        },
+        {
+          "word": "example,",
+          "start": 674.446,
+          "end": 674.907,
+          "score": 0.965
+        },
+        {
+          "word": "after",
+          "start": 675.107,
+          "end": 675.387,
+          "score": 0.871
+        },
+        {
+          "word": "modal",
+          "start": 675.487,
+          "end": 675.907,
+          "score": 0.784
+        },
+        {
+          "word": "verbs",
+          "start": 675.947,
+          "end": 676.287,
+          "score": 0.92
+        },
+        {
+          "word": "like",
+          "start": 676.367,
+          "end": 676.668,
+          "score": 0.622
+        },
+        {
+          "word": "can,",
+          "start": 676.788,
+          "end": 677.188,
+          "score": 0.834
+        },
+        {
+          "word": "you",
+          "start": 677.868,
+          "end": 677.928,
+          "score": 0.95
+        },
+        {
+          "word": "should",
+          "start": 677.968,
+          "end": 678.149,
+          "score": 0.826
+        },
+        {
+          "word": "use",
+          "start": 678.409,
+          "end": 678.549,
+          "score": 0.787
+        },
+        {
+          "word": "base",
+          "start": 678.669,
+          "end": 678.949,
+          "score": 0.898
+        },
+        {
+          "word": "form.",
+          "start": 679.029,
+          "end": 679.249,
+          "score": 0.688
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 679.449,
+      "end": 681.451,
+      "text": "For example, I can play.",
+      "words": [
+        {
+          "word": "For",
+          "start": 679.449,
+          "end": 679.549,
+          "score": 0.871
+        },
+        {
+          "word": "example,",
+          "start": 679.589,
+          "end": 679.99,
+          "score": 0.929
+        },
+        {
+          "word": "I",
+          "start": 680.31,
+          "end": 680.41,
+          "score": 0.781
+        },
+        {
+          "word": "can",
+          "start": 680.57,
+          "end": 680.91,
+          "score": 0.867
+        },
+        {
+          "word": "play.",
+          "start": 681.07,
+          "end": 681.451,
+          "score": 0.852
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 681.731,
+      "end": 682.891,
+      "text": "He can do.",
+      "words": [
+        {
+          "word": "He",
+          "start": 681.731,
+          "end": 681.871,
+          "score": 0.824
+        },
+        {
+          "word": "can",
+          "start": 681.991,
+          "end": 682.391,
+          "score": 0.766
+        },
+        {
+          "word": "do.",
+          "start": 682.671,
+          "end": 682.891,
+          "score": 0.933
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 683.312,
+      "end": 683.712,
+      "text": "All right?",
+      "words": [
+        {
+          "word": "All",
+          "start": 683.312,
+          "end": 683.412,
+          "score": 0.768
+        },
+        {
+          "word": "right?",
+          "start": 683.452,
+          "end": 683.712,
+          "score": 0.817
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 684.052,
+      "end": 688.575,
+      "text": "You had some errors and mistakes related to this grammatical point.",
+      "words": [
+        {
+          "word": "You",
+          "start": 684.052,
+          "end": 684.212,
+          "score": 0.939
+        },
+        {
+          "word": "had",
+          "start": 684.232,
+          "end": 684.372,
+          "score": 0.86
+        },
+        {
+          "word": "some",
+          "start": 684.432,
+          "end": 684.652,
+          "score": 0.869
+        },
+        {
+          "word": "errors",
+          "start": 684.833,
+          "end": 685.153,
+          "score": 0.72
+        },
+        {
+          "word": "and",
+          "start": 685.193,
+          "end": 685.273,
+          "score": 0.656
+        },
+        {
+          "word": "mistakes",
+          "start": 685.333,
+          "end": 685.733,
+          "score": 0.902
+        },
+        {
+          "word": "related",
+          "start": 686.193,
+          "end": 686.614,
+          "score": 0.892
+        },
+        {
+          "word": "to",
+          "start": 686.714,
+          "end": 686.914,
+          "score": 0.8
+        },
+        {
+          "word": "this",
+          "start": 687.174,
+          "end": 687.354,
+          "score": 0.719
+        },
+        {
+          "word": "grammatical",
+          "start": 687.474,
+          "end": 688.215,
+          "score": 0.901
+        },
+        {
+          "word": "point.",
+          "start": 688.315,
+          "end": 688.575,
+          "score": 0.882
+        }
+      ],
+      "avg_logprob": -0.09010825391057171
+    },
+    {
+      "start": 689.552,
+      "end": 692.334,
+      "text": " You understand what I'm talking about.",
+      "words": [
+        {
+          "word": "You",
+          "start": 689.552,
+          "end": 689.712,
+          "score": 0.896
+        },
+        {
+          "word": "understand",
+          "start": 689.812,
+          "end": 690.513,
+          "score": 0.811
+        },
+        {
+          "word": "what",
+          "start": 691.273,
+          "end": 691.393,
+          "score": 0.949
+        },
+        {
+          "word": "I'm",
+          "start": 691.433,
+          "end": 691.573,
+          "score": 0.534
+        },
+        {
+          "word": "talking",
+          "start": 691.613,
+          "end": 691.954,
+          "score": 0.935
+        },
+        {
+          "word": "about.",
+          "start": 692.014,
+          "end": 692.334,
+          "score": 0.896
+        }
+      ],
+      "avg_logprob": -0.07936079278588296
+    },
+    {
+      "start": 692.394,
+      "end": 698.478,
+      "text": "You can get what is the question, but sometimes you have a lot of hesitation.",
+      "words": [
+        {
+          "word": "You",
+          "start": 692.394,
+          "end": 692.494,
+          "score": 0.997
+        },
+        {
+          "word": "can",
+          "start": 692.534,
+          "end": 692.754,
+          "score": 0.724
+        },
+        {
+          "word": "get",
+          "start": 693.154,
+          "end": 693.415,
+          "score": 0.767
+        },
+        {
+          "word": "what",
+          "start": 694.015,
+          "end": 694.195,
+          "score": 0.846
+        },
+        {
+          "word": "is",
+          "start": 694.235,
+          "end": 694.335,
+          "score": 0.72
+        },
+        {
+          "word": "the",
+          "start": 694.355,
+          "end": 694.455,
+          "score": 0.911
+        },
+        {
+          "word": "question,",
+          "start": 694.535,
+          "end": 695.056,
+          "score": 0.913
+        },
+        {
+          "word": "but",
+          "start": 695.376,
+          "end": 695.516,
+          "score": 0.89
+        },
+        {
+          "word": "sometimes",
+          "start": 695.656,
+          "end": 696.276,
+          "score": 0.802
+        },
+        {
+          "word": "you",
+          "start": 696.396,
+          "end": 696.597,
+          "score": 0.804
+        },
+        {
+          "word": "have",
+          "start": 696.657,
+          "end": 696.997,
+          "score": 0.789
+        },
+        {
+          "word": "a",
+          "start": 697.017,
+          "end": 697.037,
+          "score": 0.0
+        },
+        {
+          "word": "lot",
+          "start": 697.257,
+          "end": 697.457,
+          "score": 0.781
+        },
+        {
+          "word": "of",
+          "start": 697.497,
+          "end": 697.557,
+          "score": 0.812
+        },
+        {
+          "word": "hesitation.",
+          "start": 697.697,
+          "end": 698.478,
+          "score": 0.883
+        }
+      ],
+      "avg_logprob": -0.07936079278588296
+    },
+    {
+      "start": 698.558,
+      "end": 700.899,
+      "text": "You need to think for a long time.",
+      "words": [
+        {
+          "word": "You",
+          "start": 698.558,
+          "end": 698.638,
+          "score": 0.973
+        },
+        {
+          "word": "need",
+          "start": 698.678,
+          "end": 698.838,
+          "score": 0.932
+        },
+        {
+          "word": "to",
+          "start": 698.878,
+          "end": 699.018,
+          "score": 0.886
+        },
+        {
+          "word": "think",
+          "start": 699.258,
+          "end": 699.538,
+          "score": 0.958
+        },
+        {
+          "word": "for",
+          "start": 699.759,
+          "end": 699.919,
+          "score": 0.884
+        },
+        {
+          "word": "a",
+          "start": 699.939,
+          "end": 699.959,
+          "score": 0.992
+        },
+        {
+          "word": "long",
+          "start": 700.039,
+          "end": 700.359,
+          "score": 0.94
+        },
+        {
+          "word": "time.",
+          "start": 700.499,
+          "end": 700.899,
+          "score": 0.796
+        }
+      ],
+      "avg_logprob": -0.07936079278588296
+    },
+    {
+      "start": 701.32,
+      "end": 702.2,
+      "text": "It's not good.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 701.32,
+          "end": 701.5,
+          "score": 0.905
+        },
+        {
+          "word": "not",
+          "start": 701.6,
+          "end": 701.8,
+          "score": 0.886
+        },
+        {
+          "word": "good.",
+          "start": 701.92,
+          "end": 702.2,
+          "score": 0.905
+        }
+      ],
+      "avg_logprob": -0.07936079278588296
+    },
+    {
+      "start": 702.3,
+      "end": 707.283,
+      "text": "You know, you should practice a lot, especially at home in front of a mirror.",
+      "words": [
+        {
+          "word": "You",
+          "start": 702.3,
+          "end": 702.38,
+          "score": 0.975
+        },
+        {
+          "word": "know,",
+          "start": 702.42,
+          "end": 702.62,
+          "score": 0.765
+        },
+        {
+          "word": "you",
+          "start": 702.881,
+          "end": 702.981,
+          "score": 0.925
+        },
+        {
+          "word": "should",
+          "start": 703.001,
+          "end": 703.221,
+          "score": 0.774
+        },
+        {
+          "word": "practice",
+          "start": 703.621,
+          "end": 704.121,
+          "score": 0.802
+        },
+        {
+          "word": "a",
+          "start": 704.141,
+          "end": 704.161,
+          "score": 0.0
+        },
+        {
+          "word": "lot,",
+          "start": 704.302,
+          "end": 704.582,
+          "score": 0.966
+        },
+        {
+          "word": "especially",
+          "start": 704.922,
+          "end": 705.442,
+          "score": 0.92
+        },
+        {
+          "word": "at",
+          "start": 705.562,
+          "end": 705.662,
+          "score": 0.699
+        },
+        {
+          "word": "home",
+          "start": 705.742,
+          "end": 706.023,
+          "score": 0.836
+        },
+        {
+          "word": "in",
+          "start": 706.323,
+          "end": 706.383,
+          "score": 0.985
+        },
+        {
+          "word": "front",
+          "start": 706.423,
+          "end": 706.623,
+          "score": 0.724
+        },
+        {
+          "word": "of",
+          "start": 706.683,
+          "end": 706.763,
+          "score": 0.95
+        },
+        {
+          "word": "a",
+          "start": 706.823,
+          "end": 706.883,
+          "score": 0.667
+        },
+        {
+          "word": "mirror.",
+          "start": 706.923,
+          "end": 707.283,
+          "score": 0.876
+        }
+      ],
+      "avg_logprob": -0.07936079278588296
+    },
+    {
+      "start": 707.504,
+      "end": 708.744,
+      "text": "You can practice it.",
+      "words": [
+        {
+          "word": "You",
+          "start": 707.504,
+          "end": 707.624,
+          "score": 0.92
+        },
+        {
+          "word": "can",
+          "start": 707.664,
+          "end": 707.904,
+          "score": 0.726
+        },
+        {
+          "word": "practice",
+          "start": 708.024,
+          "end": 708.524,
+          "score": 0.86
+        },
+        {
+          "word": "it.",
+          "start": 708.664,
+          "end": 708.744,
+          "score": 0.759
+        }
+      ],
+      "avg_logprob": -0.07936079278588296
+    },
+    {
+      "start": 708.764,
+      "end": 710.105,
+      "text": "You can speak with yourself.",
+      "words": [
+        {
+          "word": "You",
+          "start": 708.764,
+          "end": 708.844,
+          "score": 0.937
+        },
+        {
+          "word": "can",
+          "start": 708.864,
+          "end": 709.065,
+          "score": 0.808
+        },
+        {
+          "word": "speak",
+          "start": 709.105,
+          "end": 709.305,
+          "score": 0.875
+        },
+        {
+          "word": "with",
+          "start": 709.345,
+          "end": 709.505,
+          "score": 0.911
+        },
+        {
+          "word": "yourself.",
+          "start": 709.565,
+          "end": 710.105,
+          "score": 0.923
+        }
+      ],
+      "avg_logprob": -0.07936079278588296
+    },
+    {
+      "start": 710.245,
+      "end": 714.028,
+      "text": "In this case, maybe your speaking will be better.",
+      "words": [
+        {
+          "word": "In",
+          "start": 710.245,
+          "end": 710.305,
+          "score": 0.981
+        },
+        {
+          "word": "this",
+          "start": 710.345,
+          "end": 710.505,
+          "score": 0.902
+        },
+        {
+          "word": "case,",
+          "start": 710.566,
+          "end": 710.846,
+          "score": 0.964
+        },
+        {
+          "word": "maybe",
+          "start": 710.906,
+          "end": 711.206,
+          "score": 0.908
+        },
+        {
+          "word": "your",
+          "start": 711.246,
+          "end": 711.466,
+          "score": 0.861
+        },
+        {
+          "word": "speaking",
+          "start": 712.327,
+          "end": 712.707,
+          "score": 0.88
+        },
+        {
+          "word": "will",
+          "start": 712.927,
+          "end": 713.547,
+          "score": 0.778
+        },
+        {
+          "word": "be",
+          "start": 713.587,
+          "end": 713.688,
+          "score": 0.98
+        },
+        {
+          "word": "better.",
+          "start": 713.728,
+          "end": 714.028,
+          "score": 0.941
+        }
+      ],
+      "avg_logprob": -0.07936079278588296
+    },
+    {
+      "start": 714.899,
+      "end": 725.948,
+      "text": " For pronunciation, or for improving your pronunciation, you can download some audios, or you can buy some books, self-study books, and you should repeat again and again.",
+      "words": [
+        {
+          "word": "For",
+          "start": 714.899,
+          "end": 715.039,
+          "score": 0.895
+        },
+        {
+          "word": "pronunciation,",
+          "start": 715.079,
+          "end": 715.94,
+          "score": 0.805
+        },
+        {
+          "word": "or",
+          "start": 716.1,
+          "end": 716.2,
+          "score": 0.736
+        },
+        {
+          "word": "for",
+          "start": 716.32,
+          "end": 716.44,
+          "score": 0.956
+        },
+        {
+          "word": "improving",
+          "start": 716.58,
+          "end": 717.081,
+          "score": 0.802
+        },
+        {
+          "word": "your",
+          "start": 717.101,
+          "end": 717.281,
+          "score": 0.873
+        },
+        {
+          "word": "pronunciation,",
+          "start": 717.321,
+          "end": 718.102,
+          "score": 0.878
+        },
+        {
+          "word": "you",
+          "start": 718.482,
+          "end": 718.602,
+          "score": 0.877
+        },
+        {
+          "word": "can",
+          "start": 718.642,
+          "end": 718.822,
+          "score": 0.968
+        },
+        {
+          "word": "download",
+          "start": 718.882,
+          "end": 719.363,
+          "score": 0.825
+        },
+        {
+          "word": "some",
+          "start": 719.463,
+          "end": 719.843,
+          "score": 0.854
+        },
+        {
+          "word": "audios,",
+          "start": 720.083,
+          "end": 720.624,
+          "score": 0.777
+        },
+        {
+          "word": "or",
+          "start": 720.864,
+          "end": 720.964,
+          "score": 0.501
+        },
+        {
+          "word": "you",
+          "start": 721.004,
+          "end": 721.124,
+          "score": 0.895
+        },
+        {
+          "word": "can",
+          "start": 721.164,
+          "end": 721.404,
+          "score": 0.86
+        },
+        {
+          "word": "buy",
+          "start": 721.504,
+          "end": 721.725,
+          "score": 0.864
+        },
+        {
+          "word": "some",
+          "start": 721.765,
+          "end": 721.925,
+          "score": 0.89
+        },
+        {
+          "word": "books,",
+          "start": 721.985,
+          "end": 722.325,
+          "score": 0.838
+        },
+        {
+          "word": "self-study",
+          "start": 722.505,
+          "end": 723.126,
+          "score": 0.744
+        },
+        {
+          "word": "books,",
+          "start": 723.166,
+          "end": 723.406,
+          "score": 0.784
+        },
+        {
+          "word": "and",
+          "start": 723.646,
+          "end": 723.766,
+          "score": 0.874
+        },
+        {
+          "word": "you",
+          "start": 723.926,
+          "end": 724.027,
+          "score": 0.944
+        },
+        {
+          "word": "should",
+          "start": 724.047,
+          "end": 724.247,
+          "score": 0.712
+        },
+        {
+          "word": "repeat",
+          "start": 724.347,
+          "end": 724.827,
+          "score": 0.792
+        },
+        {
+          "word": "again",
+          "start": 724.987,
+          "end": 725.368,
+          "score": 0.808
+        },
+        {
+          "word": "and",
+          "start": 725.428,
+          "end": 725.528,
+          "score": 0.705
+        },
+        {
+          "word": "again.",
+          "start": 725.568,
+          "end": 725.948,
+          "score": 0.925
+        }
+      ],
+      "avg_logprob": -0.08419290821204024
+    },
+    {
+      "start": 726.288,
+      "end": 729.791,
+      "text": "You can listen to podcasts or songs or even watch movies.",
+      "words": [
+        {
+          "word": "You",
+          "start": 726.288,
+          "end": 726.388,
+          "score": 0.893
+        },
+        {
+          "word": "can",
+          "start": 726.408,
+          "end": 726.529,
+          "score": 0.89
+        },
+        {
+          "word": "listen",
+          "start": 726.549,
+          "end": 726.789,
+          "score": 0.929
+        },
+        {
+          "word": "to",
+          "start": 726.849,
+          "end": 726.929,
+          "score": 0.746
+        },
+        {
+          "word": "podcasts",
+          "start": 727.009,
+          "end": 727.85,
+          "score": 0.861
+        },
+        {
+          "word": "or",
+          "start": 728.03,
+          "end": 728.13,
+          "score": 0.45
+        },
+        {
+          "word": "songs",
+          "start": 728.27,
+          "end": 728.67,
+          "score": 0.962
+        },
+        {
+          "word": "or",
+          "start": 728.75,
+          "end": 728.79,
+          "score": 1.0
+        },
+        {
+          "word": "even",
+          "start": 728.871,
+          "end": 729.031,
+          "score": 0.911
+        },
+        {
+          "word": "watch",
+          "start": 729.091,
+          "end": 729.291,
+          "score": 0.625
+        },
+        {
+          "word": "movies.",
+          "start": 729.351,
+          "end": 729.791,
+          "score": 0.912
+        }
+      ],
+      "avg_logprob": -0.08419290821204024
+    },
+    {
+      "start": 730.152,
+      "end": 732.994,
+      "text": "It would be really helpful to improve your pronunciation.",
+      "words": [
+        {
+          "word": "It",
+          "start": 730.152,
+          "end": 730.232,
+          "score": 0.756
+        },
+        {
+          "word": "would",
+          "start": 730.252,
+          "end": 730.412,
+          "score": 0.746
+        },
+        {
+          "word": "be",
+          "start": 730.432,
+          "end": 730.532,
+          "score": 0.988
+        },
+        {
+          "word": "really",
+          "start": 730.612,
+          "end": 730.912,
+          "score": 0.757
+        },
+        {
+          "word": "helpful",
+          "start": 730.972,
+          "end": 731.373,
+          "score": 0.893
+        },
+        {
+          "word": "to",
+          "start": 731.393,
+          "end": 731.433,
+          "score": 0.995
+        },
+        {
+          "word": "improve",
+          "start": 731.513,
+          "end": 731.833,
+          "score": 0.847
+        },
+        {
+          "word": "your",
+          "start": 731.873,
+          "end": 732.093,
+          "score": 0.802
+        },
+        {
+          "word": "pronunciation.",
+          "start": 732.153,
+          "end": 732.994,
+          "score": 0.86
+        }
+      ],
+      "avg_logprob": -0.08419290821204024
+    },
+    {
+      "start": 733.975,
+      "end": 736.657,
+      "text": "Try to read more samples.",
+      "words": [
+        {
+          "word": "Try",
+          "start": 733.975,
+          "end": 734.195,
+          "score": 0.824
+        },
+        {
+          "word": "to",
+          "start": 734.275,
+          "end": 734.355,
+          "score": 0.996
+        },
+        {
+          "word": "read",
+          "start": 734.415,
+          "end": 734.575,
+          "score": 0.656
+        },
+        {
+          "word": "more",
+          "start": 734.695,
+          "end": 734.956,
+          "score": 0.909
+        },
+        {
+          "word": "samples.",
+          "start": 735.316,
+          "end": 736.657,
+          "score": 0.904
+        }
+      ],
+      "avg_logprob": -0.08419290821204024
+    },
+    {
+      "start": 737.037,
+      "end": 744.023,
+      "text": "IL samples are available on the internet, and if you read them and repeat their ideas or grammatical features,",
+      "words": [
+        {
+          "word": "IL",
+          "start": 737.037,
+          "end": 737.317,
+          "score": 0.76
+        },
+        {
+          "word": "samples",
+          "start": 737.398,
+          "end": 737.938,
+          "score": 0.92
+        },
+        {
+          "word": "are",
+          "start": 738.098,
+          "end": 738.198,
+          "score": 0.634
+        },
+        {
+          "word": "available",
+          "start": 738.258,
+          "end": 738.719,
+          "score": 0.954
+        },
+        {
+          "word": "on",
+          "start": 738.799,
+          "end": 738.879,
+          "score": 0.921
+        },
+        {
+          "word": "the",
+          "start": 738.919,
+          "end": 738.999,
+          "score": 0.916
+        },
+        {
+          "word": "internet,",
+          "start": 739.019,
+          "end": 739.559,
+          "score": 0.845
+        },
+        {
+          "word": "and",
+          "start": 739.619,
+          "end": 739.699,
+          "score": 0.958
+        },
+        {
+          "word": "if",
+          "start": 739.779,
+          "end": 739.86,
+          "score": 0.861
+        },
+        {
+          "word": "you",
+          "start": 739.92,
+          "end": 740.12,
+          "score": 0.926
+        },
+        {
+          "word": "read",
+          "start": 740.46,
+          "end": 740.66,
+          "score": 0.749
+        },
+        {
+          "word": "them",
+          "start": 740.74,
+          "end": 741.0,
+          "score": 0.934
+        },
+        {
+          "word": "and",
+          "start": 741.201,
+          "end": 741.301,
+          "score": 0.792
+        },
+        {
+          "word": "repeat",
+          "start": 741.361,
+          "end": 741.741,
+          "score": 0.847
+        },
+        {
+          "word": "their",
+          "start": 741.781,
+          "end": 741.961,
+          "score": 0.941
+        },
+        {
+          "word": "ideas",
+          "start": 742.081,
+          "end": 742.642,
+          "score": 0.867
+        },
+        {
+          "word": "or",
+          "start": 742.742,
+          "end": 742.822,
+          "score": 0.603
+        },
+        {
+          "word": "grammatical",
+          "start": 742.882,
+          "end": 743.523,
+          "score": 0.932
+        },
+        {
+          "word": "features,",
+          "start": 743.603,
+          "end": 744.023,
+          "score": 0.958
+        }
+      ],
+      "avg_logprob": -0.08419290821204024
+    },
+    {
+      "start": 744.433,
+      "end": 747.177,
+      "text": " it is really, really helpful.",
+      "words": [
+        {
+          "word": "it",
+          "start": 744.433,
+          "end": 744.513,
+          "score": 0.968
+        },
+        {
+          "word": "is",
+          "start": 744.593,
+          "end": 744.693,
+          "score": 0.812
+        },
+        {
+          "word": "really,",
+          "start": 744.914,
+          "end": 745.254,
+          "score": 0.944
+        },
+        {
+          "word": "really",
+          "start": 745.294,
+          "end": 745.635,
+          "score": 0.805
+        },
+        {
+          "word": "helpful.",
+          "start": 745.735,
+          "end": 747.177,
+          "score": 0.861
+        }
+      ],
+      "avg_logprob": -0.10809170285409148
+    },
+    {
+      "start": 748.658,
+      "end": 754.225,
+      "text": "In this case, you got 3.5, which is not bad, but that's really good.",
+      "words": [
+        {
+          "word": "In",
+          "start": 748.658,
+          "end": 748.698,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "start": 748.739,
+          "end": 748.879,
+          "score": 0.991
+        },
+        {
+          "word": "case,",
+          "start": 748.959,
+          "end": 749.259,
+          "score": 0.846
+        },
+        {
+          "word": "you",
+          "start": 749.459,
+          "end": 749.64,
+          "score": 0.938
+        },
+        {
+          "word": "got",
+          "start": 749.68,
+          "end": 749.94,
+          "score": 0.782
+        },
+        {
+          "word": "3.5,",
+          "start": 749.96,
+          "end": 751.422,
+          "score": 0.918
+        },
+        {
+          "word": "which",
+          "start": 751.902,
+          "end": 752.043,
+          "score": 0.984
+        },
+        {
+          "word": "is",
+          "start": 752.103,
+          "end": 752.203,
+          "score": 0.708
+        },
+        {
+          "word": "not",
+          "start": 752.283,
+          "end": 752.523,
+          "score": 0.858
+        },
+        {
+          "word": "bad,",
+          "start": 752.603,
+          "end": 752.924,
+          "score": 0.976
+        },
+        {
+          "word": "but",
+          "start": 753.004,
+          "end": 753.184,
+          "score": 0.859
+        },
+        {
+          "word": "that's",
+          "start": 753.244,
+          "end": 753.444,
+          "score": 0.785
+        },
+        {
+          "word": "really",
+          "start": 753.545,
+          "end": 753.805,
+          "score": 0.912
+        },
+        {
+          "word": "good.",
+          "start": 753.885,
+          "end": 754.225,
+          "score": 0.807
+        }
+      ],
+      "avg_logprob": -0.10809170285409148
+    },
+    {
+      "start": 754.526,
+      "end": 755.968,
+      "text": "You should try harder than this.",
+      "words": [
+        {
+          "word": "You",
+          "start": 754.526,
+          "end": 754.626,
+          "score": 0.997
+        },
+        {
+          "word": "should",
+          "start": 754.646,
+          "end": 754.826,
+          "score": 0.851
+        },
+        {
+          "word": "try",
+          "start": 754.866,
+          "end": 755.066,
+          "score": 0.852
+        },
+        {
+          "word": "harder",
+          "start": 755.147,
+          "end": 755.527,
+          "score": 0.808
+        },
+        {
+          "word": "than",
+          "start": 755.567,
+          "end": 755.727,
+          "score": 0.914
+        },
+        {
+          "word": "this.",
+          "start": 755.767,
+          "end": 755.968,
+          "score": 0.904
+        }
+      ],
+      "avg_logprob": -0.10809170285409148
+    },
+    {
+      "start": 756.408,
+      "end": 756.689,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 756.408,
+          "end": 756.588,
+          "score": 0.331
+        },
+        {
+          "word": "you.",
+          "start": 756.608,
+          "end": 756.689,
+          "score": 0.004
+        }
+      ],
+      "avg_logprob": -0.10809170285409148
+    },
+    {
+      "start": 757.069,
+      "end": 757.79,
+      "text": "You're very welcome.",
+      "words": [
+        {
+          "word": "You're",
+          "start": 757.069,
+          "end": 757.229,
+          "score": 0.941
+        },
+        {
+          "word": "very",
+          "start": 757.269,
+          "end": 757.409,
+          "score": 0.518
+        },
+        {
+          "word": "welcome.",
+          "start": 757.429,
+          "end": 757.79,
+          "score": 0.871
+        }
+      ],
+      "avg_logprob": -0.10809170285409148
+    },
+    {
+      "start": 768.204,
+      "end": 770.266,
+      "text": " Hi there, I have some tips for you.",
+      "words": [
+        {
+          "word": "Hi",
+          "start": 768.204,
+          "end": 768.344,
+          "score": 0.994
+        },
+        {
+          "word": "there,",
+          "start": 768.364,
+          "end": 768.644,
+          "score": 0.63
+        },
+        {
+          "word": "I",
+          "start": 769.085,
+          "end": 769.145,
+          "score": 0.997
+        },
+        {
+          "word": "have",
+          "start": 769.185,
+          "end": 769.305,
+          "score": 0.907
+        },
+        {
+          "word": "some",
+          "start": 769.325,
+          "end": 769.505,
+          "score": 0.862
+        },
+        {
+          "word": "tips",
+          "start": 769.545,
+          "end": 769.805,
+          "score": 0.847
+        },
+        {
+          "word": "for",
+          "start": 769.865,
+          "end": 770.045,
+          "score": 0.887
+        },
+        {
+          "word": "you.",
+          "start": 770.106,
+          "end": 770.266,
+          "score": 0.994
+        }
+      ],
+      "avg_logprob": -0.06264847688950025
+    },
+    {
+      "start": 771.246,
+      "end": 774.889,
+      "text": "Be careful, be careful about your general English.",
+      "words": [
+        {
+          "word": "Be",
+          "start": 771.246,
+          "end": 771.387,
+          "score": 0.976
+        },
+        {
+          "word": "careful,",
+          "start": 771.507,
+          "end": 772.227,
+          "score": 0.901
+        },
+        {
+          "word": "be",
+          "start": 772.527,
+          "end": 772.607,
+          "score": 0.998
+        },
+        {
+          "word": "careful",
+          "start": 772.648,
+          "end": 773.108,
+          "score": 0.849
+        },
+        {
+          "word": "about",
+          "start": 773.268,
+          "end": 773.588,
+          "score": 0.963
+        },
+        {
+          "word": "your",
+          "start": 773.648,
+          "end": 773.828,
+          "score": 0.892
+        },
+        {
+          "word": "general",
+          "start": 773.929,
+          "end": 774.349,
+          "score": 0.933
+        },
+        {
+          "word": "English.",
+          "start": 774.449,
+          "end": 774.889,
+          "score": 0.851
+        }
+      ],
+      "avg_logprob": -0.06264847688950025
+    },
+    {
+      "start": 775.53,
+      "end": 781.354,
+      "text": "It's really important to have at least intermediate level or upper intermediate level.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 775.53,
+          "end": 775.67,
+          "score": 0.86
+        },
+        {
+          "word": "really",
+          "start": 775.75,
+          "end": 776.01,
+          "score": 0.846
+        },
+        {
+          "word": "important",
+          "start": 776.05,
+          "end": 776.551,
+          "score": 0.923
+        },
+        {
+          "word": "to",
+          "start": 776.611,
+          "end": 776.691,
+          "score": 0.992
+        },
+        {
+          "word": "have",
+          "start": 776.771,
+          "end": 776.991,
+          "score": 0.935
+        },
+        {
+          "word": "at",
+          "start": 777.231,
+          "end": 777.331,
+          "score": 0.861
+        },
+        {
+          "word": "least",
+          "start": 777.431,
+          "end": 777.732,
+          "score": 0.802
+        },
+        {
+          "word": "intermediate",
+          "start": 778.352,
+          "end": 779.033,
+          "score": 0.95
+        },
+        {
+          "word": "level",
+          "start": 779.093,
+          "end": 779.473,
+          "score": 0.748
+        },
+        {
+          "word": "or",
+          "start": 779.673,
+          "end": 779.773,
+          "score": 0.8
+        },
+        {
+          "word": "upper",
+          "start": 779.973,
+          "end": 780.193,
+          "score": 0.767
+        },
+        {
+          "word": "intermediate",
+          "start": 780.233,
+          "end": 780.994,
+          "score": 0.95
+        },
+        {
+          "word": "level.",
+          "start": 781.034,
+          "end": 781.354,
+          "score": 0.89
+        }
+      ],
+      "avg_logprob": -0.06264847688950025
+    },
+    {
+      "start": 781.535,
+      "end": 791.022,
+      "text": "So for those who are beginner or starter, it's not a good idea to participate in IELTS speaking test or totally in IELTS test.",
+      "words": [
+        {
+          "word": "So",
+          "start": 781.535,
+          "end": 781.695,
+          "score": 1.0
+        },
+        {
+          "word": "for",
+          "start": 781.975,
+          "end": 782.135,
+          "score": 0.778
+        },
+        {
+          "word": "those",
+          "start": 782.215,
+          "end": 782.535,
+          "score": 0.856
+        },
+        {
+          "word": "who",
+          "start": 782.876,
+          "end": 783.336,
+          "score": 0.827
+        },
+        {
+          "word": "are",
+          "start": 783.356,
+          "end": 783.416,
+          "score": 0.001
+        },
+        {
+          "word": "beginner",
+          "start": 783.556,
+          "end": 784.117,
+          "score": 0.947
+        },
+        {
+          "word": "or",
+          "start": 784.297,
+          "end": 784.377,
+          "score": 0.863
+        },
+        {
+          "word": "starter,",
+          "start": 784.517,
+          "end": 785.117,
+          "score": 0.918
+        },
+        {
+          "word": "it's",
+          "start": 785.217,
+          "end": 785.358,
+          "score": 0.876
+        },
+        {
+          "word": "not",
+          "start": 785.478,
+          "end": 785.678,
+          "score": 0.717
+        },
+        {
+          "word": "a",
+          "start": 785.698,
+          "end": 785.738,
+          "score": 0.495
+        },
+        {
+          "word": "good",
+          "start": 785.798,
+          "end": 785.958,
+          "score": 0.931
+        },
+        {
+          "word": "idea",
+          "start": 786.038,
+          "end": 786.358,
+          "score": 0.794
+        },
+        {
+          "word": "to",
+          "start": 786.418,
+          "end": 786.518,
+          "score": 0.994
+        },
+        {
+          "word": "participate",
+          "start": 786.619,
+          "end": 787.339,
+          "score": 0.903
+        },
+        {
+          "word": "in",
+          "start": 787.399,
+          "end": 787.479,
+          "score": 0.812
+        },
+        {
+          "word": "IELTS",
+          "start": 787.659,
+          "end": 787.92,
+          "score": 0.605
+        },
+        {
+          "word": "speaking",
+          "start": 788.02,
+          "end": 788.4,
+          "score": 0.889
+        },
+        {
+          "word": "test",
+          "start": 788.48,
+          "end": 788.76,
+          "score": 0.768
+        },
+        {
+          "word": "or",
+          "start": 789.0,
+          "end": 789.12,
+          "score": 0.748
+        },
+        {
+          "word": "totally",
+          "start": 789.221,
+          "end": 789.701,
+          "score": 0.873
+        },
+        {
+          "word": "in",
+          "start": 789.981,
+          "end": 790.081,
+          "score": 0.824
+        },
+        {
+          "word": "IELTS",
+          "start": 790.341,
+          "end": 790.642,
+          "score": 0.576
+        },
+        {
+          "word": "test.",
+          "start": 790.722,
+          "end": 791.022,
+          "score": 0.941
+        }
+      ],
+      "avg_logprob": -0.06264847688950025
+    },
+    {
+      "start": 791.362,
+      "end": 795.205,
+      "text": "In this case, you cannot gain a good score.",
+      "words": [
+        {
+          "word": "In",
+          "start": 791.362,
+          "end": 791.422,
+          "score": 0.994
+        },
+        {
+          "word": "this",
+          "start": 791.442,
+          "end": 791.582,
+          "score": 0.926
+        },
+        {
+          "word": "case,",
+          "start": 791.622,
+          "end": 791.863,
+          "score": 0.902
+        },
+        {
+          "word": "you",
+          "start": 792.243,
+          "end": 792.363,
+          "score": 0.889
+        },
+        {
+          "word": "cannot",
+          "start": 792.403,
+          "end": 792.903,
+          "score": 0.881
+        },
+        {
+          "word": "gain",
+          "start": 793.084,
+          "end": 793.484,
+          "score": 0.747
+        },
+        {
+          "word": "a",
+          "start": 794.104,
+          "end": 794.204,
+          "score": 0.82
+        },
+        {
+          "word": "good",
+          "start": 794.485,
+          "end": 794.765,
+          "score": 0.966
+        },
+        {
+          "word": "score.",
+          "start": 794.805,
+          "end": 795.205,
+          "score": 0.927
+        }
+      ],
+      "avg_logprob": -0.06264847688950025
+    },
+    {
+      "start": 796.286,
+      "end": 801.428,
+      "text": " Well, candidates who are beginners cannot make complex sentences.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 796.286,
+          "end": 796.506,
+          "score": 0.989
+        },
+        {
+          "word": "candidates",
+          "start": 796.926,
+          "end": 797.567,
+          "score": 0.878
+        },
+        {
+          "word": "who",
+          "start": 797.707,
+          "end": 797.827,
+          "score": 0.885
+        },
+        {
+          "word": "are",
+          "start": 797.887,
+          "end": 798.007,
+          "score": 0.777
+        },
+        {
+          "word": "beginners",
+          "start": 798.087,
+          "end": 798.527,
+          "score": 0.779
+        },
+        {
+          "word": "cannot",
+          "start": 798.607,
+          "end": 799.027,
+          "score": 0.929
+        },
+        {
+          "word": "make",
+          "start": 799.167,
+          "end": 799.447,
+          "score": 0.724
+        },
+        {
+          "word": "complex",
+          "start": 799.967,
+          "end": 800.548,
+          "score": 0.93
+        },
+        {
+          "word": "sentences.",
+          "start": 800.808,
+          "end": 801.428,
+          "score": 0.866
+        }
+      ],
+      "avg_logprob": -0.04992670153803898
+    },
+    {
+      "start": 801.808,
+      "end": 805.289,
+      "text": "Even they have problems when they want to make simple sentences.",
+      "words": [
+        {
+          "word": "Even",
+          "start": 801.808,
+          "end": 802.028,
+          "score": 0.704
+        },
+        {
+          "word": "they",
+          "start": 802.088,
+          "end": 802.248,
+          "score": 0.869
+        },
+        {
+          "word": "have",
+          "start": 802.288,
+          "end": 802.468,
+          "score": 0.816
+        },
+        {
+          "word": "problems",
+          "start": 802.548,
+          "end": 803.008,
+          "score": 0.796
+        },
+        {
+          "word": "when",
+          "start": 803.229,
+          "end": 803.349,
+          "score": 0.937
+        },
+        {
+          "word": "they",
+          "start": 803.369,
+          "end": 803.509,
+          "score": 0.847
+        },
+        {
+          "word": "want",
+          "start": 803.549,
+          "end": 803.729,
+          "score": 0.791
+        },
+        {
+          "word": "to",
+          "start": 803.769,
+          "end": 803.849,
+          "score": 0.772
+        },
+        {
+          "word": "make",
+          "start": 803.889,
+          "end": 804.089,
+          "score": 0.859
+        },
+        {
+          "word": "simple",
+          "start": 804.229,
+          "end": 804.629,
+          "score": 0.887
+        },
+        {
+          "word": "sentences.",
+          "start": 804.689,
+          "end": 805.289,
+          "score": 0.922
+        }
+      ],
+      "avg_logprob": -0.04992670153803898
+    },
+    {
+      "start": 806.05,
+      "end": 809.331,
+      "text": "So it's important to improve your grammatical range.",
+      "words": [
+        {
+          "word": "So",
+          "start": 806.05,
+          "end": 806.23,
+          "score": 0.894
+        },
+        {
+          "word": "it's",
+          "start": 806.51,
+          "end": 806.65,
+          "score": 0.791
+        },
+        {
+          "word": "important",
+          "start": 806.69,
+          "end": 807.15,
+          "score": 0.93
+        },
+        {
+          "word": "to",
+          "start": 807.23,
+          "end": 807.33,
+          "score": 0.733
+        },
+        {
+          "word": "improve",
+          "start": 807.37,
+          "end": 807.73,
+          "score": 0.83
+        },
+        {
+          "word": "your",
+          "start": 807.77,
+          "end": 807.99,
+          "score": 0.854
+        },
+        {
+          "word": "grammatical",
+          "start": 808.25,
+          "end": 808.971,
+          "score": 0.925
+        },
+        {
+          "word": "range.",
+          "start": 809.071,
+          "end": 809.331,
+          "score": 0.783
+        }
+      ],
+      "avg_logprob": -0.04992670153803898
+    },
+    {
+      "start": 810.411,
+      "end": 812.292,
+      "text": "They have a lot of hesitation.",
+      "words": [
+        {
+          "word": "They",
+          "start": 810.411,
+          "end": 810.551,
+          "score": 0.711
+        },
+        {
+          "word": "have",
+          "start": 810.591,
+          "end": 810.791,
+          "score": 0.824
+        },
+        {
+          "word": "a",
+          "start": 810.951,
+          "end": 810.991,
+          "score": 0.663
+        },
+        {
+          "word": "lot",
+          "start": 811.051,
+          "end": 811.231,
+          "score": 0.988
+        },
+        {
+          "word": "of",
+          "start": 811.271,
+          "end": 811.351,
+          "score": 0.787
+        },
+        {
+          "word": "hesitation.",
+          "start": 811.471,
+          "end": 812.292,
+          "score": 0.863
+        }
+      ],
+      "avg_logprob": -0.04992670153803898
+    },
+    {
+      "start": 812.752,
+      "end": 817.093,
+      "text": "They think about what they want to say and how they want to say.",
+      "words": [
+        {
+          "word": "They",
+          "start": 812.752,
+          "end": 812.932,
+          "score": 0.798
+        },
+        {
+          "word": "think",
+          "start": 812.992,
+          "end": 813.252,
+          "score": 0.794
+        },
+        {
+          "word": "about",
+          "start": 813.372,
+          "end": 813.792,
+          "score": 0.88
+        },
+        {
+          "word": "what",
+          "start": 813.992,
+          "end": 814.132,
+          "score": 0.881
+        },
+        {
+          "word": "they",
+          "start": 814.172,
+          "end": 814.312,
+          "score": 0.791
+        },
+        {
+          "word": "want",
+          "start": 814.352,
+          "end": 814.553,
+          "score": 0.838
+        },
+        {
+          "word": "to",
+          "start": 814.593,
+          "end": 814.693,
+          "score": 0.766
+        },
+        {
+          "word": "say",
+          "start": 814.813,
+          "end": 815.173,
+          "score": 0.833
+        },
+        {
+          "word": "and",
+          "start": 815.493,
+          "end": 815.633,
+          "score": 0.775
+        },
+        {
+          "word": "how",
+          "start": 815.913,
+          "end": 816.173,
+          "score": 0.939
+        },
+        {
+          "word": "they",
+          "start": 816.233,
+          "end": 816.373,
+          "score": 0.912
+        },
+        {
+          "word": "want",
+          "start": 816.433,
+          "end": 816.633,
+          "score": 0.662
+        },
+        {
+          "word": "to",
+          "start": 816.653,
+          "end": 816.733,
+          "score": 0.823
+        },
+        {
+          "word": "say.",
+          "start": 816.813,
+          "end": 817.093,
+          "score": 0.724
+        }
+      ],
+      "avg_logprob": -0.04992670153803898
+    },
+    {
+      "start": 817.514,
+      "end": 821.255,
+      "text": "They cannot speak smoothly and fluently.",
+      "words": [
+        {
+          "word": "They",
+          "start": 817.514,
+          "end": 817.634,
+          "score": 0.862
+        },
+        {
+          "word": "cannot",
+          "start": 817.674,
+          "end": 818.114,
+          "score": 0.888
+        },
+        {
+          "word": "speak",
+          "start": 818.754,
+          "end": 819.074,
+          "score": 0.976
+        },
+        {
+          "word": "smoothly",
+          "start": 819.674,
+          "end": 820.195,
+          "score": 0.851
+        },
+        {
+          "word": "and",
+          "start": 820.335,
+          "end": 820.455,
+          "score": 0.834
+        },
+        {
+          "word": "fluently.",
+          "start": 820.615,
+          "end": 821.255,
+          "score": 0.861
+        }
+      ],
+      "avg_logprob": -0.04992670153803898
+    },
+    {
+      "start": 822.821,
+      "end": 830.045,
+      "text": " Unfortunately, these candidates have a plethora of problems in terms of pronunciation features.",
+      "words": [
+        {
+          "word": "Unfortunately,",
+          "start": 822.821,
+          "end": 823.922,
+          "score": 0.851
+        },
+        {
+          "word": "these",
+          "start": 824.142,
+          "end": 824.362,
+          "score": 0.888
+        },
+        {
+          "word": "candidates",
+          "start": 824.462,
+          "end": 825.222,
+          "score": 0.839
+        },
+        {
+          "word": "have",
+          "start": 825.402,
+          "end": 825.763,
+          "score": 0.742
+        },
+        {
+          "word": "a",
+          "start": 825.783,
+          "end": 825.803,
+          "score": 0.0
+        },
+        {
+          "word": "plethora",
+          "start": 826.043,
+          "end": 826.683,
+          "score": 0.908
+        },
+        {
+          "word": "of",
+          "start": 826.743,
+          "end": 826.823,
+          "score": 0.871
+        },
+        {
+          "word": "problems",
+          "start": 826.923,
+          "end": 827.523,
+          "score": 0.877
+        },
+        {
+          "word": "in",
+          "start": 827.664,
+          "end": 827.744,
+          "score": 0.86
+        },
+        {
+          "word": "terms",
+          "start": 827.804,
+          "end": 828.144,
+          "score": 0.89
+        },
+        {
+          "word": "of",
+          "start": 828.324,
+          "end": 828.404,
+          "score": 0.897
+        },
+        {
+          "word": "pronunciation",
+          "start": 828.764,
+          "end": 829.484,
+          "score": 0.876
+        },
+        {
+          "word": "features.",
+          "start": 829.544,
+          "end": 830.045,
+          "score": 0.875
+        }
+      ],
+      "avg_logprob": -0.055442010052502155
+    },
+    {
+      "start": 830.645,
+      "end": 839.81,
+      "text": "So I highly recommend you not to participate in IELTS exam when you are starter or beginner.",
+      "words": [
+        {
+          "word": "So",
+          "start": 830.645,
+          "end": 830.845,
+          "score": 0.876
+        },
+        {
+          "word": "I",
+          "start": 831.806,
+          "end": 831.886,
+          "score": 0.713
+        },
+        {
+          "word": "highly",
+          "start": 832.006,
+          "end": 832.326,
+          "score": 0.975
+        },
+        {
+          "word": "recommend",
+          "start": 832.386,
+          "end": 832.926,
+          "score": 0.887
+        },
+        {
+          "word": "you",
+          "start": 833.006,
+          "end": 833.246,
+          "score": 0.888
+        },
+        {
+          "word": "not",
+          "start": 833.667,
+          "end": 833.907,
+          "score": 0.78
+        },
+        {
+          "word": "to",
+          "start": 834.067,
+          "end": 834.307,
+          "score": 0.869
+        },
+        {
+          "word": "participate",
+          "start": 834.667,
+          "end": 835.527,
+          "score": 0.928
+        },
+        {
+          "word": "in",
+          "start": 835.628,
+          "end": 835.688,
+          "score": 0.998
+        },
+        {
+          "word": "IELTS",
+          "start": 835.988,
+          "end": 836.388,
+          "score": 0.802
+        },
+        {
+          "word": "exam",
+          "start": 836.748,
+          "end": 837.208,
+          "score": 0.909
+        },
+        {
+          "word": "when",
+          "start": 837.488,
+          "end": 837.669,
+          "score": 0.768
+        },
+        {
+          "word": "you",
+          "start": 837.689,
+          "end": 837.809,
+          "score": 0.919
+        },
+        {
+          "word": "are",
+          "start": 837.889,
+          "end": 838.029,
+          "score": 0.795
+        },
+        {
+          "word": "starter",
+          "start": 838.249,
+          "end": 839.169,
+          "score": 0.866
+        },
+        {
+          "word": "or",
+          "start": 839.189,
+          "end": 839.229,
+          "score": 0.0
+        },
+        {
+          "word": "beginner.",
+          "start": 839.309,
+          "end": 839.81,
+          "score": 0.966
+        }
+      ],
+      "avg_logprob": -0.055442010052502155
+    },
+    {
+      "start": 840.45,
+      "end": 847.233,
+      "text": "Please improve your general English at least up to intermediate or upper intermediate level.",
+      "words": [
+        {
+          "word": "Please",
+          "start": 840.45,
+          "end": 840.85,
+          "score": 0.892
+        },
+        {
+          "word": "improve",
+          "start": 840.99,
+          "end": 841.33,
+          "score": 0.868
+        },
+        {
+          "word": "your",
+          "start": 841.37,
+          "end": 841.551,
+          "score": 0.895
+        },
+        {
+          "word": "general",
+          "start": 841.651,
+          "end": 842.051,
+          "score": 0.874
+        },
+        {
+          "word": "English",
+          "start": 842.151,
+          "end": 842.511,
+          "score": 0.876
+        },
+        {
+          "word": "at",
+          "start": 842.871,
+          "end": 842.991,
+          "score": 0.648
+        },
+        {
+          "word": "least",
+          "start": 843.051,
+          "end": 843.311,
+          "score": 0.666
+        },
+        {
+          "word": "up",
+          "start": 843.552,
+          "end": 843.672,
+          "score": 0.808
+        },
+        {
+          "word": "to",
+          "start": 843.752,
+          "end": 843.952,
+          "score": 0.751
+        },
+        {
+          "word": "intermediate",
+          "start": 844.452,
+          "end": 845.152,
+          "score": 0.908
+        },
+        {
+          "word": "or",
+          "start": 845.413,
+          "end": 845.533,
+          "score": 0.626
+        },
+        {
+          "word": "upper",
+          "start": 845.993,
+          "end": 846.193,
+          "score": 0.708
+        },
+        {
+          "word": "intermediate",
+          "start": 846.213,
+          "end": 846.873,
+          "score": 0.878
+        },
+        {
+          "word": "level.",
+          "start": 846.933,
+          "end": 847.233,
+          "score": 0.896
+        }
+      ],
+      "avg_logprob": -0.055442010052502155
+    },
+    {
+      "start": 847.914,
+      "end": 848.294,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 847.914,
+          "end": 848.134,
+          "score": 0.895
+        },
+        {
+          "word": "you.",
+          "start": 848.154,
+          "end": 848.294,
+          "score": 0.989
+        }
+      ],
+      "avg_logprob": -0.055442010052502155
+    }
+  ]
+}
