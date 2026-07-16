@@ -91,6 +91,6 @@ python fluency_features.py "output\interview\interview_words.csv" --answer-start
 - `interview_words.csv` contains one row per aligned word and is used for fluency feature extraction.
 - `fluency.json` contains the calculated answer-level fluency features when `--output` is used.
 
-## Important limitation
+## Important limitations
 
 WhisperX may not reliably transcribe non-lexical sounds such as `ahhh`, `mhmmm`, and `mmm`. These can only be counted as fillers when WhisperX includes them in the transcript. A separate acoustic filler-detection model may be needed later for more accurate filler detection.
