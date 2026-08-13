@@ -1,0 +1,762 @@
+[
+  {
+    "part": 1,
+    "question": "Where is your hometown?"
+  },
+  {
+    "part": 1,
+    "question": "What do you like most about your hometown?"
+  },
+  {
+    "part": 1,
+    "question": "Has your hometown changed much in recent years?"
+  },
+  {
+    "part": 1,
+    "question": "Is your hometown a good place for young people?"
+  },
+  {
+    "part": 1,
+    "question": "Would you like to live in your hometown in the future?"
+  },
+  {
+    "part": 1,
+    "question": "Do you live in a house or an apartment?"
+  },
+  {
+    "part": 1,
+    "question": "What is your favourite room in your home?"
+  },
+  {
+    "part": 1,
+    "question": "What would you like to change about your home?"
+  },
+  {
+    "part": 1,
+    "question": "How long have you lived there?"
+  },
+  {
+    "part": 1,
+    "question": "What kind of home would you like to have in the future?"
+  },
+  {
+    "part": 1,
+    "question": "What are you studying at the moment?"
+  },
+  {
+    "part": 1,
+    "question": "Why did you choose that subject?"
+  },
+  {
+    "part": 1,
+    "question": "What do you enjoy most about your studies?"
+  },
+  {
+    "part": 1,
+    "question": "Which part of your course is the most challenging?"
+  },
+  {
+    "part": 1,
+    "question": "What would you like to do after you finish studying?"
+  },
+  {
+    "part": 1,
+    "question": "Do you work or are you a student?"
+  },
+  {
+    "part": 1,
+    "question": "What do you enjoy about your work?"
+  },
+  {
+    "part": 1,
+    "question": "What skills are important in your job?"
+  },
+  {
+    "part": 1,
+    "question": "Would you like to change your job in the future?"
+  },
+  {
+    "part": 1,
+    "question": "What kind of work would you like to do one day?"
+  },
+  {
+    "part": 1,
+    "question": "What is your usual morning routine?"
+  },
+  {
+    "part": 1,
+    "question": "Which part of your day do you enjoy most?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer having a fixed routine or a flexible one?"
+  },
+  {
+    "part": 1,
+    "question": "Has your daily routine changed recently?"
+  },
+  {
+    "part": 1,
+    "question": "What would you like to improve about your routine?"
+  },
+  {
+    "part": 1,
+    "question": "Do you spend a lot of time with your friends?"
+  },
+  {
+    "part": 1,
+    "question": "What do you usually do when you meet your friends?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer having a few close friends or many friends?"
+  },
+  {
+    "part": 1,
+    "question": "How do you usually keep in touch with friends?"
+  },
+  {
+    "part": 1,
+    "question": "What qualities do you value in a friend?"
+  },
+  {
+    "part": 1,
+    "question": "What kind of food do you enjoy eating?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer eating at home or in restaurants?"
+  },
+  {
+    "part": 1,
+    "question": "Is there a food you disliked as a child but enjoy now?"
+  },
+  {
+    "part": 1,
+    "question": "Do you enjoy cooking?"
+  },
+  {
+    "part": 1,
+    "question": "What food is popular in your country?"
+  },
+  {
+    "part": 1,
+    "question": "What technology do you use every day?"
+  },
+  {
+    "part": 1,
+    "question": "Which device do you find most useful?"
+  },
+  {
+    "part": 1,
+    "question": "Do you think you spend too much time using technology?"
+  },
+  {
+    "part": 1,
+    "question": "Has technology changed the way you study or work?"
+  },
+  {
+    "part": 1,
+    "question": "Is there any technology you would like to learn to use better?"
+  },
+  {
+    "part": 1,
+    "question": "Do you enjoy reading?"
+  },
+  {
+    "part": 1,
+    "question": "What kinds of things do you usually read?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer printed books or digital books?"
+  },
+  {
+    "part": 1,
+    "question": "Did you read more when you were younger?"
+  },
+  {
+    "part": 1,
+    "question": "What was the last thing you read that you found interesting?"
+  },
+  {
+    "part": 1,
+    "question": "What kind of music do you like?"
+  },
+  {
+    "part": 1,
+    "question": "When do you usually listen to music?"
+  },
+  {
+    "part": 1,
+    "question": "Have your music preferences changed over time?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer listening to music alone or with other people?"
+  },
+  {
+    "part": 1,
+    "question": "Would you like to learn a musical instrument?"
+  },
+  {
+    "part": 1,
+    "question": "Do you do any sports or exercise regularly?"
+  },
+  {
+    "part": 1,
+    "question": "What kind of exercise do you enjoy most?"
+  },
+  {
+    "part": 1,
+    "question": "Did you play sports when you were a child?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer exercising alone or with other people?"
+  },
+  {
+    "part": 1,
+    "question": "Why do you think exercise is important?"
+  },
+  {
+    "part": 1,
+    "question": "Do you enjoy travelling?"
+  },
+  {
+    "part": 1,
+    "question": "What kind of places do you like visiting?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer travelling alone or with others?"
+  },
+  {
+    "part": 1,
+    "question": "What was your most memorable trip?"
+  },
+  {
+    "part": 1,
+    "question": "Is there a place you would like to visit in the future?"
+  },
+  {
+    "part": 1,
+    "question": "What kind of weather do you like most?"
+  },
+  {
+    "part": 1,
+    "question": "Does the weather affect your mood?"
+  },
+  {
+    "part": 1,
+    "question": "What is the weather usually like where you live?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer hot or cold weather?"
+  },
+  {
+    "part": 1,
+    "question": "Has the weather in your area changed in recent years?"
+  },
+  {
+    "part": 1,
+    "question": "Do you enjoy shopping?"
+  },
+  {
+    "part": 1,
+    "question": "What do you usually shop for?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer shopping online or in stores?"
+  },
+  {
+    "part": 1,
+    "question": "How often do you buy things you do not really need?"
+  },
+  {
+    "part": 1,
+    "question": "Has the way you shop changed in recent years?"
+  },
+  {
+    "part": 1,
+    "question": "Do you enjoy taking photographs?"
+  },
+  {
+    "part": 1,
+    "question": "What do you usually take photos of?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer using a phone or a camera?"
+  },
+  {
+    "part": 1,
+    "question": "Do you often look back at old photographs?"
+  },
+  {
+    "part": 1,
+    "question": "Why do people like taking photos?"
+  },
+  {
+    "part": 1,
+    "question": "How often do you use public transport?"
+  },
+  {
+    "part": 1,
+    "question": "What kind of public transport is common where you live?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer public transport or private vehicles?"
+  },
+  {
+    "part": 1,
+    "question": "What could improve public transport in your area?"
+  },
+  {
+    "part": 1,
+    "question": "Do you think you will use public transport more in the future?"
+  },
+  {
+    "part": 1,
+    "question": "What do you usually do at weekends?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer busy or relaxing weekends?"
+  },
+  {
+    "part": 1,
+    "question": "How are your weekends different from weekdays?"
+  },
+  {
+    "part": 1,
+    "question": "Did you spend weekends differently when you were younger?"
+  },
+  {
+    "part": 1,
+    "question": "What would your ideal weekend be like?"
+  },
+  {
+    "part": 1,
+    "question": "What kind of clothes do you usually wear?"
+  },
+  {
+    "part": 1,
+    "question": "Do you care about fashion?"
+  },
+  {
+    "part": 1,
+    "question": "Do you prefer comfortable clothes or stylish clothes?"
+  },
+  {
+    "part": 1,
+    "question": "How often do you buy new clothes?"
+  },
+  {
+    "part": 1,
+    "question": "Have your clothing preferences changed over time?"
+  },
+  {
+    "part": 1,
+    "question": "How long have you been learning English?"
+  },
+  {
+    "part": 1,
+    "question": "What do you find most difficult about learning English?"
+  },
+  {
+    "part": 1,
+    "question": "How do you practise your English outside class?"
+  },
+  {
+    "part": 1,
+    "question": "Which English skill would you most like to improve?"
+  },
+  {
+    "part": 1,
+    "question": "Why is English important to you?"
+  },
+  {
+    "part": 1,
+    "question": "How often do you use social media?"
+  },
+  {
+    "part": 1,
+    "question": "What do you mainly use social media for?"
+  },
+  {
+    "part": 1,
+    "question": "Do you think social media is useful for students?"
+  },
+  {
+    "part": 1,
+    "question": "Has your use of social media changed over time?"
+  },
+  {
+    "part": 1,
+    "question": "Would you like to spend less time on social media?"
+  },
+  {
+    "part": 2,
+    "question": "Describe a place in your hometown that you enjoy visiting."
+  },
+  {
+    "part": 2,
+    "question": "Describe a person who has inspired you."
+  },
+  {
+    "part": 2,
+    "question": "Describe a useful skill you learned."
+  },
+  {
+    "part": 2,
+    "question": "Describe a journey you remember well."
+  },
+  {
+    "part": 2,
+    "question": "Describe a difficult decision you had to make."
+  },
+  {
+    "part": 2,
+    "question": "Describe a book you enjoyed reading."
+  },
+  {
+    "part": 2,
+    "question": "Describe a successful person you know or know about."
+  },
+  {
+    "part": 2,
+    "question": "Describe a website or app that you find useful."
+  },
+  {
+    "part": 2,
+    "question": "Describe a celebration you enjoyed."
+  },
+  {
+    "part": 2,
+    "question": "Describe a crowded place you have visited."
+  },
+  {
+    "part": 2,
+    "question": "Describe a piece of technology that is important to you."
+  },
+  {
+    "part": 2,
+    "question": "Describe a time when you helped someone."
+  },
+  {
+    "part": 2,
+    "question": "Describe an interesting conversation you had."
+  },
+  {
+    "part": 2,
+    "question": "Describe a healthy habit you have or would like to develop."
+  },
+  {
+    "part": 2,
+    "question": "Describe a beautiful natural place you have visited."
+  },
+  {
+    "part": 2,
+    "question": "Describe a goal you worked hard to achieve."
+  },
+  {
+    "part": 2,
+    "question": "Describe a teacher you remember well."
+  },
+  {
+    "part": 2,
+    "question": "Describe an object you use regularly."
+  },
+  {
+    "part": 2,
+    "question": "Describe a time when you were late for something important."
+  },
+  {
+    "part": 2,
+    "question": "Describe an important event in your life."
+  },
+  {
+    "part": 2,
+    "question": "Describe a photograph that is special to you."
+  },
+  {
+    "part": 2,
+    "question": "Describe a place where you like to relax."
+  },
+  {
+    "part": 2,
+    "question": "Describe something you bought that you were very happy with."
+  },
+  {
+    "part": 2,
+    "question": "Describe a time when you tried something new."
+  },
+  {
+    "part": 2,
+    "question": "Describe a piece of advice that was useful to you."
+  },
+  {
+    "part": 2,
+    "question": "Describe a meal that you really enjoyed."
+  },
+  {
+    "part": 2,
+    "question": "Describe a skill you would like to learn in the future."
+  },
+  {
+    "part": 2,
+    "question": "Describe a public place that you think is important."
+  },
+  {
+    "part": 2,
+    "question": "Describe a gift that you remember receiving."
+  },
+  {
+    "part": 2,
+    "question": "Describe a difficult task that you completed successfully."
+  },
+  {
+    "part": 3,
+    "question": "Why do some people prefer living in large cities?"
+  },
+  {
+    "part": 3,
+    "question": "What problems can rapid urban growth create?"
+  },
+  {
+    "part": 3,
+    "question": "How can governments make cities better places to live?"
+  },
+  {
+    "part": 3,
+    "question": "Do you think small towns will become less popular in the future?"
+  },
+  {
+    "part": 3,
+    "question": "What qualities make someone a good teacher?"
+  },
+  {
+    "part": 3,
+    "question": "Should schools focus more on practical skills?"
+  },
+  {
+    "part": 3,
+    "question": "How has technology changed education?"
+  },
+  {
+    "part": 3,
+    "question": "Do you think examinations are the best way to assess students?"
+  },
+  {
+    "part": 3,
+    "question": "How has technology changed the way people communicate?"
+  },
+  {
+    "part": 3,
+    "question": "What are the disadvantages of relying too much on technology?"
+  },
+  {
+    "part": 3,
+    "question": "Should children have limits on their use of digital devices?"
+  },
+  {
+    "part": 3,
+    "question": "What kinds of technology might become important in the future?"
+  },
+  {
+    "part": 3,
+    "question": "Why do people change careers?"
+  },
+  {
+    "part": 3,
+    "question": "What is more important in a job: salary or satisfaction?"
+  },
+  {
+    "part": 3,
+    "question": "How might workplaces change in the future?"
+  },
+  {
+    "part": 3,
+    "question": "Should employers allow more people to work from home?"
+  },
+  {
+    "part": 3,
+    "question": "What environmental problems are most serious in cities?"
+  },
+  {
+    "part": 3,
+    "question": "What can individuals do to reduce environmental damage?"
+  },
+  {
+    "part": 3,
+    "question": "Should governments make environmentally harmful products more expensive?"
+  },
+  {
+    "part": 3,
+    "question": "Why do some people find it difficult to change their environmental habits?"
+  },
+  {
+    "part": 3,
+    "question": "Why has international travel become so popular?"
+  },
+  {
+    "part": 3,
+    "question": "What are the benefits of tourism for local communities?"
+  },
+  {
+    "part": 3,
+    "question": "What problems can too much tourism cause?"
+  },
+  {
+    "part": 3,
+    "question": "How might tourism change in the future?"
+  },
+  {
+    "part": 3,
+    "question": "Why do some people find it difficult to exercise regularly?"
+  },
+  {
+    "part": 3,
+    "question": "Should governments do more to encourage healthy lifestyles?"
+  },
+  {
+    "part": 3,
+    "question": "How have people's eating habits changed in recent years?"
+  },
+  {
+    "part": 3,
+    "question": "Do you think people will become healthier in the future?"
+  },
+  {
+    "part": 3,
+    "question": "Why is reading important for children?"
+  },
+  {
+    "part": 3,
+    "question": "Do people read less now than in the past?"
+  },
+  {
+    "part": 3,
+    "question": "What are the advantages of digital books?"
+  },
+  {
+    "part": 3,
+    "question": "Should schools encourage students to read for pleasure?"
+  },
+  {
+    "part": 3,
+    "question": "How has social media changed friendships?"
+  },
+  {
+    "part": 3,
+    "question": "What are the risks of sharing personal information online?"
+  },
+  {
+    "part": 3,
+    "question": "Should social media companies be more responsible for harmful content?"
+  },
+  {
+    "part": 3,
+    "question": "Do you think social media will remain popular in the future?"
+  },
+  {
+    "part": 3,
+    "question": "Why do some people avoid using public transport?"
+  },
+  {
+    "part": 3,
+    "question": "How can cities encourage people to use buses and trains more often?"
+  },
+  {
+    "part": 3,
+    "question": "Should public transport be free?"
+  },
+  {
+    "part": 3,
+    "question": "What might public transport look like in the future?"
+  },
+  {
+    "part": 3,
+    "question": "How do people usually define success?"
+  },
+  {
+    "part": 3,
+    "question": "Do you think successful people are always happy?"
+  },
+  {
+    "part": 3,
+    "question": "How important is luck in becoming successful?"
+  },
+  {
+    "part": 3,
+    "question": "Should schools teach students how to deal with failure?"
+  },
+  {
+    "part": 3,
+    "question": "How does advertising influence people's choices?"
+  },
+  {
+    "part": 3,
+    "question": "Should advertising aimed at children be restricted?"
+  },
+  {
+    "part": 3,
+    "question": "Why do companies use famous people in advertisements?"
+  },
+  {
+    "part": 3,
+    "question": "Do online advertisements influence people more than traditional advertisements?"
+  },
+  {
+    "part": 3,
+    "question": "Why is it important to preserve traditions?"
+  },
+  {
+    "part": 3,
+    "question": "Can traditions ever prevent a society from progressing?"
+  },
+  {
+    "part": 3,
+    "question": "How can young people learn more about their culture?"
+  },
+  {
+    "part": 3,
+    "question": "Do you think globalisation makes cultures more similar?"
+  },
+  {
+    "part": 3,
+    "question": "Why are international foods becoming more popular?"
+  },
+  {
+    "part": 3,
+    "question": "How have people's eating habits changed over time?"
+  },
+  {
+    "part": 3,
+    "question": "Should schools teach children how to cook?"
+  },
+  {
+    "part": 3,
+    "question": "What can governments do to encourage healthier eating?"
+  },
+  {
+    "part": 3,
+    "question": "Why has online shopping become so popular?"
+  },
+  {
+    "part": 3,
+    "question": "What are the disadvantages of buying things online?"
+  },
+  {
+    "part": 3,
+    "question": "Do people buy more things than they need nowadays?"
+  },
+  {
+    "part": 3,
+    "question": "How might shopping change in the future?"
+  }
+]
