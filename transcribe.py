@@ -28,7 +28,6 @@ def parse_args():
     parser.add_argument("--language", default="en")
     return parser.parse_args()
 
-
 def convert_to_wav(input_path, wav_path):
     command = [
         "ffmpeg", "-y", "-i", str(input_path), "-vn", "-ac", "1", "-ar", "16000",
@@ -109,6 +108,7 @@ def main():
     compute_type = "float16" if device == "cuda" else "int8"
     print(f"Using device: {device}")
 
+# q
     output_dir = PROJECT_DIR / "output" / input_path.stem
     output_dir.mkdir(parents=True, exist_ok=True)
     temporary_path = None
@@ -118,7 +118,7 @@ def main():
         print("Converting input to temporary 16 kHz mono WAV...")
         convert_to_wav(input_path, temporary_path)
         audio = whisperx.load_audio(str(temporary_path))
-        duration = len(audio) / 16000.0
+        duration = len(audio) / 16000
 
         print(f"Loading WhisperX model: {args.model}")
         model = whisperx.load_model(args.model, device, compute_type=compute_type, language=args.language)

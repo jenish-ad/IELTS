@@ -1,0 +1,2926 @@
+{
+  "source_file": "C:/Users/Asus/Desktop/IELTS/input/interview2.mp3",
+  "language": "en",
+  "duration_seconds": 164.808,
+  "alignment_completed": true,
+  "segments": [
+    {
+      "start": 0.511,
+      "end": 3.992,
+      "text": " This IELTS speaking test will be recorded for assessment purpose.",
+      "words": [
+        {
+          "word": "This",
+          "start": 0.511,
+          "end": 0.711,
+          "score": 0.853
+        },
+        {
+          "word": "IELTS",
+          "start": 0.971,
+          "end": 1.191,
+          "score": 0.491
+        },
+        {
+          "word": "speaking",
+          "start": 1.231,
+          "end": 1.591,
+          "score": 0.873
+        },
+        {
+          "word": "test",
+          "start": 1.631,
+          "end": 1.891,
+          "score": 0.806
+        },
+        {
+          "word": "will",
+          "start": 1.951,
+          "end": 2.131,
+          "score": 0.758
+        },
+        {
+          "word": "be",
+          "start": 2.171,
+          "end": 2.272,
+          "score": 0.832
+        },
+        {
+          "word": "recorded",
+          "start": 2.312,
+          "end": 2.792,
+          "score": 0.963
+        },
+        {
+          "word": "for",
+          "start": 2.832,
+          "end": 2.972,
+          "score": 0.89
+        },
+        {
+          "word": "assessment",
+          "start": 3.012,
+          "end": 3.492,
+          "score": 0.906
+        },
+        {
+          "word": "purpose.",
+          "start": 3.532,
+          "end": 3.992,
+          "score": 0.796
+        }
+      ],
+      "avg_logprob": -0.053799777469109925
+    },
+    {
+      "start": 4.332,
+      "end": 7.693,
+      "text": "The speaking test will roughly last between 11 to 14 minutes.",
+      "words": [
+        {
+          "word": "The",
+          "start": 4.332,
+          "end": 4.432,
+          "score": 0.993
+        },
+        {
+          "word": "speaking",
+          "start": 4.472,
+          "end": 4.832,
+          "score": 0.919
+        },
+        {
+          "word": "test",
+          "start": 4.852,
+          "end": 5.112,
+          "score": 0.908
+        },
+        {
+          "word": "will",
+          "start": 5.132,
+          "end": 5.312,
+          "score": 0.972
+        },
+        {
+          "word": "roughly",
+          "start": 5.372,
+          "end": 5.732,
+          "score": 0.858
+        },
+        {
+          "word": "last",
+          "start": 5.772,
+          "end": 6.032,
+          "score": 0.935
+        },
+        {
+          "word": "between",
+          "start": 6.092,
+          "end": 6.352,
+          "score": 0.964
+        },
+        {
+          "word": "11",
+          "start": 6.372,
+          "end": 6.853,
+          "score": 0.768
+        },
+        {
+          "word": "to",
+          "start": 6.893,
+          "end": 6.993,
+          "score": 0.99
+        },
+        {
+          "word": "14",
+          "start": 7.053,
+          "end": 7.373,
+          "score": 0.714
+        },
+        {
+          "word": "minutes.",
+          "start": 7.413,
+          "end": 7.693,
+          "score": 0.872
+        }
+      ],
+      "avg_logprob": -0.053799777469109925
+    },
+    {
+      "start": 8.033,
+      "end": 12.034,
+      "text": "Before we start part 3 of the speaking test, can I see your identification?",
+      "words": [
+        {
+          "word": "Before",
+          "start": 8.033,
+          "end": 8.313,
+          "score": 0.92
+        },
+        {
+          "word": "we",
+          "start": 8.373,
+          "end": 8.473,
+          "score": 0.999
+        },
+        {
+          "word": "start",
+          "start": 8.513,
+          "end": 8.793,
+          "score": 0.9
+        },
+        {
+          "word": "part",
+          "start": 8.853,
+          "end": 9.073,
+          "score": 0.748
+        },
+        {
+          "word": "3",
+          "start": 9.173,
+          "end": 9.433,
+          "score": 0.39
+        },
+        {
+          "word": "of",
+          "start": 9.473,
+          "end": 9.553,
+          "score": 0.833
+        },
+        {
+          "word": "the",
+          "start": 9.593,
+          "end": 9.673,
+          "score": 0.851
+        },
+        {
+          "word": "speaking",
+          "start": 9.713,
+          "end": 10.053,
+          "score": 0.903
+        },
+        {
+          "word": "test,",
+          "start": 10.093,
+          "end": 10.333,
+          "score": 0.91
+        },
+        {
+          "word": "can",
+          "start": 10.613,
+          "end": 10.753,
+          "score": 0.994
+        },
+        {
+          "word": "I",
+          "start": 10.813,
+          "end": 10.873,
+          "score": 0.67
+        },
+        {
+          "word": "see",
+          "start": 10.893,
+          "end": 11.013,
+          "score": 0.914
+        },
+        {
+          "word": "your",
+          "start": 11.033,
+          "end": 11.154,
+          "score": 0.704
+        },
+        {
+          "word": "identification?",
+          "start": 11.214,
+          "end": 12.034,
+          "score": 0.876
+        }
+      ],
+      "avg_logprob": -0.053799777469109925
+    },
+    {
+      "start": 12.334,
+      "end": 13.174,
+      "text": "Yeah, here you go.",
+      "words": [
+        {
+          "word": "Yeah,",
+          "start": 12.334,
+          "end": 12.534,
+          "score": 0.529
+        },
+        {
+          "word": "here",
+          "start": 12.754,
+          "end": 12.974,
+          "score": 0.654
+        },
+        {
+          "word": "you",
+          "start": 13.014,
+          "end": 13.094,
+          "score": 0.48
+        },
+        {
+          "word": "go.",
+          "start": 13.114,
+          "end": 13.174,
+          "score": 0.329
+        }
+      ],
+      "avg_logprob": -0.053799777469109925
+    },
+    {
+      "start": 16.395,
+      "end": 17.315,
+      "text": "Okay, thank you so much.",
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 16.395,
+          "end": 16.595,
+          "score": 0.482
+        },
+        {
+          "word": "thank",
+          "start": 16.615,
+          "end": 16.755,
+          "score": 0.984
+        },
+        {
+          "word": "you",
+          "start": 16.795,
+          "end": 16.895,
+          "score": 0.922
+        },
+        {
+          "word": "so",
+          "start": 16.915,
+          "end": 17.055,
+          "score": 0.982
+        },
+        {
+          "word": "much.",
+          "start": 17.095,
+          "end": 17.315,
+          "score": 0.833
+        }
+      ],
+      "avg_logprob": -0.053799777469109925
+    },
+    {
+      "start": 17.995,
+      "end": 22.896,
+      "text": "Let's now start part 3 of the speaking test where we are going to discuss about photographs.",
+      "words": [
+        {
+          "word": "Let's",
+          "start": 17.995,
+          "end": 18.275,
+          "score": 0.772
+        },
+        {
+          "word": "now",
+          "start": 18.375,
+          "end": 18.615,
+          "score": 0.905
+        },
+        {
+          "word": "start",
+          "start": 18.715,
+          "end": 19.015,
+          "score": 0.93
+        },
+        {
+          "word": "part",
+          "start": 19.115,
+          "end": 19.575,
+          "score": 0.708
+        },
+        {
+          "word": "3",
+          "start": 19.655,
+          "end": 19.715,
+          "score": 0.667
+        },
+        {
+          "word": "of",
+          "start": 19.775,
+          "end": 19.835,
+          "score": 0.978
+        },
+        {
+          "word": "the",
+          "start": 19.875,
+          "end": 19.975,
+          "score": 0.701
+        },
+        {
+          "word": "speaking",
+          "start": 20.015,
+          "end": 20.356,
+          "score": 0.913
+        },
+        {
+          "word": "test",
+          "start": 20.396,
+          "end": 20.656,
+          "score": 0.917
+        },
+        {
+          "word": "where",
+          "start": 20.736,
+          "end": 20.916,
+          "score": 0.952
+        },
+        {
+          "word": "we",
+          "start": 20.956,
+          "end": 21.076,
+          "score": 0.952
+        },
+        {
+          "word": "are",
+          "start": 21.116,
+          "end": 21.196,
+          "score": 0.941
+        },
+        {
+          "word": "going",
+          "start": 21.236,
+          "end": 21.416,
+          "score": 0.869
+        },
+        {
+          "word": "to",
+          "start": 21.456,
+          "end": 21.516,
+          "score": 1.0
+        },
+        {
+          "word": "discuss",
+          "start": 21.556,
+          "end": 21.916,
+          "score": 0.905
+        },
+        {
+          "word": "about",
+          "start": 21.956,
+          "end": 22.216,
+          "score": 0.881
+        },
+        {
+          "word": "photographs.",
+          "start": 22.296,
+          "end": 22.896,
+          "score": 0.822
+        }
+      ],
+      "avg_logprob": -0.053799777469109925
+    },
+    {
+      "start": 23.476,
+      "end": 26.237,
+      "text": "Tell me, why do people like taking photographs?",
+      "words": [
+        {
+          "word": "Tell",
+          "start": 23.476,
+          "end": 23.676,
+          "score": 0.986
+        },
+        {
+          "word": "me,",
+          "start": 23.736,
+          "end": 23.876,
+          "score": 0.96
+        },
+        {
+          "word": "why",
+          "start": 24.236,
+          "end": 24.416,
+          "score": 0.826
+        },
+        {
+          "word": "do",
+          "start": 24.456,
+          "end": 24.617,
+          "score": 0.865
+        },
+        {
+          "word": "people",
+          "start": 24.657,
+          "end": 24.997,
+          "score": 0.824
+        },
+        {
+          "word": "like",
+          "start": 25.097,
+          "end": 25.297,
+          "score": 0.848
+        },
+        {
+          "word": "taking",
+          "start": 25.337,
+          "end": 25.617,
+          "score": 0.914
+        },
+        {
+          "word": "photographs?",
+          "start": 25.677,
+          "end": 26.237,
+          "score": 0.979
+        }
+      ],
+      "avg_logprob": -0.053799777469109925
+    },
+    {
+      "start": 27.102,
+      "end": 33.988,
+      "text": " From my perspective, people like taking photographs because it helps to preserve important memories that they want to keep looking at in the future.",
+      "words": [
+        {
+          "word": "From",
+          "start": 27.102,
+          "end": 27.242,
+          "score": 0.905
+        },
+        {
+          "word": "my",
+          "start": 27.282,
+          "end": 27.402,
+          "score": 0.98
+        },
+        {
+          "word": "perspective,",
+          "start": 27.442,
+          "end": 28.023,
+          "score": 0.799
+        },
+        {
+          "word": "people",
+          "start": 28.063,
+          "end": 28.363,
+          "score": 0.87
+        },
+        {
+          "word": "like",
+          "start": 28.403,
+          "end": 28.583,
+          "score": 0.879
+        },
+        {
+          "word": "taking",
+          "start": 28.623,
+          "end": 28.883,
+          "score": 0.863
+        },
+        {
+          "word": "photographs",
+          "start": 28.923,
+          "end": 29.424,
+          "score": 0.423
+        },
+        {
+          "word": "because",
+          "start": 29.524,
+          "end": 29.864,
+          "score": 0.774
+        },
+        {
+          "word": "it",
+          "start": 29.944,
+          "end": 30.024,
+          "score": 0.869
+        },
+        {
+          "word": "helps",
+          "start": 30.044,
+          "end": 30.265,
+          "score": 0.54
+        },
+        {
+          "word": "to",
+          "start": 30.285,
+          "end": 30.465,
+          "score": 0.481
+        },
+        {
+          "word": "preserve",
+          "start": 30.485,
+          "end": 30.885,
+          "score": 0.777
+        },
+        {
+          "word": "important",
+          "start": 30.945,
+          "end": 31.385,
+          "score": 0.91
+        },
+        {
+          "word": "memories",
+          "start": 31.426,
+          "end": 31.846,
+          "score": 0.933
+        },
+        {
+          "word": "that",
+          "start": 31.886,
+          "end": 32.046,
+          "score": 0.79
+        },
+        {
+          "word": "they",
+          "start": 32.106,
+          "end": 32.226,
+          "score": 0.36
+        },
+        {
+          "word": "want",
+          "start": 32.246,
+          "end": 32.466,
+          "score": 0.682
+        },
+        {
+          "word": "to",
+          "start": 32.486,
+          "end": 32.586,
+          "score": 0.806
+        },
+        {
+          "word": "keep",
+          "start": 32.626,
+          "end": 32.827,
+          "score": 0.86
+        },
+        {
+          "word": "looking",
+          "start": 32.867,
+          "end": 33.047,
+          "score": 0.57
+        },
+        {
+          "word": "at",
+          "start": 33.147,
+          "end": 33.247,
+          "score": 0.778
+        },
+        {
+          "word": "in",
+          "start": 33.367,
+          "end": 33.447,
+          "score": 0.76
+        },
+        {
+          "word": "the",
+          "start": 33.467,
+          "end": 33.527,
+          "score": 0.88
+        },
+        {
+          "word": "future.",
+          "start": 33.587,
+          "end": 33.988,
+          "score": 0.82
+        }
+      ],
+      "avg_logprob": -0.07098365704218547
+    },
+    {
+      "start": 34.548,
+      "end": 50.021,
+      "text": "In addition, photographs also help to preserve memories about our special or important moments such as anyone's, it could be anyone's birthday or any special occasion or family gatherings that we want to look at in the future to remember a good experience.",
+      "words": [
+        {
+          "word": "In",
+          "start": 34.548,
+          "end": 34.608,
+          "score": 0.99
+        },
+        {
+          "word": "addition,",
+          "start": 34.688,
+          "end": 35.109,
+          "score": 0.815
+        },
+        {
+          "word": "photographs",
+          "start": 35.329,
+          "end": 35.829,
+          "score": 0.93
+        },
+        {
+          "word": "also",
+          "start": 35.949,
+          "end": 36.209,
+          "score": 0.965
+        },
+        {
+          "word": "help",
+          "start": 36.249,
+          "end": 36.43,
+          "score": 0.794
+        },
+        {
+          "word": "to",
+          "start": 36.45,
+          "end": 36.61,
+          "score": 0.494
+        },
+        {
+          "word": "preserve",
+          "start": 36.63,
+          "end": 37.01,
+          "score": 0.919
+        },
+        {
+          "word": "memories",
+          "start": 37.05,
+          "end": 37.51,
+          "score": 0.77
+        },
+        {
+          "word": "about",
+          "start": 37.671,
+          "end": 37.971,
+          "score": 0.889
+        },
+        {
+          "word": "our",
+          "start": 38.131,
+          "end": 38.291,
+          "score": 0.762
+        },
+        {
+          "word": "special",
+          "start": 38.671,
+          "end": 39.172,
+          "score": 0.895
+        },
+        {
+          "word": "or",
+          "start": 39.232,
+          "end": 39.292,
+          "score": 0.912
+        },
+        {
+          "word": "important",
+          "start": 39.372,
+          "end": 39.832,
+          "score": 0.891
+        },
+        {
+          "word": "moments",
+          "start": 39.872,
+          "end": 40.233,
+          "score": 0.885
+        },
+        {
+          "word": "such",
+          "start": 40.333,
+          "end": 40.533,
+          "score": 0.992
+        },
+        {
+          "word": "as",
+          "start": 40.673,
+          "end": 40.773,
+          "score": 0.594
+        },
+        {
+          "word": "anyone's,",
+          "start": 41.173,
+          "end": 41.574,
+          "score": 0.633
+        },
+        {
+          "word": "it",
+          "start": 41.654,
+          "end": 41.714,
+          "score": 0.97
+        },
+        {
+          "word": "could",
+          "start": 41.754,
+          "end": 41.914,
+          "score": 0.961
+        },
+        {
+          "word": "be",
+          "start": 41.954,
+          "end": 42.054,
+          "score": 0.954
+        },
+        {
+          "word": "anyone's",
+          "start": 42.114,
+          "end": 42.474,
+          "score": 0.868
+        },
+        {
+          "word": "birthday",
+          "start": 42.555,
+          "end": 43.555,
+          "score": 0.532
+        },
+        {
+          "word": "or",
+          "start": 43.575,
+          "end": 43.615,
+          "score": 0.002
+        },
+        {
+          "word": "any",
+          "start": 43.715,
+          "end": 43.856,
+          "score": 0.935
+        },
+        {
+          "word": "special",
+          "start": 43.896,
+          "end": 44.256,
+          "score": 0.847
+        },
+        {
+          "word": "occasion",
+          "start": 44.316,
+          "end": 44.716,
+          "score": 0.943
+        },
+        {
+          "word": "or",
+          "start": 44.796,
+          "end": 44.856,
+          "score": 0.914
+        },
+        {
+          "word": "family",
+          "start": 44.916,
+          "end": 45.237,
+          "score": 0.862
+        },
+        {
+          "word": "gatherings",
+          "start": 45.257,
+          "end": 45.797,
+          "score": 0.94
+        },
+        {
+          "word": "that",
+          "start": 45.937,
+          "end": 46.077,
+          "score": 0.988
+        },
+        {
+          "word": "we",
+          "start": 46.137,
+          "end": 46.258,
+          "score": 0.991
+        },
+        {
+          "word": "want",
+          "start": 46.298,
+          "end": 46.538,
+          "score": 0.832
+        },
+        {
+          "word": "to",
+          "start": 46.578,
+          "end": 46.718,
+          "score": 0.845
+        },
+        {
+          "word": "look",
+          "start": 46.758,
+          "end": 46.938,
+          "score": 0.876
+        },
+        {
+          "word": "at",
+          "start": 47.038,
+          "end": 47.138,
+          "score": 0.847
+        },
+        {
+          "word": "in",
+          "start": 47.579,
+          "end": 47.659,
+          "score": 0.855
+        },
+        {
+          "word": "the",
+          "start": 47.679,
+          "end": 47.739,
+          "score": 0.792
+        },
+        {
+          "word": "future",
+          "start": 47.799,
+          "end": 48.159,
+          "score": 0.661
+        },
+        {
+          "word": "to",
+          "start": 48.399,
+          "end": 48.539,
+          "score": 0.912
+        },
+        {
+          "word": "remember",
+          "start": 48.619,
+          "end": 49.06,
+          "score": 0.893
+        },
+        {
+          "word": "a",
+          "start": 49.1,
+          "end": 49.14,
+          "score": 0.483
+        },
+        {
+          "word": "good",
+          "start": 49.18,
+          "end": 49.34,
+          "score": 0.877
+        },
+        {
+          "word": "experience.",
+          "start": 49.42,
+          "end": 50.021,
+          "score": 0.95
+        }
+      ],
+      "avg_logprob": -0.07098365704218547
+    },
+    {
+      "start": 50.821,
+      "end": 80.217,
+      "text": " and also that photographs also helps as a way to express our experiences with our family and friends in today's world okay do you think people take more photographs nowadays than in the past yes without a doubt because in the past we need more resources such as a camera person a different camera it could be photograph papers which was more like expensive and less convenient but in contracts in today's generation almost everyone have a mobile phone or smartphone",
+      "words": [
+        {
+          "word": "and",
+          "start": 50.821,
+          "end": 50.961,
+          "score": 0.616
+        },
+        {
+          "word": "also",
+          "start": 51.101,
+          "end": 51.321,
+          "score": 0.913
+        },
+        {
+          "word": "that",
+          "start": 51.361,
+          "end": 51.502,
+          "score": 0.912
+        },
+        {
+          "word": "photographs",
+          "start": 51.582,
+          "end": 52.102,
+          "score": 0.909
+        },
+        {
+          "word": "also",
+          "start": 52.182,
+          "end": 52.562,
+          "score": 0.898
+        },
+        {
+          "word": "helps",
+          "start": 52.722,
+          "end": 52.982,
+          "score": 0.633
+        },
+        {
+          "word": "as",
+          "start": 53.383,
+          "end": 53.483,
+          "score": 0.833
+        },
+        {
+          "word": "a",
+          "start": 53.543,
+          "end": 53.563,
+          "score": 0.92
+        },
+        {
+          "word": "way",
+          "start": 53.643,
+          "end": 53.863,
+          "score": 0.928
+        },
+        {
+          "word": "to",
+          "start": 53.903,
+          "end": 54.003,
+          "score": 0.944
+        },
+        {
+          "word": "express",
+          "start": 54.063,
+          "end": 54.443,
+          "score": 0.915
+        },
+        {
+          "word": "our",
+          "start": 54.603,
+          "end": 54.723,
+          "score": 0.893
+        },
+        {
+          "word": "experiences",
+          "start": 54.843,
+          "end": 55.584,
+          "score": 0.894
+        },
+        {
+          "word": "with",
+          "start": 55.644,
+          "end": 55.784,
+          "score": 0.824
+        },
+        {
+          "word": "our",
+          "start": 55.824,
+          "end": 55.944,
+          "score": 0.777
+        },
+        {
+          "word": "family",
+          "start": 55.984,
+          "end": 56.304,
+          "score": 0.974
+        },
+        {
+          "word": "and",
+          "start": 56.344,
+          "end": 56.444,
+          "score": 0.881
+        },
+        {
+          "word": "friends",
+          "start": 56.524,
+          "end": 56.804,
+          "score": 0.917
+        },
+        {
+          "word": "in",
+          "start": 57.225,
+          "end": 57.305,
+          "score": 0.883
+        },
+        {
+          "word": "today's",
+          "start": 57.325,
+          "end": 57.665,
+          "score": 0.618
+        },
+        {
+          "word": "world",
+          "start": 57.705,
+          "end": 57.945,
+          "score": 0.644
+        },
+        {
+          "word": "okay",
+          "start": 58.585,
+          "end": 58.925,
+          "score": 0.721
+        },
+        {
+          "word": "do",
+          "start": 59.386,
+          "end": 59.486,
+          "score": 0.839
+        },
+        {
+          "word": "you",
+          "start": 59.526,
+          "end": 59.626,
+          "score": 0.978
+        },
+        {
+          "word": "think",
+          "start": 59.686,
+          "end": 59.866,
+          "score": 0.947
+        },
+        {
+          "word": "people",
+          "start": 59.926,
+          "end": 60.286,
+          "score": 0.922
+        },
+        {
+          "word": "take",
+          "start": 60.346,
+          "end": 60.546,
+          "score": 0.911
+        },
+        {
+          "word": "more",
+          "start": 60.646,
+          "end": 60.847,
+          "score": 0.981
+        },
+        {
+          "word": "photographs",
+          "start": 60.947,
+          "end": 61.567,
+          "score": 0.887
+        },
+        {
+          "word": "nowadays",
+          "start": 61.707,
+          "end": 62.327,
+          "score": 0.861
+        },
+        {
+          "word": "than",
+          "start": 62.407,
+          "end": 62.607,
+          "score": 0.889
+        },
+        {
+          "word": "in",
+          "start": 62.667,
+          "end": 62.728,
+          "score": 0.905
+        },
+        {
+          "word": "the",
+          "start": 62.788,
+          "end": 62.868,
+          "score": 0.975
+        },
+        {
+          "word": "past",
+          "start": 62.908,
+          "end": 63.248,
+          "score": 0.917
+        },
+        {
+          "word": "yes",
+          "start": 63.708,
+          "end": 63.948,
+          "score": 0.898
+        },
+        {
+          "word": "without",
+          "start": 64.108,
+          "end": 64.388,
+          "score": 0.834
+        },
+        {
+          "word": "a",
+          "start": 64.428,
+          "end": 64.448,
+          "score": 0.89
+        },
+        {
+          "word": "doubt",
+          "start": 64.488,
+          "end": 64.709,
+          "score": 0.866
+        },
+        {
+          "word": "because",
+          "start": 64.969,
+          "end": 65.229,
+          "score": 0.714
+        },
+        {
+          "word": "in",
+          "start": 65.269,
+          "end": 65.349,
+          "score": 0.973
+        },
+        {
+          "word": "the",
+          "start": 65.369,
+          "end": 65.429,
+          "score": 0.824
+        },
+        {
+          "word": "past",
+          "start": 65.489,
+          "end": 65.749,
+          "score": 0.876
+        },
+        {
+          "word": "we",
+          "start": 65.809,
+          "end": 65.929,
+          "score": 0.906
+        },
+        {
+          "word": "need",
+          "start": 65.969,
+          "end": 66.169,
+          "score": 0.799
+        },
+        {
+          "word": "more",
+          "start": 66.229,
+          "end": 66.43,
+          "score": 0.772
+        },
+        {
+          "word": "resources",
+          "start": 66.47,
+          "end": 67.03,
+          "score": 0.873
+        },
+        {
+          "word": "such",
+          "start": 67.07,
+          "end": 67.23,
+          "score": 0.84
+        },
+        {
+          "word": "as",
+          "start": 67.29,
+          "end": 67.35,
+          "score": 0.89
+        },
+        {
+          "word": "a",
+          "start": 67.41,
+          "end": 67.47,
+          "score": 0.841
+        },
+        {
+          "word": "camera",
+          "start": 67.51,
+          "end": 67.83,
+          "score": 0.838
+        },
+        {
+          "word": "person",
+          "start": 67.87,
+          "end": 68.431,
+          "score": 0.795
+        },
+        {
+          "word": "a",
+          "start": 68.891,
+          "end": 68.991,
+          "score": 0.315
+        },
+        {
+          "word": "different",
+          "start": 69.011,
+          "end": 69.371,
+          "score": 0.922
+        },
+        {
+          "word": "camera",
+          "start": 69.491,
+          "end": 70.111,
+          "score": 0.823
+        },
+        {
+          "word": "it",
+          "start": 70.512,
+          "end": 70.592,
+          "score": 0.445
+        },
+        {
+          "word": "could",
+          "start": 70.612,
+          "end": 70.792,
+          "score": 0.624
+        },
+        {
+          "word": "be",
+          "start": 70.812,
+          "end": 70.932,
+          "score": 0.829
+        },
+        {
+          "word": "photograph",
+          "start": 70.992,
+          "end": 71.512,
+          "score": 0.967
+        },
+        {
+          "word": "papers",
+          "start": 71.592,
+          "end": 72.413,
+          "score": 0.882
+        },
+        {
+          "word": "which",
+          "start": 72.493,
+          "end": 72.633,
+          "score": 0.92
+        },
+        {
+          "word": "was",
+          "start": 72.693,
+          "end": 72.873,
+          "score": 0.837
+        },
+        {
+          "word": "more",
+          "start": 72.993,
+          "end": 73.333,
+          "score": 0.759
+        },
+        {
+          "word": "like",
+          "start": 73.493,
+          "end": 73.673,
+          "score": 0.715
+        },
+        {
+          "word": "expensive",
+          "start": 73.753,
+          "end": 74.314,
+          "score": 0.946
+        },
+        {
+          "word": "and",
+          "start": 74.354,
+          "end": 74.454,
+          "score": 0.957
+        },
+        {
+          "word": "less",
+          "start": 74.514,
+          "end": 74.694,
+          "score": 0.893
+        },
+        {
+          "word": "convenient",
+          "start": 74.774,
+          "end": 75.314,
+          "score": 0.909
+        },
+        {
+          "word": "but",
+          "start": 75.654,
+          "end": 75.774,
+          "score": 0.989
+        },
+        {
+          "word": "in",
+          "start": 75.855,
+          "end": 75.935,
+          "score": 0.987
+        },
+        {
+          "word": "contracts",
+          "start": 75.995,
+          "end": 76.475,
+          "score": 0.903
+        },
+        {
+          "word": "in",
+          "start": 76.555,
+          "end": 76.635,
+          "score": 0.998
+        },
+        {
+          "word": "today's",
+          "start": 76.655,
+          "end": 76.975,
+          "score": 0.425
+        },
+        {
+          "word": "generation",
+          "start": 77.015,
+          "end": 77.656,
+          "score": 0.839
+        },
+        {
+          "word": "almost",
+          "start": 77.896,
+          "end": 78.176,
+          "score": 0.901
+        },
+        {
+          "word": "everyone",
+          "start": 78.276,
+          "end": 78.636,
+          "score": 0.817
+        },
+        {
+          "word": "have",
+          "start": 78.696,
+          "end": 78.896,
+          "score": 0.85
+        },
+        {
+          "word": "a",
+          "start": 78.956,
+          "end": 78.996,
+          "score": 0.689
+        },
+        {
+          "word": "mobile",
+          "start": 79.036,
+          "end": 79.356,
+          "score": 0.571
+        },
+        {
+          "word": "phone",
+          "start": 79.376,
+          "end": 79.577,
+          "score": 0.502
+        },
+        {
+          "word": "or",
+          "start": 79.637,
+          "end": 79.717,
+          "score": 0.424
+        },
+        {
+          "word": "smartphone",
+          "start": 79.737,
+          "end": 80.217,
+          "score": 0.536
+        }
+      ],
+      "avg_logprob": -0.07142163387366704
+    },
+    {
+      "start": 80.557,
+      "end": 98.432,
+      "text": " with high quality cameras so photograph has become a really accessible thing in today's generation great what are the advantages of keeping photographs oh there are many several advantages of keeping photographs such as photographs helps to like keep a moment in a picture",
+      "words": [
+        {
+          "word": "with",
+          "start": 80.557,
+          "end": 80.737,
+          "score": 0.555
+        },
+        {
+          "word": "high",
+          "start": 80.777,
+          "end": 80.957,
+          "score": 0.872
+        },
+        {
+          "word": "quality",
+          "start": 81.017,
+          "end": 81.398,
+          "score": 0.931
+        },
+        {
+          "word": "cameras",
+          "start": 81.438,
+          "end": 81.898,
+          "score": 0.786
+        },
+        {
+          "word": "so",
+          "start": 81.978,
+          "end": 82.158,
+          "score": 0.598
+        },
+        {
+          "word": "photograph",
+          "start": 82.178,
+          "end": 82.659,
+          "score": 0.933
+        },
+        {
+          "word": "has",
+          "start": 82.779,
+          "end": 82.919,
+          "score": 0.801
+        },
+        {
+          "word": "become",
+          "start": 82.959,
+          "end": 83.239,
+          "score": 0.971
+        },
+        {
+          "word": "a",
+          "start": 83.279,
+          "end": 83.319,
+          "score": 0.504
+        },
+        {
+          "word": "really",
+          "start": 83.379,
+          "end": 83.62,
+          "score": 0.769
+        },
+        {
+          "word": "accessible",
+          "start": 83.66,
+          "end": 84.16,
+          "score": 0.905
+        },
+        {
+          "word": "thing",
+          "start": 84.2,
+          "end": 84.4,
+          "score": 0.917
+        },
+        {
+          "word": "in",
+          "start": 84.761,
+          "end": 84.821,
+          "score": 0.976
+        },
+        {
+          "word": "today's",
+          "start": 84.841,
+          "end": 85.321,
+          "score": 0.587
+        },
+        {
+          "word": "generation",
+          "start": 85.341,
+          "end": 85.701,
+          "score": 0.336
+        },
+        {
+          "word": "great",
+          "start": 85.721,
+          "end": 86.002,
+          "score": 0.646
+        },
+        {
+          "word": "what",
+          "start": 86.722,
+          "end": 86.922,
+          "score": 0.975
+        },
+        {
+          "word": "are",
+          "start": 87.082,
+          "end": 87.203,
+          "score": 0.865
+        },
+        {
+          "word": "the",
+          "start": 87.243,
+          "end": 87.343,
+          "score": 0.912
+        },
+        {
+          "word": "advantages",
+          "start": 87.443,
+          "end": 88.283,
+          "score": 0.88
+        },
+        {
+          "word": "of",
+          "start": 88.524,
+          "end": 88.644,
+          "score": 0.98
+        },
+        {
+          "word": "keeping",
+          "start": 88.884,
+          "end": 89.204,
+          "score": 0.836
+        },
+        {
+          "word": "photographs",
+          "start": 89.344,
+          "end": 90.005,
+          "score": 0.892
+        },
+        {
+          "word": "oh",
+          "start": 90.425,
+          "end": 90.525,
+          "score": 0.716
+        },
+        {
+          "word": "there",
+          "start": 90.565,
+          "end": 90.705,
+          "score": 0.794
+        },
+        {
+          "word": "are",
+          "start": 90.745,
+          "end": 90.866,
+          "score": 0.625
+        },
+        {
+          "word": "many",
+          "start": 90.886,
+          "end": 91.186,
+          "score": 0.744
+        },
+        {
+          "word": "several",
+          "start": 91.346,
+          "end": 91.686,
+          "score": 0.923
+        },
+        {
+          "word": "advantages",
+          "start": 91.746,
+          "end": 92.167,
+          "score": 0.804
+        },
+        {
+          "word": "of",
+          "start": 92.207,
+          "end": 92.267,
+          "score": 0.986
+        },
+        {
+          "word": "keeping",
+          "start": 92.347,
+          "end": 92.627,
+          "score": 0.805
+        },
+        {
+          "word": "photographs",
+          "start": 92.687,
+          "end": 93.188,
+          "score": 0.918
+        },
+        {
+          "word": "such",
+          "start": 93.508,
+          "end": 93.708,
+          "score": 0.853
+        },
+        {
+          "word": "as",
+          "start": 93.828,
+          "end": 93.948,
+          "score": 0.573
+        },
+        {
+          "word": "photographs",
+          "start": 94.068,
+          "end": 94.549,
+          "score": 0.954
+        },
+        {
+          "word": "helps",
+          "start": 94.569,
+          "end": 94.809,
+          "score": 0.647
+        },
+        {
+          "word": "to",
+          "start": 94.869,
+          "end": 95.129,
+          "score": 0.888
+        },
+        {
+          "word": "like",
+          "start": 95.469,
+          "end": 95.67,
+          "score": 0.674
+        },
+        {
+          "word": "keep",
+          "start": 96.11,
+          "end": 96.35,
+          "score": 0.897
+        },
+        {
+          "word": "a",
+          "start": 96.45,
+          "end": 96.53,
+          "score": 0.776
+        },
+        {
+          "word": "moment",
+          "start": 96.63,
+          "end": 97.071,
+          "score": 0.926
+        },
+        {
+          "word": "in",
+          "start": 97.611,
+          "end": 97.691,
+          "score": 0.944
+        },
+        {
+          "word": "a",
+          "start": 97.771,
+          "end": 97.911,
+          "score": 0.795
+        },
+        {
+          "word": "picture",
+          "start": 98.092,
+          "end": 98.432,
+          "score": 0.943
+        }
+      ],
+      "avg_logprob": -0.093079154258189
+    },
+    {
+      "start": 98.912,
+      "end": 121.577,
+      "text": " in a paper that we can access or like we can see in the future so that we'll remember not to forget that and also that in addition photographs also helps to strengthen our emotional bond because when we look at a photograph a printed photograph with our families it can make a beautiful moment uh without with them so yeah photograph has a really several advantages nice",
+      "words": [
+        {
+          "word": "in",
+          "start": 98.912,
+          "end": 99.012,
+          "score": 0.804
+        },
+        {
+          "word": "a",
+          "start": 99.032,
+          "end": 99.052,
+          "score": 0.972
+        },
+        {
+          "word": "paper",
+          "start": 99.112,
+          "end": 99.472,
+          "score": 0.832
+        },
+        {
+          "word": "that",
+          "start": 99.672,
+          "end": 99.792,
+          "score": 0.984
+        },
+        {
+          "word": "we",
+          "start": 99.832,
+          "end": 100.032,
+          "score": 0.996
+        },
+        {
+          "word": "can",
+          "start": 100.312,
+          "end": 100.572,
+          "score": 0.974
+        },
+        {
+          "word": "access",
+          "start": 100.732,
+          "end": 101.133,
+          "score": 0.759
+        },
+        {
+          "word": "or",
+          "start": 101.353,
+          "end": 101.453,
+          "score": 0.801
+        },
+        {
+          "word": "like",
+          "start": 101.493,
+          "end": 101.653,
+          "score": 0.93
+        },
+        {
+          "word": "we",
+          "start": 101.673,
+          "end": 101.773,
+          "score": 0.996
+        },
+        {
+          "word": "can",
+          "start": 101.813,
+          "end": 101.973,
+          "score": 0.945
+        },
+        {
+          "word": "see",
+          "start": 102.033,
+          "end": 102.253,
+          "score": 0.992
+        },
+        {
+          "word": "in",
+          "start": 102.433,
+          "end": 102.533,
+          "score": 0.883
+        },
+        {
+          "word": "the",
+          "start": 102.573,
+          "end": 102.693,
+          "score": 0.883
+        },
+        {
+          "word": "future",
+          "start": 102.753,
+          "end": 103.093,
+          "score": 0.934
+        },
+        {
+          "word": "so",
+          "start": 103.453,
+          "end": 103.553,
+          "score": 0.992
+        },
+        {
+          "word": "that",
+          "start": 103.593,
+          "end": 103.733,
+          "score": 0.883
+        },
+        {
+          "word": "we'll",
+          "start": 103.773,
+          "end": 104.033,
+          "score": 0.688
+        },
+        {
+          "word": "remember",
+          "start": 104.073,
+          "end": 104.513,
+          "score": 0.866
+        },
+        {
+          "word": "not",
+          "start": 104.613,
+          "end": 104.733,
+          "score": 0.85
+        },
+        {
+          "word": "to",
+          "start": 104.773,
+          "end": 104.833,
+          "score": 0.776
+        },
+        {
+          "word": "forget",
+          "start": 104.893,
+          "end": 105.193,
+          "score": 0.876
+        },
+        {
+          "word": "that",
+          "start": 105.253,
+          "end": 105.473,
+          "score": 0.757
+        },
+        {
+          "word": "and",
+          "start": 106.314,
+          "end": 106.474,
+          "score": 0.434
+        },
+        {
+          "word": "also",
+          "start": 106.574,
+          "end": 106.814,
+          "score": 0.901
+        },
+        {
+          "word": "that",
+          "start": 106.854,
+          "end": 107.054,
+          "score": 0.479
+        },
+        {
+          "word": "in",
+          "start": 107.094,
+          "end": 107.154,
+          "score": 0.98
+        },
+        {
+          "word": "addition",
+          "start": 107.214,
+          "end": 107.614,
+          "score": 0.943
+        },
+        {
+          "word": "photographs",
+          "start": 107.694,
+          "end": 108.154,
+          "score": 0.917
+        },
+        {
+          "word": "also",
+          "start": 108.274,
+          "end": 108.534,
+          "score": 0.9
+        },
+        {
+          "word": "helps",
+          "start": 108.574,
+          "end": 108.794,
+          "score": 0.7
+        },
+        {
+          "word": "to",
+          "start": 108.914,
+          "end": 109.074,
+          "score": 0.78
+        },
+        {
+          "word": "strengthen",
+          "start": 109.094,
+          "end": 109.514,
+          "score": 0.704
+        },
+        {
+          "word": "our",
+          "start": 109.594,
+          "end": 109.694,
+          "score": 0.853
+        },
+        {
+          "word": "emotional",
+          "start": 109.774,
+          "end": 110.154,
+          "score": 0.876
+        },
+        {
+          "word": "bond",
+          "start": 110.194,
+          "end": 110.455,
+          "score": 0.903
+        },
+        {
+          "word": "because",
+          "start": 110.635,
+          "end": 110.895,
+          "score": 0.712
+        },
+        {
+          "word": "when",
+          "start": 110.955,
+          "end": 111.135,
+          "score": 0.912
+        },
+        {
+          "word": "we",
+          "start": 111.195,
+          "end": 111.455,
+          "score": 0.94
+        },
+        {
+          "word": "look",
+          "start": 111.835,
+          "end": 112.035,
+          "score": 0.883
+        },
+        {
+          "word": "at",
+          "start": 112.075,
+          "end": 112.175,
+          "score": 0.717
+        },
+        {
+          "word": "a",
+          "start": 112.195,
+          "end": 112.235,
+          "score": 0.334
+        },
+        {
+          "word": "photograph",
+          "start": 112.295,
+          "end": 112.815,
+          "score": 0.911
+        },
+        {
+          "word": "a",
+          "start": 112.855,
+          "end": 112.915,
+          "score": 0.429
+        },
+        {
+          "word": "printed",
+          "start": 112.975,
+          "end": 113.255,
+          "score": 0.869
+        },
+        {
+          "word": "photograph",
+          "start": 113.295,
+          "end": 113.715,
+          "score": 0.964
+        },
+        {
+          "word": "with",
+          "start": 113.735,
+          "end": 113.855,
+          "score": 0.93
+        },
+        {
+          "word": "our",
+          "start": 113.895,
+          "end": 114.015,
+          "score": 0.852
+        },
+        {
+          "word": "families",
+          "start": 114.055,
+          "end": 114.475,
+          "score": 0.896
+        },
+        {
+          "word": "it",
+          "start": 114.575,
+          "end": 114.635,
+          "score": 0.528
+        },
+        {
+          "word": "can",
+          "start": 114.675,
+          "end": 114.875,
+          "score": 0.8
+        },
+        {
+          "word": "make",
+          "start": 115.296,
+          "end": 115.516,
+          "score": 0.856
+        },
+        {
+          "word": "a",
+          "start": 115.556,
+          "end": 115.576,
+          "score": 0.981
+        },
+        {
+          "word": "beautiful",
+          "start": 115.616,
+          "end": 116.036,
+          "score": 0.93
+        },
+        {
+          "word": "moment",
+          "start": 116.096,
+          "end": 116.456,
+          "score": 0.916
+        },
+        {
+          "word": "uh",
+          "start": 116.856,
+          "end": 116.956,
+          "score": 0.34
+        },
+        {
+          "word": "without",
+          "start": 117.096,
+          "end": 117.476,
+          "score": 0.909
+        },
+        {
+          "word": "with",
+          "start": 117.656,
+          "end": 117.816,
+          "score": 0.761
+        },
+        {
+          "word": "them",
+          "start": 117.836,
+          "end": 118.056,
+          "score": 0.92
+        },
+        {
+          "word": "so",
+          "start": 118.156,
+          "end": 118.296,
+          "score": 0.731
+        },
+        {
+          "word": "yeah",
+          "start": 118.316,
+          "end": 118.596,
+          "score": 0.504
+        },
+        {
+          "word": "photograph",
+          "start": 118.856,
+          "end": 119.316,
+          "score": 0.834
+        },
+        {
+          "word": "has",
+          "start": 119.356,
+          "end": 119.516,
+          "score": 0.956
+        },
+        {
+          "word": "a",
+          "start": 119.777,
+          "end": 119.797,
+          "score": 0.731
+        },
+        {
+          "word": "really",
+          "start": 119.857,
+          "end": 120.117,
+          "score": 0.876
+        },
+        {
+          "word": "several",
+          "start": 120.157,
+          "end": 120.457,
+          "score": 0.903
+        },
+        {
+          "word": "advantages",
+          "start": 120.497,
+          "end": 120.937,
+          "score": 0.725
+        },
+        {
+          "word": "nice",
+          "start": 121.317,
+          "end": 121.577,
+          "score": 0.948
+        }
+      ],
+      "avg_logprob": -0.10287328426327025
+    },
+    {
+      "start": 122.357,
+      "end": 125.438,
+      "text": " Let me ask you the last question for part three of the speaking test.",
+      "words": [
+        {
+          "word": "Let",
+          "start": 122.357,
+          "end": 122.537,
+          "score": 0.818
+        },
+        {
+          "word": "me",
+          "start": 122.557,
+          "end": 122.657,
+          "score": 0.622
+        },
+        {
+          "word": "ask",
+          "start": 122.737,
+          "end": 122.837,
+          "score": 0.653
+        },
+        {
+          "word": "you",
+          "start": 122.877,
+          "end": 122.997,
+          "score": 0.667
+        },
+        {
+          "word": "the",
+          "start": 123.017,
+          "end": 123.117,
+          "score": 0.985
+        },
+        {
+          "word": "last",
+          "start": 123.157,
+          "end": 123.417,
+          "score": 0.9
+        },
+        {
+          "word": "question",
+          "start": 123.477,
+          "end": 123.837,
+          "score": 0.964
+        },
+        {
+          "word": "for",
+          "start": 123.877,
+          "end": 124.018,
+          "score": 0.803
+        },
+        {
+          "word": "part",
+          "start": 124.078,
+          "end": 124.298,
+          "score": 0.72
+        },
+        {
+          "word": "three",
+          "start": 124.318,
+          "end": 124.518,
+          "score": 0.584
+        },
+        {
+          "word": "of",
+          "start": 124.558,
+          "end": 124.618,
+          "score": 0.878
+        },
+        {
+          "word": "the",
+          "start": 124.658,
+          "end": 124.758,
+          "score": 0.873
+        },
+        {
+          "word": "speaking",
+          "start": 124.778,
+          "end": 125.118,
+          "score": 0.893
+        },
+        {
+          "word": "test.",
+          "start": 125.158,
+          "end": 125.438,
+          "score": 0.93
+        }
+      ],
+      "avg_logprob": -0.1237597299946679
+    },
+    {
+      "start": 125.958,
+      "end": 130.119,
+      "text": "How has social media changed the way people use photographs?",
+      "words": [
+        {
+          "word": "How",
+          "start": 125.958,
+          "end": 126.178,
+          "score": 0.981
+        },
+        {
+          "word": "has",
+          "start": 126.258,
+          "end": 126.538,
+          "score": 0.908
+        },
+        {
+          "word": "social",
+          "start": 126.638,
+          "end": 127.038,
+          "score": 0.952
+        },
+        {
+          "word": "media",
+          "start": 127.078,
+          "end": 127.458,
+          "score": 0.95
+        },
+        {
+          "word": "changed",
+          "start": 127.538,
+          "end": 127.939,
+          "score": 0.806
+        },
+        {
+          "word": "the",
+          "start": 128.079,
+          "end": 128.219,
+          "score": 0.947
+        },
+        {
+          "word": "way",
+          "start": 128.299,
+          "end": 128.559,
+          "score": 0.884
+        },
+        {
+          "word": "people",
+          "start": 128.599,
+          "end": 128.979,
+          "score": 0.832
+        },
+        {
+          "word": "use",
+          "start": 129.239,
+          "end": 129.439,
+          "score": 0.771
+        },
+        {
+          "word": "photographs?",
+          "start": 129.519,
+          "end": 130.119,
+          "score": 0.846
+        }
+      ],
+      "avg_logprob": -0.1237597299946679
+    },
+    {
+      "start": 130.619,
+      "end": 144.503,
+      "text": "Oh yeah, social media has changed drastically the way people use photographs because in past when we talk about photographs as all like a way to store the memories but in today's generation we can say that social media has changed the way",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 130.619,
+          "end": 130.739,
+          "score": 0.77
+        },
+        {
+          "word": "yeah,",
+          "start": 130.799,
+          "end": 130.979,
+          "score": 0.534
+        },
+        {
+          "word": "social",
+          "start": 130.999,
+          "end": 131.279,
+          "score": 0.889
+        },
+        {
+          "word": "media",
+          "start": 131.319,
+          "end": 131.559,
+          "score": 0.649
+        },
+        {
+          "word": "has",
+          "start": 131.58,
+          "end": 131.7,
+          "score": 0.915
+        },
+        {
+          "word": "changed",
+          "start": 131.74,
+          "end": 131.96,
+          "score": 0.274
+        },
+        {
+          "word": "drastically",
+          "start": 132.04,
+          "end": 132.6,
+          "score": 0.757
+        },
+        {
+          "word": "the",
+          "start": 132.64,
+          "end": 132.74,
+          "score": 0.838
+        },
+        {
+          "word": "way",
+          "start": 132.76,
+          "end": 132.92,
+          "score": 0.922
+        },
+        {
+          "word": "people",
+          "start": 132.96,
+          "end": 133.22,
+          "score": 0.916
+        },
+        {
+          "word": "use",
+          "start": 133.36,
+          "end": 133.5,
+          "score": 0.774
+        },
+        {
+          "word": "photographs",
+          "start": 133.52,
+          "end": 134.04,
+          "score": 0.865
+        },
+        {
+          "word": "because",
+          "start": 134.52,
+          "end": 134.88,
+          "score": 0.894
+        },
+        {
+          "word": "in",
+          "start": 135.08,
+          "end": 135.2,
+          "score": 0.891
+        },
+        {
+          "word": "past",
+          "start": 135.26,
+          "end": 135.581,
+          "score": 0.966
+        },
+        {
+          "word": "when",
+          "start": 135.981,
+          "end": 136.141,
+          "score": 0.952
+        },
+        {
+          "word": "we",
+          "start": 136.181,
+          "end": 136.301,
+          "score": 0.958
+        },
+        {
+          "word": "talk",
+          "start": 136.361,
+          "end": 136.561,
+          "score": 0.947
+        },
+        {
+          "word": "about",
+          "start": 136.621,
+          "end": 136.881,
+          "score": 0.802
+        },
+        {
+          "word": "photographs",
+          "start": 137.321,
+          "end": 137.801,
+          "score": 0.914
+        },
+        {
+          "word": "as",
+          "start": 137.861,
+          "end": 137.961,
+          "score": 0.8
+        },
+        {
+          "word": "all",
+          "start": 138.101,
+          "end": 138.261,
+          "score": 0.921
+        },
+        {
+          "word": "like",
+          "start": 138.741,
+          "end": 138.961,
+          "score": 0.812
+        },
+        {
+          "word": "a",
+          "start": 139.121,
+          "end": 139.181,
+          "score": 0.867
+        },
+        {
+          "word": "way",
+          "start": 139.242,
+          "end": 139.502,
+          "score": 0.99
+        },
+        {
+          "word": "to",
+          "start": 139.582,
+          "end": 139.722,
+          "score": 0.882
+        },
+        {
+          "word": "store",
+          "start": 139.822,
+          "end": 140.242,
+          "score": 0.907
+        },
+        {
+          "word": "the",
+          "start": 140.302,
+          "end": 140.402,
+          "score": 0.884
+        },
+        {
+          "word": "memories",
+          "start": 140.422,
+          "end": 140.902,
+          "score": 0.831
+        },
+        {
+          "word": "but",
+          "start": 140.982,
+          "end": 141.242,
+          "score": 0.683
+        },
+        {
+          "word": "in",
+          "start": 141.302,
+          "end": 141.362,
+          "score": 0.892
+        },
+        {
+          "word": "today's",
+          "start": 141.402,
+          "end": 141.842,
+          "score": 0.751
+        },
+        {
+          "word": "generation",
+          "start": 141.862,
+          "end": 142.362,
+          "score": 0.432
+        },
+        {
+          "word": "we",
+          "start": 142.382,
+          "end": 142.462,
+          "score": 0.349
+        },
+        {
+          "word": "can",
+          "start": 142.502,
+          "end": 142.662,
+          "score": 0.623
+        },
+        {
+          "word": "say",
+          "start": 142.682,
+          "end": 142.802,
+          "score": 0.944
+        },
+        {
+          "word": "that",
+          "start": 142.822,
+          "end": 142.962,
+          "score": 0.548
+        },
+        {
+          "word": "social",
+          "start": 143.003,
+          "end": 143.303,
+          "score": 0.592
+        },
+        {
+          "word": "media",
+          "start": 143.343,
+          "end": 143.643,
+          "score": 0.866
+        },
+        {
+          "word": "has",
+          "start": 143.683,
+          "end": 143.823,
+          "score": 0.908
+        },
+        {
+          "word": "changed",
+          "start": 143.863,
+          "end": 144.203,
+          "score": 0.56
+        },
+        {
+          "word": "the",
+          "start": 144.223,
+          "end": 144.323,
+          "score": 0.701
+        },
+        {
+          "word": "way",
+          "start": 144.363,
+          "end": 144.503,
+          "score": 0.976
+        }
+      ],
+      "avg_logprob": -0.1237597299946679
+    },
+    {
+      "start": 145.123,
+      "end": 164.251,
+      "text": " for a photograph is being used because it can be also used to share the experience with the world without like going out of our comfort zone we can sit in our place and just share our experiences as a photograph with other peoples okay that's it so that's the end of part three of the speaking test you did a good job thank you so much thank you",
+      "words": [
+        {
+          "word": "for",
+          "start": 145.123,
+          "end": 145.324,
+          "score": 0.91
+        },
+        {
+          "word": "a",
+          "start": 145.344,
+          "end": 145.364,
+          "score": 0.052
+        },
+        {
+          "word": "photograph",
+          "start": 145.404,
+          "end": 145.804,
+          "score": 0.989
+        },
+        {
+          "word": "is",
+          "start": 145.864,
+          "end": 145.945,
+          "score": 0.738
+        },
+        {
+          "word": "being",
+          "start": 145.985,
+          "end": 146.165,
+          "score": 0.775
+        },
+        {
+          "word": "used",
+          "start": 146.285,
+          "end": 146.485,
+          "score": 0.776
+        },
+        {
+          "word": "because",
+          "start": 146.525,
+          "end": 146.766,
+          "score": 0.378
+        },
+        {
+          "word": "it",
+          "start": 146.866,
+          "end": 146.926,
+          "score": 0.992
+        },
+        {
+          "word": "can",
+          "start": 146.986,
+          "end": 147.226,
+          "score": 0.904
+        },
+        {
+          "word": "be",
+          "start": 147.286,
+          "end": 147.407,
+          "score": 0.984
+        },
+        {
+          "word": "also",
+          "start": 147.487,
+          "end": 147.727,
+          "score": 0.985
+        },
+        {
+          "word": "used",
+          "start": 147.867,
+          "end": 148.028,
+          "score": 0.887
+        },
+        {
+          "word": "to",
+          "start": 148.068,
+          "end": 148.168,
+          "score": 0.845
+        },
+        {
+          "word": "share",
+          "start": 148.208,
+          "end": 148.448,
+          "score": 0.677
+        },
+        {
+          "word": "the",
+          "start": 148.488,
+          "end": 148.588,
+          "score": 0.866
+        },
+        {
+          "word": "experience",
+          "start": 148.628,
+          "end": 149.209,
+          "score": 0.861
+        },
+        {
+          "word": "with",
+          "start": 149.249,
+          "end": 149.39,
+          "score": 0.872
+        },
+        {
+          "word": "the",
+          "start": 149.41,
+          "end": 149.47,
+          "score": 0.694
+        },
+        {
+          "word": "world",
+          "start": 149.51,
+          "end": 149.77,
+          "score": 0.799
+        },
+        {
+          "word": "without",
+          "start": 150.111,
+          "end": 150.511,
+          "score": 0.773
+        },
+        {
+          "word": "like",
+          "start": 150.711,
+          "end": 150.912,
+          "score": 0.898
+        },
+        {
+          "word": "going",
+          "start": 151.332,
+          "end": 151.653,
+          "score": 0.785
+        },
+        {
+          "word": "out",
+          "start": 151.873,
+          "end": 151.993,
+          "score": 0.853
+        },
+        {
+          "word": "of",
+          "start": 152.053,
+          "end": 152.093,
+          "score": 0.994
+        },
+        {
+          "word": "our",
+          "start": 152.174,
+          "end": 152.274,
+          "score": 0.879
+        },
+        {
+          "word": "comfort",
+          "start": 152.334,
+          "end": 152.674,
+          "score": 0.986
+        },
+        {
+          "word": "zone",
+          "start": 152.694,
+          "end": 152.915,
+          "score": 0.615
+        },
+        {
+          "word": "we",
+          "start": 152.955,
+          "end": 153.035,
+          "score": 0.982
+        },
+        {
+          "word": "can",
+          "start": 153.075,
+          "end": 153.215,
+          "score": 0.981
+        },
+        {
+          "word": "sit",
+          "start": 153.255,
+          "end": 153.435,
+          "score": 0.961
+        },
+        {
+          "word": "in",
+          "start": 153.475,
+          "end": 153.556,
+          "score": 0.98
+        },
+        {
+          "word": "our",
+          "start": 153.656,
+          "end": 153.796,
+          "score": 0.894
+        },
+        {
+          "word": "place",
+          "start": 153.876,
+          "end": 154.156,
+          "score": 0.84
+        },
+        {
+          "word": "and",
+          "start": 154.297,
+          "end": 154.397,
+          "score": 0.841
+        },
+        {
+          "word": "just",
+          "start": 154.417,
+          "end": 154.557,
+          "score": 0.294
+        },
+        {
+          "word": "share",
+          "start": 154.597,
+          "end": 154.797,
+          "score": 0.626
+        },
+        {
+          "word": "our",
+          "start": 154.878,
+          "end": 154.998,
+          "score": 0.879
+        },
+        {
+          "word": "experiences",
+          "start": 155.038,
+          "end": 155.538,
+          "score": 0.876
+        },
+        {
+          "word": "as",
+          "start": 155.619,
+          "end": 155.719,
+          "score": 0.808
+        },
+        {
+          "word": "a",
+          "start": 155.759,
+          "end": 155.779,
+          "score": 0.96
+        },
+        {
+          "word": "photograph",
+          "start": 155.839,
+          "end": 156.28,
+          "score": 0.873
+        },
+        {
+          "word": "with",
+          "start": 156.32,
+          "end": 156.44,
+          "score": 0.985
+        },
+        {
+          "word": "other",
+          "start": 156.52,
+          "end": 156.7,
+          "score": 0.921
+        },
+        {
+          "word": "peoples",
+          "start": 156.74,
+          "end": 157.081,
+          "score": 0.792
+        },
+        {
+          "word": "okay",
+          "start": 157.922,
+          "end": 158.202,
+          "score": 0.578
+        },
+        {
+          "word": "that's",
+          "start": 158.222,
+          "end": 158.463,
+          "score": 0.825
+        },
+        {
+          "word": "it",
+          "start": 158.583,
+          "end": 158.683,
+          "score": 0.91
+        },
+        {
+          "word": "so",
+          "start": 159.144,
+          "end": 159.444,
+          "score": 0.765
+        },
+        {
+          "word": "that's",
+          "start": 159.524,
+          "end": 159.805,
+          "score": 0.765
+        },
+        {
+          "word": "the",
+          "start": 159.845,
+          "end": 159.945,
+          "score": 0.879
+        },
+        {
+          "word": "end",
+          "start": 160.025,
+          "end": 160.185,
+          "score": 0.751
+        },
+        {
+          "word": "of",
+          "start": 160.225,
+          "end": 160.265,
+          "score": 0.785
+        },
+        {
+          "word": "part",
+          "start": 160.426,
+          "end": 160.626,
+          "score": 0.52
+        },
+        {
+          "word": "three",
+          "start": 160.706,
+          "end": 161.006,
+          "score": 0.938
+        },
+        {
+          "word": "of",
+          "start": 161.046,
+          "end": 161.127,
+          "score": 0.718
+        },
+        {
+          "word": "the",
+          "start": 161.147,
+          "end": 161.247,
+          "score": 0.841
+        },
+        {
+          "word": "speaking",
+          "start": 161.287,
+          "end": 161.647,
+          "score": 0.988
+        },
+        {
+          "word": "test",
+          "start": 161.707,
+          "end": 161.928,
+          "score": 0.844
+        },
+        {
+          "word": "you",
+          "start": 161.968,
+          "end": 162.108,
+          "score": 0.915
+        },
+        {
+          "word": "did",
+          "start": 162.128,
+          "end": 162.288,
+          "score": 0.877
+        },
+        {
+          "word": "a",
+          "start": 162.328,
+          "end": 162.368,
+          "score": 0.601
+        },
+        {
+          "word": "good",
+          "start": 162.408,
+          "end": 162.609,
+          "score": 0.961
+        },
+        {
+          "word": "job",
+          "start": 162.689,
+          "end": 163.009,
+          "score": 0.836
+        },
+        {
+          "word": "thank",
+          "start": 163.089,
+          "end": 163.25,
+          "score": 0.648
+        },
+        {
+          "word": "you",
+          "start": 163.27,
+          "end": 163.37,
+          "score": 0.923
+        },
+        {
+          "word": "so",
+          "start": 163.41,
+          "end": 163.55,
+          "score": 0.985
+        },
+        {
+          "word": "much",
+          "start": 163.61,
+          "end": 163.811,
+          "score": 0.914
+        },
+        {
+          "word": "thank",
+          "start": 163.951,
+          "end": 164.131,
+          "score": 0.853
+        },
+        {
+          "word": "you",
+          "start": 164.171,
+          "end": 164.251,
+          "score": 0.8
+        }
+      ],
+      "avg_logprob": -0.06610833429214028
+    }
+  ]
+}
