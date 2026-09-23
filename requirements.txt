@@ -1,3 +1,5 @@
 whisperx
+# ONNX Runtime 1.23.2 provides Python 3.10 wheels.
+onnxruntime==1.23.2
 pandas
 numpy

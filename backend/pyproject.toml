@@ -1,0 +1,20 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Jenish Adhikari", email = "adhicary.jen@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi[standard]>=0.141.1",
+    "numpy>=2.2.6",
+    "onnxruntime==1.23.2",
+    "pandas>=2.3.3",
+    "uvicorn[standard]>=0.53.0",
+    "whisperx>=3.8.6",
+]
+
+[tool.fastapi]
+entrypoint = "app.main:app"

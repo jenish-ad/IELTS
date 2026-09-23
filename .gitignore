@@ -1,2 +1,4 @@
 venv/
-.agents/
+compose.yaml
+.dockerignore
+DockerFile
