@@ -16,11 +16,18 @@ Open a terminal in the project root.
 
 ```powershell
 cd backend
-uv sync
-cd ..
+uv sync --python 3.10
+uv run uvicorn app.main:app
 ```
 
-`uv sync` installs the Python dependencies from `pyproject.toml` and `uv.lock`. You do not need to create or activate a virtual environment manually.
+From `backend`, run an assessment on one candidate answer.
+
+```powershell
+uv run python -m app.pipeline.runner ../interview.mp3
+```
+
+Assessments save to the project's `output/` directory by default. Pass `--output` to choose another file.
+Models download on first use and cache in `backend/model_artifacts/`. Set `IELTS_MODEL_ARTIFACTS_DIR` to override it.
 
 ### Frontend
 

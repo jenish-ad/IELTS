@@ -1,6 +1,8 @@
 import math
 import string
 
+from ..schemas.analysis import FluencyAnalysis, Transcription
+
 # Pause thresholds are in seconds.
 MINIMUM_PAUSE = 0.25
 MEDIUM_PAUSE = 0.50
@@ -151,37 +153,33 @@ def calculate_fluency_features(
     }
 
 
-def extract_words(segments: list) -> list[dict]:
-    """Return aligned word timings, durations, and pauses in seconds."""
-    aligned_words = []
-    for segment in segments:
-        for word in segment.get("words", []):
-            if word.get("start") is not None and word.get("end") is not None:
-                aligned_words.append(word)
-    aligned_words.sort(key=lambda word: float(word["start"]))
+def assess_fluency(transcription: Transcription) -> FluencyAnalysis:
+    """Measure fluency when transcription has usable aligned word timings."""
+    if not transcription.get("alignment_completed"):
+        return {
+            "status": "unavailable",
+            "metrics": None,
+            "warnings": [
+                "Fluency could not be measured because word alignment did not complete."
+            ],
+        }
 
-    words = []
-    previous_end = None
+    words = transcription.get("words") or []
+    metrics = calculate_fluency_features(words)
+    if metrics["word_count"] == 0:
+        return {
+            "status": "unavailable",
+            "metrics": None,
+            "warnings": [
+                "Fluency could not be measured because no usable word timings were found."
+            ],
+        }
 
-    for word in aligned_words:
-        start = float(word["start"])
-        end = float(word["end"])
-
-        pause = 0.0 if previous_end is None else max(0.0, start - previous_end)
-
-        score = word.get("score")
-
-        words.append(
-            {
-                "word": word.get("word", "").strip(),
-                "start": round(start, 3),
-                "end": round(end, 3),
-                "duration": round(max(0.0, end - start), 3),
-                "score": float(score) if score is not None else None,
-                "pause_before": round(pause, 3),
-            }
-        )
-
-        previous_end = end if previous_end is None else max(previous_end, end)
-
-    return words
+    return {
+        "status": "available",
+        "metrics": metrics,
+        "warnings": [
+            "Filler counts only include fillers preserved in the transcript.",
+            "Metrics cover all speakers in the recording; use one candidate answer per assessment.",
+        ],
+    }

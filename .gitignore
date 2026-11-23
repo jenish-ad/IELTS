@@ -62,8 +62,9 @@ docker-compose.*.yaml
 docker-compose.*.yml
 
 # Local recordings, generated transcripts, and downloaded model caches
-/input/
-/output/
+input/
+/interview.mp3
+output/
 .cache/
 
 # Editor and operating system files
@@ -77,4 +78,6 @@ Thumbs.db
 Desktop.ini
 
 demo/
-dataset/
+
+dataset
+/backend/model_artifacts/

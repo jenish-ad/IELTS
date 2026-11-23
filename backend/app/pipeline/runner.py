@@ -1,35 +1,32 @@
 from pathlib import Path
 
-from ..services.fluency import assess_fluency
+from ..config import PROJECT_DIR
+from ..schemas.speaking_result import AssessmentResult
+from ..services.storage import save_result
+from .fluency import assess_fluency
 
 
-def assess_speech(input_path: str | Path) -> dict:
+def assess_speech(input_path: str | Path) -> AssessmentResult:
     """Transcribe a recording and calculate its fluency measurements.
 
     Audio and transcription errors propagate to the caller. Alignment failures
     still return the transcript, with fluency marked as unavailable.
     """
     # Load speech dependencies only when processing audio, not on module import.
-    from ..services.transcription import transcribe_audio
+    from ..model_loaders.whisperx import transcribe_audio
 
     transcription = transcribe_audio(input_path)
     fluency = assess_fluency(transcription)
-
     return {
         "transcription": transcription,
-        "fluency": {
-            "status": fluency["status"],
-            "metrics": fluency["metrics"],
-        },
+        "fluency": {"status": fluency["status"], "metrics": fluency["metrics"]},
         "warnings": fluency["warnings"],
     }
 
 
 def main():
     import argparse
-    import json
 
-    project_dir = Path(__file__).resolve().parents[3]
     parser = argparse.ArgumentParser(
         description="Transcribe audio and measure fluency."
     )
@@ -41,13 +38,9 @@ def main():
 
     result = assess_speech(args.audio)
     output_path = (
-        args.output or project_dir / "output" / f"{args.audio.stem}_assessment.json"
+        args.output or PROJECT_DIR / "output" / f"{args.audio.stem}_assessment.json"
     )
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(
-        json.dumps(result, indent=2, ensure_ascii=False, allow_nan=False) + "\n",
-        encoding="utf-8",
-    )
+    save_result(output_path, result)
     print(f"Assessment saved to: {output_path.resolve()}")
 
 
