@@ -76,3 +76,15 @@ npm run dev
 
 Open http://localhost:3000/practice/speaking.
 The speaking button is not connected to recording or assessment yet.
+
+## Qwen grammar and feedback
+
+The backend exposes `POST /api/assessments/text`. Send JSON containing `question`
+and `answer`; the response includes corrected text, grammar corrections, concise
+IELTS feedback, and text-only estimated bands. It deliberately does not estimate
+pronunciation or fluency from text.
+
+Qwen runs locally and is loaded on the first request. Configure `QWEN_MODEL_ID`
+(default `Qwen/Qwen2.5-3B-Instruct`), `QWEN_DEVICE` (default `auto`), and
+`QWEN_MAX_NEW_TOKENS` before starting the API. Run `uv sync` after changing
+dependencies. Set `QWEN_ENABLED=false` to disable model calls safely.
